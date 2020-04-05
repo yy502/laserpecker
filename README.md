@@ -1,27 +1,37 @@
 [中文测评点此处](README_CN.md)
 
 
-# Laserpecker L1 & L1 Pro Review
+# LaserPecker L1 & L1 Pro Review
 I am a happy owner of both LaserPecker L1 and L1 Pro. Here I share some of my thoughts and uses of them. I'll refer to L1 Pro as Pro for short in the rest of the artical.
 
 
 # LaserPecker
-LaserPecker is brand of affordable and portable cunsumer level laser engravers. So far they have released their first generation laser engraveers (a standard and a Pro version). The company will release more models with more powerful capabilities in 2020 and future.
+LaserPecker is brand of affordable and portable cunsumer level laser engravers. So far they have released their first generation laser engraveers (L1 and L1 Pro). The company will release more models with more powerful capabilities in 2020 and the near future.
 
-For more details, visit their official [English site](https://www.laserpecker.net/) or [Chinese site](http://www.laserpecker.cn/). 
+For more details, visit their official [English site](https://www.laserpecker.net/) or [Chinese site](http://www.laserpecker.cn/).
 
 
 # L1 vs L1 Pro Comparison
 
 ## The Look
 
-![](images/L1_vs_Pro.jpg)
+![](images/L1_vs_Pro_EN.jpg)
 
-Pro Standard kit vs Professional kit
-![](images/Pro_kits.jpg)
 
-## Specs
+## Key Specifications
 
+|  | L1 | L1 Pro |
+| ------ | ------ | ------ |
+| Laser | 450nm Blue, 1600mW | 405nm Blue-Violet, 500mW |
+| Pixel Size | 0.3mm (or smaller\*)| 0.15mm |
+| Engrave Range|100mm x 100mm (200m x 140mm\**)| 100mm x 100mm (106mm x 106mm\*\*\*)|
+
+
+\* Can be improved with an easy modification, but engraving range will reduce as a trade-off. Read on.
+
+\*\* With Gcode. Read on.
+
+\*\*\* With Gcode, but the improvement is so small that it's not worth the trouble.
 
 ## Accessories
 
@@ -55,6 +65,10 @@ Pro Standard kit vs Professional kit
 
 # Pro
 
+## Unpacking
+
+
+
 ## Power Consumption & Heat Dissipation
 
 ## Accuracy
@@ -74,9 +88,6 @@ Pro Standard kit vs Professional kit
 ### Photosensitive Stamp
 
 ### Plastic
-
-## Kick-Ass Mod with Magnifier
-
 
 # Automatic Stand
 
