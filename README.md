@@ -15,14 +15,14 @@ For more details, visit their official [English site](https://www.laserpecker.ne
 
 ## The Look
 
-![](images/L1_vs_Pro_EN.jpg)
+![](images/L1_vs_Pro.jpg)
 
 
 ## Key Specifications
 
 |  | L1 | L1 Pro |
 | ------ | ------ | ------ |
-| Laser | 450nm Blue, 1600mW | 405nm Blue-Violet, 500mW |
+| Laser | 450nm Blue, 1600mW | 405nm Blue-Violet, 500mW (equivalent to 1500mW Blue laser) |
 | Pixel Size | 0.3mm (or smaller\*)| 0.15mm |
 | Engrave Range|100mm x 100mm (200m x 140mm\**)| 100mm x 100mm (106mm x 106mm\*\*\*)|
 
@@ -33,41 +33,38 @@ For more details, visit their official [English site](https://www.laserpecker.ne
 
 \*\*\* With Gcode, but the improvement is so small that it's not worth the trouble.
 
-## Accessories
-
 
 # L1
 
-## Power Consumption & Heat Dissipation
-
-## Accuracy
-
-## Speed & Consiguration
-
-## Gcode Manipution
-
-### Grayscale & Cutting
-
-### Oversize Engraving
-
-## Woking with Different Materials
-
-### Coloured Paper
-
-### Felt Paper
-
-### Photosensitive Stamp
-
-### Plastic
-
-## Kick-Ass Mod with Magnifier
-
+To be updated...
 
 # Pro
 
-## Unpacking
+## Unpacking Pro Deluxe Edition
+
+![](images/up01.jpg)
+
+![](images/up02.jpg)
+
+![](images/up03.jpg)
+
+![](images/up04.jpg)
+
+![](images/up05.jpg)
+
+![](images/up06.jpg)
+
+![](images/up07.jpg)
+
+![](images/up08.jpg)
+
+![](images/up09.jpg)
+
+![](images/up10.jpg)
 
 
+
+## Accessories
 
 ## Power Consumption & Heat Dissipation
 
