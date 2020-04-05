@@ -43,48 +43,84 @@ To be updated...
 ## Unpacking Pro Deluxe Edition
 
 ![](images/up01.jpg)
-
 ![](images/up02.jpg)
-
 ![](images/up03.jpg)
-
 ![](images/up04.jpg)
-
 ![](images/up05.jpg)
-
 ![](images/up06.jpg)
-
 ![](images/up07.jpg)
-
 ![](images/up08.jpg)
-
 ![](images/up09.jpg)
-
 ![](images/up10.jpg)
 
+*What came in the Deluxe Edition*:
+* Laser engraver
+* USB power adapter (5V 2A)
+* A pair of protective Goggles
+* Engraving material pack
+* A 20cm ruler
+* A black whiteboard marker
+* A cutting mat
+* USB Cables (1 long, 1 short)
+* A small foldable tripod
+* Automatic stand
+* 4 pieces of magnetic protective shields
+* A hard carry case
 
+## Control
 
-## Accessories
+Controlling the engraver is done via LaserPecker App and bluetooth. I do wish there's a desktop (Linux particularly) client or API available, as I'm a big fan of automation via scripting.
 
 ## Power Consumption & Heat Dissipation
 
-## Accuracy
+## Speed & Configuration
 
-## Speed & Consiguration
+## Accuracy Test
 
-## Gcode Manipution
+## Manipulation via Gcode
 
-### Grayscale & Cutting
+### Gray Scale & Cutting
 
-## Woking with Different Materials
+## Working with Different Materials
+
+### Wood
+
+### Cardboard
+
+### Plastic
+
+### Fabric
 
 ### Coloured Paper
 
 ### Felt Paper
+I have cut these for my son to play with. I used (80,60)x2 for a clean cut that's reasonably easy to remove. Occasionally, I had to use utility knife to cut part of the shape off.
+
+![](images/fp01.jpg)
+![](images/fp02.jpg)
+![](images/fp03.jpg)
+![](images/fp04.jpg)
+![](images/fp05.jpg)
+![](images/fp06.jpg)
+![](images/fp07.jpg)
+![](images/fp08.jpg)
+![](images/fp09.jpg)
+![](images/fp10.jpg)
+![](images/fp11.jpg)
+![](images/fp12.jpg)
+![](images/fp13.jpg)
+![](images/fp14.jpg)
+![](images/fp15.jpg)
+![](images/fp16.jpg)
+![](images/fp17.jpg)
+![](images/fp18.jpg)
+![](images/fp19.jpg)
+![](images/fp20.jpg)
+![](images/fp21.jpg)
+
 
 ### Photosensitive Stamp
 
-### Plastic
 
 # Automatic Stand
 
