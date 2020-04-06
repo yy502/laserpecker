@@ -73,6 +73,13 @@ Controlling the engraver is done via LaserPecker App and bluetooth over your sma
 
 Don't be put off by the low rating of the App in Play Store or App Store. It isn't perfect, but it's improving and updating frequently.
 
+There are 5 modes for image processing:
+1) **Pencil**: Converts image to pencil sketch style via edge detection.
+2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting.
+3) **Bin**: Binary, i.e. black & white mode. It converts your image to black and white for engraving.  
+4) **Gray**: Converts your image to gray scale. However, the engraving results may not be as good as you expect. Material is very important. MDF boards are very good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved.
+5) **Seal**: Inverts your desired image/pattern for making stamps.
+
 ## Power Consumption & Heat Dissipation
 
 ## Speed & Configuration
