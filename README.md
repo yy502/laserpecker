@@ -42,7 +42,7 @@ To be updated...
 
 ## Unpacking Pro Deluxe Edition
 
-<img src="images/up01.jpg" width="33%"><img src="images/up02.jpg" width="33%"><img src="images/up03.jpg" width="33%"><img src="images/up04.jpg" width="33%"><img src="images/up05.jpg" width="33%"><img src="images/up06.jpg" width="33%"><img src="images/up07.jpg" width="33%"><img src="images/up08.jpg" width="33%"><img src="images/up09.jpg" width="33%"><img src="images/up10.jpg" width="33%">
+<img src="images/up01.jpg" height="200px"><img src="images/up02.jpg" height="200px"><img src="images/up03.jpg" height="200px"><img src="images/up04.jpg" height="200px"><img src="images/up05.jpg" height="200px"><img src="images/up06.jpg" height="200px"><img src="images/up07.jpg" height="200px"><img src="images/up08.jpg" height="200px"><img src="images/up09.jpg" height="200px"><img src="images/up10.jpg" height="200px">
 
 **What came in the Deluxe Edition**:
 * Laser engraver
@@ -97,7 +97,7 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 
 **Tip**: If the first go leaves an uneven result. Do not touch your material and do a 2nd burn over it with the same or higher setting.
 
-<img src="images/w01.jpg" width="40%"><img src="images/w02.jpg" width="20%">
+<img src="images/w01.jpg" height="200px"><img src="images/w02.jpg" height="200px">
 
 ### Cardboard
 
@@ -108,10 +108,10 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 ### Coloured Paper
 
 
-### PCB
+### PCB (L1 vs L1 Pro)
 PCB is easy to engrave. Here's a comparison of L1's and Pro's result. After the not-so-successful result of L1 at the bottom of my USB power meter (forgot about the setting), I tried my Pro on the top-left for the same texts with (30,30)x2 setting, and it looks really good. Mainly due to Pro's improved resolution.
 
-<img src="images/pcb01.jpg" width="25%">
+<img src="images/pcb01.jpg" height="300px">
 
 
 ### PVC Sticker
@@ -119,13 +119,15 @@ Firstly, use Gcode for cutting. Secondly, cutting PVC or paper stickers will hav
 
 Here I used (60,50)x2. YMMV.
 
-<img src="images/st01.jpg" width="33%"><img src="images/st02.jpg" width="33%"><img src="images/st03.jpg" width="33%"><img src="images/st04.jpg" width="33%">
+<img src="images/st01.jpg" height="200px"><img src="images/st02.jpg" height="200px">
+
+<img src="images/st03.jpg" height="200px"><img src="images/st04.jpg" height="200px">
 
 
 ### Felt Paper
 I have cut these for my son to play with. Instead of (100,80), I used (80,60)x2 in Gcode mode for a clean cut. Occasionally, I had to use utility knife to cut part of the shape off.
 
-<img src="images/fp01.jpg" width="33%"><img src="images/fp02.jpg" width="33%"><img src="images/fp03.jpg" width="33%"><img src="images/fp04.jpg" width="33%"><img src="images/fp05.jpg" width="33%"><img src="images/fp06.jpg" width="33%"><img src="images/fp07.jpg" width="33%"><img src="images/fp08.jpg" width="33%"><img src="images/fp09.jpg" width="33%"><img src="images/fp10.jpg" width="33%"><img src="images/fp11.jpg" width="33%"><img src="images/fp12.jpg" width="33%"><img src="images/fp13.jpg" width="33%"><img src="images/fp14.jpg" width="33%"><img src="images/fp15.jpg" width="33%"><img src="images/fp16.jpg" width="33%"><img src="images/fp17.jpg" width="33%"><img src="images/fp18.jpg" width="33%"><img src="images/fp19.jpg" width="33%"><img src="images/fp20.jpg" width="33%"><img src="images/fp21.jpg" width="33%">
+<img src="images/fp01.jpg" height="200px"><img src="images/fp02.jpg" height="200px"><img src="images/fp03.jpg" height="200px"><img src="images/fp04.jpg" height="200px"><img src="images/fp05.jpg" height="200px"><img src="images/fp06.jpg" height="200px"><img src="images/fp07.jpg" height="200px"><img src="images/fp08.jpg" height="200px"><img src="images/fp09.jpg" height="200px"><img src="images/fp10.jpg" height="200px"><img src="images/fp11.jpg" height="200px"><img src="images/fp12.jpg" height="200px"><img src="images/fp13.jpg" height="200px"><img src="images/fp14.jpg" height="200px"><img src="images/fp15.jpg" height="200px"><img src="images/fp16.jpg" height="200px"><img src="images/fp17.jpg" height="200px"><img src="images/fp18.jpg" height="200px"><img src="images/fp19.jpg" height="200px"><img src="images/fp20.jpg" height="200px"><img src="images/fp21.jpg" height="200px">
 
 
 ### Photosensitive Stamp
@@ -136,19 +138,19 @@ Here are two styles of stamps that I made. In Chinese, these are called Yin and 
 
 **Stamp 1: Yin Engraving** (5,75)
 
-<img src="images/ps21.jpg" width="25%"><img src="images/ps22.jpg" width="25%"><img src="images/ps23.jpg" width="25%"><img src="images/ps24.jpg" width="25%">
+<img src="images/ps21.jpg" height="150px"><img src="images/ps22.jpg" height="150px"><img src="images/ps23.jpg" height="150px"><img src="images/ps24.jpg" height="150px">
 
 The design on the plastic cover with (30,30).
 
-<img src="images/ps25.jpg" width="25%">
+<img src="images/ps25.jpg" height="150px">
 
 **Stamp 2: Yang Engraving** (5,75)
 
-<img src="images/ps11.jpg" width="25%"><img src="images/ps12.jpg" width="25%"><img src="images/ps13.jpg" width="25%"><img src="images/ps14.jpg" width="25%">
+<img src="images/ps11.jpg" height="150px"><img src="images/ps12.jpg" height="150px"><img src="images/ps13.jpg" height="150px"><img src="images/ps14.jpg" height="150px">
 
 The design on the plastic cover with (30,30).
 
-<img src="images/ps15.jpg" width="25%">
+<img src="images/ps15.jpg" height="150px">
 
 
 
