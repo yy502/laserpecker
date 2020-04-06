@@ -41,9 +41,6 @@ To be updated...
 # Pro
 
 ## Unpacking Pro Deluxe Edition
-
-<img src="images/up01.jpg" height="200px"><img src="images/up02.jpg" height="200px"><img src="images/up03.jpg" height="200px"><img src="images/up04.jpg" height="200px"><img src="images/up05.jpg" height="200px"><img src="images/up06.jpg" height="200px"><img src="images/up07.jpg" height="200px"><img src="images/up08.jpg" height="200px"><img src="images/up09.jpg" height="200px"><img src="images/up10.jpg" height="200px">
-
 **What came in the Deluxe Edition**:
 * Laser engraver
 * USB power adapter (5V2A)
@@ -57,6 +54,15 @@ To be updated...
 * Automatic stand
 * 4 pieces of magnetic protective shields
 * A hard carry case
+
+<img src="images/up01.jpg" height="200px"><img src="images/up02.jpg" height="200px"><img src="images/up03.jpg" height="200px">
+
+<img src="images/up04.jpg" height="200px"><img src="images/up05.jpg" height="200px">
+
+<img src="images/up06.jpg" height="200px"><img src="images/up07.jpg" height="200px"><img src="images/up08.jpg" height="200px">
+
+<img src="images/up09.jpg" height="200px"><img src="images/up10.jpg" height="200px">
+
 
 ## LaserPecker App
 
