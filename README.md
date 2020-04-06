@@ -133,7 +133,7 @@ Here I used (60,50)x2. YMMV.
 ### Felt Paper
 I have cut these for my son to play with. Instead of (100,80), I used (80,60)x2 in Gcode mode for a clean cut. Occasionally, I had to use utility knife to cut part of the shape off.
 
-<img src="images/fp01.jpg" height="200px"><img src="images/fp02.jpg" height="200px"><img src="images/fp03.jpg" height="200px"><img src="images/fp04.jpg" height="200px"><img src="images/fp05.jpg" height="200px"><img src="images/fp06.jpg" height="200px"><img src="images/fp07.jpg" height="200px"><img src="images/fp08.jpg" height="200px"><img src="images/fp09.jpg" height="200px"><img src="images/fp10.jpg" height="200px"><img src="images/fp11.jpg" height="200px"><img src="images/fp12.jpg" height="200px"><img src="images/fp13.jpg" height="200px"><img src="images/fp14.jpg" height="200px"><img src="images/fp15.jpg" height="200px"><img src="images/fp16.jpg" height="200px"><img src="images/fp17.jpg" height="200px"><img src="images/fp18.jpg" height="200px"><img src="images/fp19.jpg" height="200px"><img src="images/fp20.jpg" height="200px"><img src="images/fp21.jpg" height="200px">
+<img src="images/fp01.jpg" height="160px"><img src="images/fp02.jpg" height="160px"><img src="images/fp03.jpg" height="160px"><img src="images/fp04.jpg" height="160px"><img src="images/fp05.jpg" height="160px"><img src="images/fp06.jpg" height="160px"><img src="images/fp07.jpg" height="160px"><img src="images/fp08.jpg" height="160px"><img src="images/fp09.jpg" height="160px"><img src="images/fp10.jpg" height="160px"><img src="images/fp11.jpg" height="160px"><img src="images/fp12.jpg" height="160px"><img src="images/fp13.jpg" height="160px"><img src="images/fp14.jpg" height="160px"><img src="images/fp15.jpg" height="160px"><img src="images/fp16.jpg" height="160px"><img src="images/fp17.jpg" height="160px"><img src="images/fp18.jpg" height="160px"><img src="images/fp19.jpg" height="160px"><img src="images/fp20.jpg" height="160px"><img src="images/fp21.jpg" height="160px">
 
 
 ### Photosensitive Stamp
@@ -144,15 +144,15 @@ Here are two styles of stamps that I made. In Chinese, these are called Yin and 
 
 **Stamp 1: Yin Engraving** (5,75)
 
-<img src="images/ps21.jpg" height="150px"><img src="images/ps22.jpg" height="150px"><img src="images/ps23.jpg" height="150px"><img src="images/ps24.jpg" height="150px">
+<img src="images/ps21.jpg" height="160px"><img src="images/ps22.jpg" height="160px"><img src="images/ps23.jpg" height="160px"><img src="images/ps24.jpg" height="160px">
 
 The design on the plastic cover with (30,30).
 
-<img src="images/ps25.jpg" height="150px">
+<img src="images/ps25.jpg" height="160px">
 
 **Stamp 2: Yang Engraving** (5,75)
 
-<img src="images/ps11.jpg" height="150px"><img src="images/ps12.jpg" height="150px"><img src="images/ps13.jpg" height="150px"><img src="images/ps14.jpg" height="150px">
+<img src="images/ps11.jpg" height="160px"><img src="images/ps12.jpg" height="160px"><img src="images/ps13.jpg" height="160px"><img src="images/ps14.jpg" height="160px">
 
 The design on the plastic cover with (30,30).
 
