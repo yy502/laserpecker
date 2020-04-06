@@ -1,6 +1,5 @@
 [中文测评点此处](README_CN.md)
 
-
 # LaserPecker L1 & L1 Pro Review
 I am a happy owner of both LaserPecker L1 and L1 Pro. Here I share some of my thoughts and uses of them. I may refer to L1 Pro as Pro for short in the rest of the article.
 
@@ -52,7 +51,7 @@ In short, per engraving job still has to follow the *no larger than 100mm x 100m
 
 Here's a peak of the result. This was done with L1 at 20cm distance, without moving the engraver or the paper.
 
-<img src="images/engraving_over_200mm_x_140mm.jpg" width="800px">
+<img src="images/engraving_over_200mm_x_140mm.jpg" width="600px">
 
 Video to prove it: [engraving_over_200mm_x_140mm.mp4](images/engraving_over_200mm_x_140mm.mp4)
 
@@ -94,7 +93,7 @@ To be updated...
 
 ## LaserPecker App
 
-Controlling the engraver is done via LaserPecker App and bluetooth over your smartphone. I do wish there's a desktop (Linux particularly) client or API available, as I'm a big fan of automation via scripting.
+Controlling the engraver is done via LaserPecker App in your smartphone over Bluetooth. I do wish there's a desktop (Linux particularly) client or API available, as I'm a big fan of automation via scripting.
 
 Don't be put off by the low rating of the App in Play Store or App Store. It isn't perfect, but it's improving and updating frequently.
 
@@ -104,6 +103,9 @@ There are 5 modes for image processing:
 3) **Bin**: Binary, i.e. black & white mode. It converts your image to black and white for engraving.  
 4) **Gray**: Converts your image to gray scale. However, the engraving results may not be as good as you expect. Material is very important. MDF boards are very good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved.
 5) **Seal**: Inverts your desired image/pattern for making stamps.
+
+Known bug (Android): if the App has connected to the engraver, and you hit Back button a few times to get back to the initial page before choosing an engraver to connect to; and then try to search for the engraver, the App won't find any. You will need to force kill the App, and the relaunch it to start over. A little annoying, but it's not the end of the world.
+
 
 ## Power Consumption & Heat Dissipation
 
@@ -196,6 +198,8 @@ The design on the plastic cover with (30,30).
 The automatic stand was released with the Pro model. It is compatible with L1 and can be purchased separately.
 
 The stand folds up and fits into the carry case nicely. It does not have built-in battery. You will need one USB C cable to feed power to it; and it relays the power to the engraver via another short USB C cable. Both cables come along with the stand.
+
+I have put a carbon-fibre sticker onto the base, and engraved a 100mm x 100mm grid over it to assist alignment of target objects. The grid is done via Gcode. I actually has 3 designs of the grids in Gcode files which can be found here: [yy502/inkscape-laserpecker/](https://github.com/yy502/inkscape-laserpecker/tree/master/misc).
 
 <img src="images/es01.jpg" height="200px">
 <img src="images/es02.jpg" height="200px">
