@@ -117,14 +117,26 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 
 ### Coloured Paper
 
-### PCB
 
+### PCB
 PCB is easy to engrave. Here's a comparison of L1's and Pro's result. After the not-so-successful result of L1 at the bottom of my USB power meter (forgot about the setting), I tried my Pro on the top-left for the same texts with (30,30)x2 setting, and it looks really good. Mainly due to Pro's improved resolution.
 
 ![](images/pcb01.jpg)
 
+
+### PVC Sticker
+Firstly, use Gcode for cutting. Secondly, cutting PVC or paper stickers will have more or less burnt edges. Instead of cutting with high power once, e.g. (100,100), using lower power setting to cut multiple times will reducing burning.
+
+Here I used (60,50)x2. YMMV.
+
+![](images/st01.jpg)
+![](images/st02.jpg)
+![](images/st03.jpg)
+![](images/st04.jpg)
+
+
 ### Felt Paper
-I have cut these for my son to play with. I used (80,60)x2 for a clean cut that's reasonably easy to remove. Occasionally, I had to use utility knife to cut part of the shape off.
+I have cut these for my son to play with. Instead of (100,80), I used (80,60)x2 in Gcode mode for a clean cut. Occasionally, I had to use utility knife to cut part of the shape off.
 
 ![](images/fp01.jpg)
 ![](images/fp02.jpg)
