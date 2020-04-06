@@ -110,6 +110,12 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 
 ### Coloured Paper
 
+### PCB
+
+PCB is easy to engrave. Here's a comparison of L1's and Pro's result. After the not-so-successful result of L1 at the bottom of my USB power meter (forgot about the setting), I tried my Pro on the top-left for the same texts with (30,30)x2 setting, and it looks really good. Mainly due to Pro's improved resolution.
+
+![](images/pcb01.jpg)
+
 ### Felt Paper
 I have cut these for my son to play with. I used (80,60)x2 for a clean cut that's reasonably easy to remove. Occasionally, I had to use utility knife to cut part of the shape off.
 
@@ -137,6 +143,26 @@ I have cut these for my son to play with. I used (80,60)x2 for a clean cut that'
 
 
 ### Photosensitive Stamp
+
+The App's Seal mode will do the inversions for you. All you need to do is to design what your stamp should look like, and engrave the image in the App's Seal mode. The part that is engraved will melt and seal up, meaning it won't absorb ink or let ink out. The unprocessed part of the photosensitive stamp will absorb ink and make a mark on paper.
+
+Here are two styles of stamps that I made. In Chinese, these are called Yin and Yang engraving.
+
+**Stamp 1: Yin Engraving** (5,75)
+![](images/ps21.jpg)
+![](images/ps22.jpg)
+![](images/ps23.jpg)
+![](images/ps24.jpg)
+![](images/ps25.jpg)
+
+**Stamp 2: Yang Engraving** (5,75)
+![](images/ps11.jpg)
+![](images/ps12.jpg)
+![](images/ps13.jpg)
+![](images/ps14.jpg)
+![](images/ps15.jpg)
+
+
 
 
 # Automatic Stand
