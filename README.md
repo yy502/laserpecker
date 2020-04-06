@@ -2,11 +2,11 @@
 
 
 # LaserPecker L1 & L1 Pro Review
-I am a happy owner of both LaserPecker L1 and L1 Pro. Here I share some of my thoughts and uses of them. I'll refer to L1 Pro as Pro for short in the rest of the artical.
+I am a happy owner of both LaserPecker L1 and L1 Pro. Here I share some of my thoughts and uses of them. I may refer to L1 Pro as Pro for short in the rest of the article.
 
 
 # LaserPecker
-LaserPecker is brand of affordable and portable cunsumer level laser engravers. So far they have released their first generation laser engraveers (L1 and L1 Pro). The company will release more models with more powerful capabilities in 2020 and the near future.
+LaserPecker is brand of affordable and portable consumer level laser engravers. So far they have released their first generation laser engravers (L1 and L1 Pro). The company will release more models with more powerful capabilities in 2020 and the near future.
 
 For more details, visit their official [English site](https://www.laserpecker.net/) or [Chinese site](http://www.laserpecker.cn/).
 
@@ -14,6 +14,7 @@ For more details, visit their official [English site](https://www.laserpecker.ne
 # L1 vs L1 Pro Comparison
 
 ## The Look
+L1 and Pro are of the same size & design, with minor difference as shown below. Therefore both will fit onto the automatic stand. 
 
 ![](images/L1_vs_Pro.jpg)
 
@@ -24,7 +25,7 @@ For more details, visit their official [English site](https://www.laserpecker.ne
 | ------ | ------ | ------ |
 | Laser | 450nm Blue, 1600mW | 405nm Blue-Violet, 500mW (equivalent to 1500mW Blue laser) |
 | Pixel Size | 0.3mm (or smaller\*)| 0.15mm |
-| Engrave Range|100mm x 100mm (200m x 140mm\**)| 100mm x 100mm (106mm x 106mm\*\*\*)|
+| Engrave Range|100mm x 100mm (or larger\**)| 100mm x 100mm (106mm x 106mm\*\*\*)|
 
 
 \* Can be improved with an easy modification, but engraving range will reduce as a trade-off. Read on.
@@ -36,23 +37,50 @@ For more details, visit their official [English site](https://www.laserpecker.ne
 
 # L1
 
+L1 is cheaper, faster, slightly more powerful than the Pro. Accuracy-wise, it's not as precise as Pro. You need to think about what you want to achieve. As an owner of L1 Pro, I'd say it does not replace L1 completely, and I will keep using my L1 for certain tasks.
+
 To be updated...
+
+## Engraving Beyond the Designed Range
+Trust me, you will love my finding!
+
+**This trick only applies to engraving with Gcode files.**
+
+After testing my L1 with some hand crafted Gcode, I discovered that despite the limitation of 100mm x 100mm engraving range, you can actually leverage L1's hidden X/Y axis movement capability, to engrave over as large as **200mm x 140mm** range. It's all about absolute and relative Gcode coordinates.
+
+In short, per engraving job still has to follow the *no larger than 100mm x 100mm* rule, but each job can be placed anywhere within the 200mm x 140mm range. So, you can divide your larger vector graphics into a few small parts to be engraved one by one. I'll update my [Inkscape extension](https://github.com/yy502/inkscape-laserpecker) to simplify the generation of Gcode files for LaserPecker.
+
+Here's a peak of the result. This was done with L1 at 20cm distance, without moving the engraver or the paper.
+
+<img src="images/engraving_over_200mm_x_140mm.jpg" width="800px">
+
+Video to prove it: [engraving_over_200mm_x_140mm.mp4](images/engraving_over_200mm_x_140mm.mp4)
+
+
+## Kick-Ass Modification (Cheap & Cheerful) 
+
+Hint: increases cutting power, improves resolution to (almost) match Pro's
+
+To be updated...
+
+
+
 
 # Pro
 
 ## Unpacking Pro Deluxe Edition
 **What came in the Deluxe Edition**:
-* Laser engraver
-* USB power adapter (5V2A)
-* A pair of protective Goggles
+* L1 Pro laser engraver
+* USB power adapter (5V2A, US/CN plug)
 * Engraving material pack
-* A 20cm ruler
+* A 20cm ruler (for measuring the optimal distance for engraver placement)
 * A black whiteboard marker
 * A cutting mat
 * USB Cables (1 long, 1 short)
 * A small foldable tripod
 * Automatic stand
-* 4 pieces of magnetic protective shields
+* A pair of protective goggles (filters harmful laser light)
+* 4 pieces of magnetic protective shields (filters harmful laser light)
 * A hard carry case
 
 <img src="images/up01.jpg" height="200px"><img src="images/up02.jpg" height="200px"><img src="images/up03.jpg" height="200px">
@@ -120,10 +148,12 @@ PCB is easy to engrave. Here's a comparison of L1's and Pro's result. After the 
 <img src="images/pcb01.jpg" height="300px">
 
 
-### PVC Sticker
-Firstly, use Gcode for cutting. Secondly, cutting PVC or paper stickers will have more or less burnt edges. Instead of cutting with high power once, e.g. (100,100), using lower power setting to cut multiple times will reducing burning.
+### Decorative Carbon-Fibre Car Sticker
+Firstly, please use Gcode mode for cutting.
 
-Here I used (60,50)x2. YMMV.
+Secondly, cutting plastic or paper stickers will have more or less burnt edges. Instead of cutting with high power once, e.g. (100,100), using lower power setting to cut multiple times will reducing burning.
+
+Here I used (60,50)x2. YMMV. Remember that colour plays a role here, too.
 
 <img src="images/st01.jpg" height="200px"><img src="images/st02.jpg" height="200px">
 
@@ -156,7 +186,7 @@ The design on the plastic cover with (30,30).
 
 The design on the plastic cover with (30,30).
 
-<img src="images/ps15.jpg" height="150px">
+<img src="images/ps15.jpg" height="160px">
 
 
 
@@ -165,4 +195,11 @@ The design on the plastic cover with (30,30).
 
 The automatic stand was released with the Pro model. It is compatible with L1 and can be purchased separately.
 
-Review to come...
+The stand folds up and fits into the carry case nicely. It does not have built-in battery. You will need one USB C cable to feed power to it; and it relays the power to the engraver via another short USB C cable. Both cables come along with the stand.
+
+<img src="images/es01.jpg" height="200px">
+<img src="images/es02.jpg" height="200px">
+<img src="images/es03.jpg" height="200px">
+<img src="images/es04.jpg" height="200px">
+<img src="images/es05.jpg" height="200px">
+<img src="images/es06.jpg" height="200px">
