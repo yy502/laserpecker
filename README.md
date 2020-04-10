@@ -241,9 +241,8 @@ The stand folds up and fits into the carry case nicely. It does not have built-i
 
 I have put a carbon-fibre sticker onto the base, and engraved a 100mm x 100mm grid over it to assist alignment of target objects. The grid is done via Gcode. I actually has 3 designs of the grids in Gcode files which can be found here: [yy502/inkscape-laserpecker/](https://github.com/yy502/inkscape-laserpecker/) in `misc` directory. 
 
-<img src="images/es01.jpg" height="200px">
-<img src="images/es02.jpg" height="200px">
-<img src="images/es03.jpg" height="200px">
-<img src="images/es04.jpg" height="200px">
-<img src="images/es05.jpg" height="200px">
-<img src="images/es06.jpg" height="200px">
+<img src="images/es01.jpg" height="200px"><img src="images/es02.jpg" height="200px"><img src="images/es03.jpg" height="200px"><img src="images/es04.jpg" height="200px">
+
+I was curious about its design, so I opened it up. It was easy. ALl the key components are in the rectangle shaped container. The plastic is stuck on with double sided tape. It does not require much effort to remove it. Then, on the left, there are beeper, copper laser head for the 5-point guide (not a very useful feature in my opinion), and laser emitter + receiver for distance measurement. In the middle, there's the fan for blowing smoke away for consistent engraving result. On the right, connectors and the main processor.
+
+<img src="images/es05.jpg" height="200px"><img src="images/es06.jpg" height="200px">
