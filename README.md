@@ -139,7 +139,40 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 
 ### Plastic
 
-### Fabric
+Plastic is easy to engrave, and you can't go too wrong about it. The only trick is that, for light coloured or clear materials, which will reflect most of the light, you need to colour it black with a whiteboard marker, so the surface will absorb laser energy. The engraved part will melt and mix with the dry ink. The rest dry ink will wipe off. See below for examples.
+
+1.1 Colour a light-yellow plastic spoon black.
+
+<img src="images/ko01.jpg" height="200px">
+
+1.2 Engrave over it (30,40.)
+
+<img src="images/ko02.jpg" height="200px">
+
+1.3 Wipe off the excessive ink, and the engraved pattern stays.
+
+<img src="images/ko03.jpg" height="200px">
+
+2.1 Colour a clear plastic fork black.
+
+<img src="images/fk01.jpg" height="200px">
+
+2.2 The result with (30,30)
+
+<img src="images/fk02.jpg" height="200px">
+
+
+3.1 Another example: electric shaver case (30,30)
+
+<img src="images/sh01.jpg" height="200px">
+
+
+### Eyeglass Cleaning Cloths
+
+I find the default (100,70) for cloths does not work well with microfiber cloths, maybe it's for cotton cloths. I reduced it to (100,50) and got satisfying result. See below for comparison.
+
+<img src="images/cl01.jpg" height="200px">
+
 
 ### Coloured Paper
 
@@ -199,7 +232,7 @@ The automatic stand was released with the Pro model. It is compatible with L1 an
 
 The stand folds up and fits into the carry case nicely. It does not have built-in battery. You will need one USB C cable to feed power to it; and it relays the power to the engraver via another short USB C cable. Both cables come along with the stand.
 
-I have put a carbon-fibre sticker onto the base, and engraved a 100mm x 100mm grid over it to assist alignment of target objects. The grid is done via Gcode. I actually has 3 designs of the grids in Gcode files which can be found here: [yy502/inkscape-laserpecker/](https://github.com/yy502/inkscape-laserpecker/tree/master/misc).
+I have put a carbon-fibre sticker onto the base, and engraved a 100mm x 100mm grid over it to assist alignment of target objects. The grid is done via Gcode. I actually has 3 designs of the grids in Gcode files which can be found here: [yy502/inkscape-laserpecker/](https://github.com/yy502/inkscape-laserpecker/) in `misc` directory. 
 
 <img src="images/es01.jpg" height="200px">
 <img src="images/es02.jpg" height="200px">
