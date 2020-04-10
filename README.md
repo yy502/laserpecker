@@ -137,6 +137,13 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 
 ### Cardboard
 
+### Fruit Skin
+
+Fruit skins contain lots of water, so they require the maximum power and depth (100,100) to engrave. For Pro, depth 100 is very very very slow... Try it for yourself. The result is fun though!
+
+<img src="images/or01.jpg" height="200px"><img src="images/or02.jpg" height="200px">
+
+
 ### Plastic
 
 Plastic is easy to engrave, and you can't go too wrong about it. The only trick is that, for light coloured or clear materials, which will reflect most of the light, you need to colour it black with a whiteboard marker, so the surface will absorb laser energy. The engraved part will melt and mix with the dry ink. The rest dry ink will wipe off. See below for examples.
