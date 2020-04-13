@@ -30,9 +30,26 @@
 
 ## Speed & Configuration
 
-## Accuracy Test
+## Precision Test
 
-## Manipulation via Gcode
+Here is a side-by-sie comparison of L1's and Pro's precision engraving, on the same paper, but with slightly different settings as their power is different. It is obvious that the Pro's precision is much better than L1's.
+
+1) L1 vs Pro over 100mm x 100mm
+
+<img src="images/li_l1_100.jpg" height="300px"><img src="images/li_pro_100.jpg" height="300px">
+
+2) L1 vs Pro over 40mm x 40mm
+
+<img src="images/li_l1_40_3.jpg" height="300px"><img src="images/li_pro_40.jpg" height="300px">
+
+For your interest, the source image for testing is here:
+
+<img src="images/lion.jpg" height="200px">
+
+
+## Gcode
+
+Gcode 
 
 ### Gray Scale & Cutting
 

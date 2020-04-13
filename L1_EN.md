@@ -28,3 +28,36 @@ Hint: increases cutting power, improves resolution to (almost) match Pro's
 
 To be updated...
 
+
+## Precision Test
+
+By the numbers, it is obvious that L1's precision is only 1/4 of what the Pro offers (0.3x0.3 vs 0.15x0.15). Here's how they compare with a rather extreme test image:
+
+
+1) L1 vs Pro over 100mm x 100mm
+
+<img src="images/li_l1_100.jpg" height="300px"><img src="images/li_pro_100.jpg" height="300px">
+
+2) L1 vs Pro over 40mm x 40mm
+
+<img src="images/li_l1_40_3.jpg" height="300px"><img src="images/li_pro_40.jpg" height="300px">
+
+
+### Now, here's some exciting stuff to see!
+
+*L1 with magnifier modification vs Pro*
+
+Note that:
+
+**a)** the output of L1 was set to 100mm x 100mm, and it was scaled down to 40mm x 40mm by the magnifier;
+
+**b)** the engraving setting for L1 with magnifier has to be reduced all the way down to (1,1) to not burn through the thick brown paper, compared to the default setting of (100,70).
+
+<img src="images/li_l1_40_4.jpg" height="300px"><img src="images/li_pro_40.jpg" height="300px">
+
+
+For your interest, the source image for testing is here:
+
+<img src="images/lion.jpg" height="200px">
+
+
