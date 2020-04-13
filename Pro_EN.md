@@ -30,19 +30,23 @@
 
 ## Speed & Configuration
 
+I have to say, having played with L1 before Pro, I find Pro is much slower than L1. Particularly over depth 100. So, Pro users, avoid depth 100 if you can.
+
+I guess it's because L1's laser is more powerful, so it requires less time for the same depth.
+
 ## Precision Test
 
-Here is a side-by-sie comparison of L1's and Pro's precision engraving, on the same paper, but with slightly different settings as their power is different. It is obvious that the Pro's precision is much better than L1's.
+By the numbers, it is obvious that L1's precision is only 1/4 of what the Pro offers (0.3x0.3 vs 0.15x0.15). Here's how they compare with a rather extreme test image:
 
-1) L1 vs Pro over 100mm x 100mm
+1) **L1 vs Pro over 100mm x 100mm**: L1 was too powerful for the paper I used. It burnt through the paper with (100,50) setting. On the other hand, Pro is less powerful and had much better control over each pixel. The slightly higher setting of (100,60) was just right for the same paper.
 
-<img src="images/li_l1_100.jpg" height="300px"><img src="images/li_pro_100.jpg" height="300px">
+<img src="images/li_l1_100.jpg" height="400px"><img src="images/li_pro_100.jpg" height="400px">
 
-2) L1 vs Pro over 40mm x 40mm
+2) **L1 vs Pro over 40mm x 40mm**: here you see the real difference between the two models over a much smaller job.
 
-<img src="images/li_l1_40_3.jpg" height="300px"><img src="images/li_pro_40.jpg" height="300px">
+<img src="images/li_l1_40_3.jpg" height="400px"><img src="images/li_pro_40.jpg" height="400px">
 
-For your interest, the source image for testing is here:
+For your interest, the source image for testing is here (click to view and download the original image):
 
 <img src="images/lion.jpg" height="200px">
 
