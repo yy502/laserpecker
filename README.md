@@ -24,14 +24,14 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 | ------ | ------ | ------ |
 | Laser | 450nm Blue, 1600mW | 405nm Blue-Violet, 500mW (equivalent to 1500mW Blue laser) |
 | Pixel Size | 0.3mm (or smaller\*)| 0.15mm |
-| Engrave Range|100mm x 100mm (or larger\**)| 100mm x 100mm (106mm x 106mm\*\*\*)|
+| Engrave Range|100mm x 100mm (or larger\**)| 100mm x 100mm (or larger\*\*\*)|
 
 
 \* Can be improved with an easy modification, but engraving range will reduce as a trade-off. Read on.
 
-\*\* With Gcode. Read on.
+\*\* Up to 200mm x 140mm with Gcode. Read my L1 review.
 
-\*\*\* With Gcode, but the improvement is so small that it's not worth the trouble.
+\*\*\* Up to 106mm x 106mm with Gcode, but the improvement is so small that it's not worth the trouble.
 
 
 # L1 Review (being updated...)
