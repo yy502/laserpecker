@@ -92,7 +92,7 @@ Plastic is easy to engrave, and you can't go too wrong about it. The only trick 
 
 <img src="images/ko01.jpg" height="200px">
 
-1.2 Engrave over it (30,40.)
+1.2 Engrave over it (30,40).
 
 <img src="images/ko02.jpg" height="200px">
 
@@ -109,9 +109,9 @@ Plastic is easy to engrave, and you can't go too wrong about it. The only trick 
 <img src="images/fk02.jpg" height="200px">
 
 
-3.1 Another example: electric shaver case (30,30)
+3 A few more examples: electric shaver case (30,30), plastic bottle (30,30), electric toothbrush heads (30,30).
 
-<img src="images/sh01.jpg" height="200px">
+<img src="images/sh01.jpg" height="200px"><img src="images/pl03.jpg" height="200px"><img src="images/pl04.jpg" height="200px">
 
 
 ### Eyeglass Cleaning Cloths

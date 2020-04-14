@@ -36,8 +36,44 @@ Gcode allows you to efficiently trace edges/paths. It is particularly useful for
 
 Here's an example of cutting stickers. In my test with this material, cutting once with high power is better than cutting twice with lower setting. Cutting twice resulted in more burnt edges.
 
-
 <img src="images/st05.jpg" height="200px">
+
+
+### Felt Paper
+
+The default setting of (100,10) is for engraving. To cut it, I used (100,50)x2 in Gcode mode for a clean cut.
+
+<img src="images/fp22.jpg" height="200px">
+
+
+## Working with Different Materials
+
+### Wood
+
+Wood is one of the most easy & satisfying materials to engrave. Darker wood grain is harder to burn in, while lighter wood grain can be engraved with lower power. So, for relatively consistent result, I suggest you over-burn a little. Do some test burns by yourself and find the best setting for your material.
+
+**Tip**: If the first go leaves an uneven result. Do not touch your material and do a 2nd burn over it with the same or higher setting.
+
+<img src="images/w03.jpg" height="200px">
+
+### Plastic
+
+Plastic is easy to engrave, and you can't go too wrong about it. The only trick is that, for light coloured or clear materials, which will reflect most of the light, you need to colour it black with a whiteboard marker, so the surface will absorb laser energy. The engraved part will melt and mix with the dry ink. The rest dry ink will wipe off. See below for examples.
+
+1. Colour a light-yellow plastic bottle black, and engrave over it (20,30).
+
+<img src="images/pl01.jpg" height="250px">
+
+2 Wipe off the excessive ink, and the engraved pattern stays.
+
+<img src="images/pl02.jpg" height="250px">
+
+
+### Fruit Skin
+
+Fruit skins contain lots of water, so they require the maximum power and depth (100,100) to engrave.
+
+<img src="images/or03.jpg" height="200px"><img src="images/or04.jpg" height="200px">
 
 
 ## Kick-Ass Modification (Cheap & Cheerful) 
@@ -125,6 +161,8 @@ Note that:
 1) the output of L1 was set to 100mm x 100mm, and it was scaled down to 40mm x 40mm by the magnifier;
 
 2) the engraving setting for L1 with magnifier has to be reduced all the way down to (1,1) to not burn through the thick brown paper, compared to the default setting of (100,70).
+
+<img src="images/mod14.jpg" height="200px">
 
 <img src="images/li_l1_40_4.jpg" height="400px"><img src="images/li_pro_40.jpg" height="400px">
 
