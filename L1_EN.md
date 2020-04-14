@@ -77,7 +77,7 @@ Firstly, in the App, go to laser adjustment options and turn on the laster. It w
 
 I happen to have an adjustable lab stand that's perfect for the job. You can just get a piece of paper, and use a stack of objects (books, building blocks, Lego, etc.) to gradually raise the paper towards the engraver while observing the laser dot **with your protective goggles on** to reduce from a short line to a fine dot. In my case, the new focal length is 9cm.
 
-<img src="images/mod04.jpg" height="200px"><img src="images/mod05.jpg" height="200px"><img src="images/mod06.jpg" height="200px"><img src="images/mod07.jpg" height="200px">
+<img src="images/mod04.jpg" height="175px"><img src="images/mod05.jpg" height="175px"><img src="images/mod06.jpg" height="175px"><img src="images/mod07.jpg" height="175px">
 
 
 Now, very important, exit the laser adjustment mode, and engrave something that's easy to measure. e.g. a 10cm circle or box. And then measure the output size.
