@@ -30,17 +30,29 @@ Here's a peak of the result. This was done with L1 at 20cm distance, without mov
 Video to prove it: [engraving_over_200mm_x_140mm.mp4](images/engraving_over_200mm_x_140mm.mp4)
 
 
+## Cutting With Gcode
+
+Gcode allows you to efficiently trace edges/paths. It is particularly useful for cutting materials, e.g. stickers.
+
+### Decorative Carbon-Fibre Car Sticker
+
+Here's an example of cutting stickers. In my test with this material, cutting once with high power is better than cutting twice with lower setting.
+
+
+<img src="images/st05.jpg" width="200px">
+
+
 ## Kick-Ass Modification (Cheap & Cheerful) 
 
-Thanks to my friend **龍ARON** for sharing his simple yet amazing modification technique, it is possible to both **increases cutting power** AND **improves precision** to almost match what Pro has got. **However**, this is not a perfect upgrade to change your L1 to a Pro for a few bucks. The catch is, the engraving area will reduce proportionally and significantly.
+Thanks to my friend **龍ARON** for sharing his simple yet amazing modification technique, it is possible to both **increases cutting power** AND **improve precision** to almost match what Pro offers. **However**, this is not a perfect upgrade to magically convert your L1 to a Pro for a few bucks. The catch is, the engraving area will reduce proportionally and significantly.
 
 ### What you will need:
 
-1) a magnifying glass: nothing special, maybe 4x to 6x magnification (not too many times, 10x is too much). Maybe you already have one lying somewhere in your house. Its diameter should be no less than 35mm, which will cover the whole of the laser window. 50mm to 60mm diameter is ideal, purely for the easy of installation and avoid using the very edge area. Also, although a double convex lens will do the job perfectly, I recommend getting a **plano-convex lens** (one side is flat) if you are going to buy one for this modification, as it's easier to fix onto the engraver.
+1) a magnifying glass: nothing special, maybe 4x to 6x magnification (not too many times, 10x is too much). Maybe you already have one lying somewhere in your house. Its diameter should be no less than 35mm, which will cover the whole of the laser window. 50mm to 60mm diameter is ideal, purely for the easy of installation and avoid using the very edge area. Also, although a double convex lens will do the job perfectly, I recommend getting a **glass plano-convex lens** (one side is flat) if you are going to buy one for this modification, as it's easier to fix onto the engraver. It should cost around £2 if you order from Aliexpress.
 
 This is what I used. 50mm diameter, plano-convex lens. I don't know how many time of magnification it offers, but it works as expected.
 
-<img src="images/mod10.jpg" height="200px"><img src="images/mod11.jpg" height="200px">
+<img src="images/mod10.jpg" height="150px"><img src="images/mod11.jpg" height="150px">
 
 
 2) if you have an electric stand, you don't need anything to secure the magnifier. Read on. If not, get some blue tac, or double sided tape, or simply some sellotape.
@@ -70,7 +82,7 @@ I happen to have an adjustable lab stand that's perfect for the job. You can jus
 
 Now, very important, exit the laser adjustment mode, and engrave something that's easy to measure. e.g. a 10cm circle or box. And then measure the output size.
 
-In my case, each axis has reduced to 40% of the output size. i.e. a 100mm circle becomes 40mm. Which means, the **max** engraving area is now **only 40mm x 40mm**, or 40% of what was set in the App.
+In my case, each axis has reduced to 40% of the output size. i.e. a 100mm circle becomes 40mm. Which means, the **max** engraving area is now only **40mm x 40mm**. So, if you want to engrave an image of which longest side is 30mm, you need to set it to 30/0.4=75mm in the App.
 
 <img src="images/mod08.jpg" height="200px"><img src="images/mod09.jpg" height="200px">
 
