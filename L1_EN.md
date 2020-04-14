@@ -36,10 +36,10 @@ Gcode allows you to efficiently trace edges/paths. It is particularly useful for
 
 ### Decorative Carbon-Fibre Car Sticker
 
-Here's an example of cutting stickers. In my test with this material, cutting once with high power is better than cutting twice with lower setting.
+Here's an example of cutting stickers. In my test with this material, cutting once with high power is better than cutting twice with lower setting. Cutting twice resulted in more burnt edges.
 
 
-<img src="images/st05.jpg" width="200px">
+<img src="images/st05.jpg" height="200px">
 
 
 ## Kick-Ass Modification (Cheap & Cheerful) 
@@ -62,11 +62,11 @@ This is what I used. 50mm diameter, plano-convex lens. I don't know how many tim
 
 For those who have the electric stand, just place the lens on the stand over the laser window like so:
 
-<img src="images/mod01.jpg" height="200px"><img src="images/mod02.jpg" height="200px">
+<img src="images/mod01.jpg" height="300px"><img src="images/mod02.jpg" height="300px">
 
 And then, place the engraver over it and keep it up right. You may need to wedge something on the left side to keep it in the correct position.
 
-<img src="images/mod03.jpg" height="200px">
+<img src="images/mod03.jpg" height="300px">
 
 If you do not have the electric stand, just use blue tac, or tape, to secure the magnifier on the engraver, right in front of the laser window, as close as possible.
 
@@ -77,14 +77,14 @@ Firstly, in the App, go to laser adjustment options and turn on the laster. It w
 
 I happen to have an adjustable lab stand that's perfect for the job. You can just get a piece of paper, and use a stack of objects (books, building blocks, Lego, etc.) to gradually raise the paper towards the engraver while observing the laser dot **with your protective goggles on** to reduce from a short line to a fine dot. In my case, the new focal length is 9cm.
 
-<img src="images/mod04.jpg" height="175px"><img src="images/mod05.jpg" height="175px"><img src="images/mod06.jpg" height="175px"><img src="images/mod07.jpg" height="175px">
+<img src="images/mod04.jpg" height="280px"><img src="images/mod05.jpg" height="280px"><img src="images/mod06.jpg" height="280px"><img src="images/mod07.jpg" height="280px">
 
 
 Now, very important, exit the laser adjustment mode, and engrave something that's easy to measure. e.g. a 10cm circle or box. And then measure the output size.
 
 In my case, each axis has reduced to 40% of the output size. i.e. a 100mm circle becomes 40mm. Which means, the **max** engraving area is now only **40mm x 40mm**. So, if you want to engrave an image of which longest side is 30mm, you need to set it to 30/0.4=75mm in the App.
 
-<img src="images/mod08.jpg" height="200px"><img src="images/mod09.jpg" height="200px">
+<img src="images/mod08.jpg" height="300px"><img src="images/mod09.jpg" height="300px">
 
 
 Do not get upset yet, here's what you have **gained**:
@@ -95,7 +95,7 @@ Do not get upset yet, here's what you have **gained**:
 
 Here's a test cut on a thick cardboard.
 
-<img src="images/mod12.jpg" height="200px"><img src="images/mod13.jpg" height="200px">
+<img src="images/mod12.jpg" height="300px"><img src="images/mod13.jpg" height="300px">
 
 So, with this mod, you don't really need a Pro to achieve high precision engraving, if you only need to engrave over small areas ;-)
 
@@ -128,7 +128,7 @@ Note that:
 
 2) the engraving setting for L1 with magnifier has to be reduced all the way down to (1,1) to not burn through the thick brown paper, compared to the default setting of (100,70).
 
-<img src="images/li_l1_40_4.jpg" height="300px"><img src="images/li_pro_40.jpg" height="300px">
+<img src="images/li_l1_40_4.jpg" height="400px"><img src="images/li_pro_40.jpg" height="400px">
 
 
 
