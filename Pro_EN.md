@@ -1,6 +1,6 @@
 [中文评测点此处](Pro_CN.md)
 
-# All About L1 Pro
+# All About L1 Pro (being updated...)
 
 ## Unpacking Pro Deluxe Edition
 **What came in the Deluxe Edition**:

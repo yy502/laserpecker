@@ -34,11 +34,11 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 \*\*\* With Gcode, but the improvement is so small that it's not worth the trouble.
 
 
-# L1 Review
+# L1 Review (being updated...)
 
 [Click here](L1_EN.md)
 
-# L1 Pro Review
+# L1 Pro Review (being updated...)
 
 [Click here](Pro_EN.md)
 
