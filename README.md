@@ -1,5 +1,3 @@
-[中文评测点此处](README_CN.md)
-
 # LaserPecker L1 & L1 Pro Review
 I am a happy owner of both LaserPecker L1 and L1 Pro. Here I share some of my thoughts and uses of them. I may refer to L1 Pro as Pro for short in the rest of the article.
 
