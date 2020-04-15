@@ -74,6 +74,13 @@ Fruit skins contain lots of water, so they require the maximum power and depth (
 <img src="images/or03.jpg" height="200px"><img src="images/or04.jpg" height="200px">
 
 
+### Cardboard
+
+Cardboard from various packing boxes is great to engrave on. Here are a few tests I made.
+
+<img src="images/cb01.jpg" height="200px"><img src="images/cb02.jpg" height="200px">
+
+
 ## Kick-Ass Modification (Cheap & Cheerful) 
 
 Thanks to my friend **龍ARON** for sharing his simple yet amazing modification technique, it is possible to both **increases cutting power** AND **improve precision** to almost match what Pro offers. **However**, this is not a perfect upgrade to magically convert your L1 to a Pro for a few bucks. The catch is, the engraving area will reduce proportionally and significantly.
