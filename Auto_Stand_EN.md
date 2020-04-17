@@ -23,9 +23,10 @@ On the right, connectors and the main processor.
 
 ## Power Consumption
 
+|State|Current (mA)|
 | ------ | ------ |
-| Off (Standby) | 30mA |
-| On | 415mA |
-| Moving up (with more resistance) |550-700mA|
-| Hitting upper limit, before auto stopping|1.12A|
-| Moving Down | 520-600mA|
+| Off (Standby) | 30 |
+| On | 415 |
+| Moving up (with more resistance) |550-700|
+| Hitting upper limit, before auto stopping|1120|
+| Moving Down | 520-600|

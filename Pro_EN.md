@@ -26,11 +26,12 @@
 
 ## Power Consumption & Heat Dissipation
 
+|State|Current (mA)|
 | ------ | ------ |
-| Standby | 60mA |
-| Laser On (Adjustment) | 70mA |
-| Preview (marking engraving area outline) |215mA|
-| Engraving | Up to 715mA|
+| Standby | 60 |
+| Laser On (Adjustment) | 70 |
+| Preview (marking engraving area outline) |215|
+| Engraving | Up to 715|
 
 
 ## Speed & Configuration

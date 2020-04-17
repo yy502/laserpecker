@@ -5,6 +5,7 @@ L1 is cheaper, faster, slightly more powerful than the Pro. Accuracy-wise, it's 
 
 ## Power Consumption & Heat Dissipation
 
+|State|Current (mA)|
 | ------ | ------ |
 | Standby | 57mA |
 | Laser On (Adjustment) | 64mA |
