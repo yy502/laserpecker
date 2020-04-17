@@ -2,6 +2,16 @@
 
 L1 is cheaper, faster, slightly more powerful than the Pro. Accuracy-wise, it's not as precise as Pro. You need to think about what you want to achieve. As an owner of L1 Pro, I'd say it does not replace L1 completely, and I will keep using my L1 for certain tasks.
 
+
+## Power Consumption & Heat Dissipation
+
+| ------ | ------ |
+| Standby | 57mA |
+| Laser On (Adjustment) | 64mA |
+| Preview (marking engraving area outline) |206mA|
+| Engraving | Up to 1200mA|
+
+
 ## Speed & Configuration
 
 Having played with both L1 and Pro, I find Pro is much slower than L1. Particularly over depth 100. I guess it's because L1's laser is more powerful, so it requires less time for the same depth.

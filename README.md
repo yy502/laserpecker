@@ -36,9 +36,15 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 
 [Click here](L1_EN.md)
 
+
 # L1 Pro Review (being updated...)
 
 [Click here](Pro_EN.md)
+
+
+# Automatic Stand
+
+[Click Here](Auto_Stand_EN.md)
 
 
 # LaserPecker App
