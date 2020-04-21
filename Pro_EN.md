@@ -77,6 +77,7 @@ The bottom lines is, there's no perfect setting for a class of materials. Don't 
 
 
 ### Wood
+
 Wood is one of the most easy & satisfying materials to engrave. Darker wood grain is harder to burn in, while lighter wood grain can be engraved with lower power. So, for relatively consistent result, I suggest you over-burn a little. For this dark wood of mine, I used (100,80). Again, don't just take my settings. Do some test burns by yourself and find the best setting for your material.
 
 **Tip**: If the first go leaves an uneven result. Do not touch your material and do a 2nd burn over it with the same or higher setting.
@@ -84,6 +85,10 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 <img src="images/w01.jpg" height="200px"><img src="images/w02.jpg" height="200px">
 
 ### Cardboard
+
+I cut up packaging boxes and engrave on the inside of the cardboard. Different types and colours of cardboard will require different settings.
+
+<img src="images/cb03.jpg" height="200px">
 
 ### Fruit Skin
 
@@ -117,9 +122,27 @@ Plastic is easy to engrave, and you can't go too wrong about it. The only trick 
 <img src="images/fk02.jpg" height="200px">
 
 
-3 A few more examples: electric shaver case (30,30), plastic bottle (30,30), electric toothbrush heads (30,30).
+3 A few more examples:
 
-<img src="images/sh01.jpg" height="200px"><img src="images/pl03.jpg" height="200px"><img src="images/pl04.jpg" height="200px">
+* Electric shaver case (30,30)
+
+<img src="images/sh01.jpg" height="200px">
+
+* Makeup bottle (30,30)
+
+<img src="images/pl03.jpg" height="200px">
+
+* Electric toothbrush heads (30,30)
+
+<img src="images/pl04.jpg" height="200px">
+
+* Water bottle (20,40) [Click here for a short video](images/pl05.mp4)
+
+<img src="images/pl05.jpg" height="200px">
+
+* Plastic handle of a wind-up torch (20,30)
+
+<img src="images/pl06.jpg" height="200px">
 
 
 ### Eyeglass Cleaning Cloths
@@ -178,6 +201,13 @@ The design on the plastic cover with (30,30).
 
 <img src="images/ps15.jpg" height="160px">
 
+
+
+# Misc
+
+The laser does not come out from the centre of the window. It's a little to the right if you look from the front.
+
+<img src="images/laser_head.jpg" height="250px">
 
 
 
