@@ -47,6 +47,13 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 [Click Here](Auto_Stand_EN.md)
 
 
+# Speed Comparison
+
+Due to Pro's increased precision, it takes up to **four** times long to engrave the same amount of pixels. I have tested every depth setting available in the App, and have produced the graph below. It shows how much time a Pro takes compared to an L1.
+
+<img src="images/pro_to_L1.png">
+
+
 # LaserPecker App
 
 Controlling the engraver is done via LaserPecker App in your smartphone over Bluetooth. I do wish there's a desktop (Linux particularly) client or API available, as I'm a big fan of automation via scripting.
