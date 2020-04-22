@@ -37,6 +37,7 @@ My Pro does not run very hot. After 2 hours of continues engraving at 100% power
 
 <img src="images/temp01.jpg"><img src="images/temp02.jpg"><img src="images/temp03.jpg">
 
+
 ## Speed & Configuration
 
 I have to say, having played with L1 before Pro, I find Pro is much slower than L1. Particularly over depth 100. So, Pro users, avoid depth 100 if you can.
