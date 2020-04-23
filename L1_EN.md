@@ -92,6 +92,18 @@ Cardboard from various packing boxes is great to engrave on. Here are a few test
 <img src="images/cb01.jpg" height="200px"><img src="images/cb02.jpg" height="200px">
 
 
+### Making 3D Paper Model
+
+I created a little 3D car model as below:
+
+<img src="https://github.com/yy502/inkscape-laserpecker/misc/car.png" height="200px">
+
+And generated [Gcode file for cutting](https://github.com/yy502/inkscape-laserpecker/misc/car.txt) using my [Inkscape extension](https://github.com/yy502/inkscape-laserpecker).
+
+I have set to max power and slowest speed for best cutting result. If your paper is too think to cut in one go, set your LaserPecker to **cut multiple times**.
+
+
+
 ## Kick-Ass Modification (Cheap & Cheerful) 
 
 Thanks to my friend **龍ARON** for sharing his simple yet amazing modification technique, it is possible to both **increases cutting power** AND **improve precision** to almost match what Pro offers. **However**, this is not a perfect upgrade to magically convert your L1 to a Pro for a few bucks. The catch is, the engraving area will reduce proportionally and significantly.

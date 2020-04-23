@@ -63,9 +63,20 @@ For your interest, the source image for testing is here (click to view and downl
 
 ## Gcode
 
-To be updated... 
+### Cutting
 
-### Gray Scale & Cutting
+Gcode is primarily used to cut, although you can use it to engrave outlines for colouring etc. other projects and crafts.
+
+I created a little 3D car model as below:
+
+<img src="https://github.com/yy502/inkscape-laserpecker/misc/car.png" height="200px">
+
+And generated [Gcode file for cutting](https://github.com/yy502/inkscape-laserpecker/misc/car.txt) using my [Inkscape extension](https://github.com/yy502/inkscape-laserpecker).
+
+I have set to max power and slowest speed for best cutting result. If your paper is too think to cut in one go, set your LaserPecker to **cut multiple times**.
+
+
+### Gray Scale
 
 To be updated...
 
