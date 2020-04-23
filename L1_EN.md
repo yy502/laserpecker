@@ -104,7 +104,7 @@ I have set to max power and slowest speed for best cutting result. If your paper
 
 And this is the result:
 
-<img src="images/car01.jpg" height="200px"><img src="images/car02.jpg" height="200px"><img src="images/car03.jpg" height="200px"><img src="images/car04.jpg" height="200px">
+<img src="images/car01.jpg" height="180px"><img src="images/car02.jpg" height="180px"><img src="images/car03.jpg" height="180px"><img src="images/car04.jpg" height="180px">
 
 
 ## Kick-Ass Modification (Cheap & Cheerful) 
@@ -135,7 +135,7 @@ And then, place the engraver over it and keep it up right. You may need to wedge
 
 If you do not have the electric stand, just use blue tac or tape to secure the magnifier on the engraver, right in front of the laser window, as close as possible.
 
-If you have a 3D printer and some modeling skills, you can design your own adapter like what my friend 正沧 has made. Here are some photos of it.
+If you have a 3D printer and some modeling skills, you can design your own adapter like what my friend **正沧** has made. Here are some photos of it.
 
 <img src="images/mod15.jpg" height="200px"><img src="images/mod16.jpg" height="200px"><img src="images/mod17.jpg" height="200px"><img src="images/mod18.jpg" height="200px">
 

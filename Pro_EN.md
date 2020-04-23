@@ -77,7 +77,7 @@ I have set to max power and slowest speed for best cutting result. If your paper
 
 And this is the result:
 
-<img src="images/car01.jpg" height="200px"><img src="images/car02.jpg" height="200px"><img src="images/car03.jpg" height="200px"><img src="images/car04.jpg" height="200px">
+<img src="images/car01.jpg" height="180px"><img src="images/car02.jpg" height="180px"><img src="images/car03.jpg" height="180px"><img src="images/car04.jpg" height="180px">
 
 
 ### Gray Scale
