@@ -133,12 +133,13 @@ And then, place the engraver over it and keep it up right. You may need to wedge
 
 <img src="images/mod03.jpg" height="300px">
 
-If you do not have the electric stand, just use blue tac, or tape, to secure the magnifier on the engraver, right in front of the laser window, as close as possible.
+If you do not have the electric stand, just use blue tac or tape to secure the magnifier on the engraver, right in front of the laser window, as close as possible.
 
 If you have a 3D printer and some modeling skills, you can design your own adapter like what my friend 正沧 has made. Here are some photos of it.
 
-<img src="images/mod15.jpg" height="200px"><img src="images/mod16.jpg" height="200px"><img src="images/mod17.jpg" height="200px">
-<img src="images/mod18.jpg" height="200px"><img src="images/mod19.jpg" height="200px"><img src="images/mod20.jpg" height="200px">
+<img src="images/mod15.jpg" height="200px"><img src="images/mod16.jpg" height="200px"><img src="images/mod17.jpg" height="200px"><img src="images/mod18.jpg" height="200px">
+
+<img src="images/mod19.jpg" height="200px"><img src="images/mod20.jpg" height="200px">
 
 
 Now, the magnifier will make the optimal focal length much shorter. It all depends on the particular magnifier you use, but it's really easy to find it.
