@@ -96,9 +96,9 @@ Cardboard from various packing boxes is great to engrave on. Here are a few test
 
 I created a little 3D car model as below:
 
-<img src="https://github.com/yy502/inkscape-laserpecker/misc/car.png" height="200px">
+<img src="https://github.com/yy502/inkscape-laserpecker/blob/master/misc/car.png" height="200px">
 
-And generated [Gcode file for cutting](https://github.com/yy502/inkscape-laserpecker/misc/car.txt) using my [Inkscape extension](https://github.com/yy502/inkscape-laserpecker).
+And generated [Gcode file for cutting](https://github.com/yy502/inkscape-laserpecker/blob/master/misc/car.txt) using my [Inkscape extension](https://github.com/yy502/inkscape-laserpecker).
 
 I have set to max power and slowest speed for best cutting result. If your paper is too think to cut in one go, set your LaserPecker to **cut multiple times**.
 
