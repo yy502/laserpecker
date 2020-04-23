@@ -75,6 +75,10 @@ And generated [Gcode file for cutting](https://github.com/yy502/inkscape-laserpe
 
 I have set to max power and slowest speed for best cutting result. If your paper is too think to cut in one go, set your LaserPecker to **cut multiple times**.
 
+And this is the result:
+
+<img src="images/car01.jpg" height="200px"><img src="images/car02.jpg" height="200px"><img src="images/car03.jpg" height="200px"><img src="images/car04.jpg" height="200px">
+
 
 ### Gray Scale
 
