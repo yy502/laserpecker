@@ -142,7 +142,7 @@ And then, place the engraver over it and keep it up right. You may need to wedge
 
 <img src="images/mod03.jpg" height="300px">
 
-If you do not have the electric stand, just use blue tac or tape to secure the magnifier on the engraver, right in front of the laser window, as close as possible. The example below uses a magnifier from the "helping hands" for soldering. Both it's size and magnification rate are perfect for this modification.
+If you do not have the electric stand, just use blue tac or tape to secure the magnifier on the engraver, right in front of the laser window, as close as possible. The example below uses a magnifier from the "helping hands" for soldering. Its size and magnification ratio are perfect for this modification.
 
 <img src="images/mod21.jpg" height="200px"><img src="images/mod22.jpg" height="200px"><img src="images/mod23.jpg" height="200px">
 
