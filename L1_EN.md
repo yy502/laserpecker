@@ -71,7 +71,7 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 This is a metal insulated cup with a layer of paint finish on the outside.
 I used (100,100) for some really good result without the need to colour it with a black whiteboard marker.
 
-<img src="images/my01.jpg" height="300px">
+<img src="images/mt01.jpg" height="300px">
 
 
 ### Plastic
