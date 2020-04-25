@@ -21,13 +21,15 @@
 
 有电动支架的朋友，像这样把镜片放在支架上稍微偏右一点点就好。因为激光是从窗口正中靠右一点射出的。
 
-<img src="images/mod01.jpg" height="300px"><img src="images/mod02.jpg" height="300px">
+<img src="images/laser_head.jpg" height="300px"><img src="images/mod01.jpg" height="300px"><img src="images/mod02.jpg" height="300px">
 
 然后把L1平放在镜片之上。你可能需要在左边塞点东西把机器垫平。
 
 <img src="images/mod03.jpg" height="300px">
 
-没有电动支架的朋友，想办法把镜片紧贴机器的激光窗口，用胶带或别的东西固定即可。注意镜片中心还是稍微偏右一点点。
+没有电动支架的朋友，想办法把镜片紧贴机器的激光窗口，用胶带或别的东西固定即可。比如下面这个例子用的是焊台上的玻璃放大镜，效果非常好。
+
+<img src="images/mod21.jpg" height="200px"><img src="images/mod22.jpg" height="200px"><img src="images/mod23.jpg" height="200px">
 
 如果你有3D打印机和建模手艺的话，可以尝试设计你自己的镜片架。以下是激光啄木鸟交流微信群里的**正沧**设计制作的。仅供参考。
 

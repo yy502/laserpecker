@@ -65,6 +65,15 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 
 <img src="images/w03.jpg" height="200px">
 
+
+### Paint on Metal
+
+This is a metal insulated cup with a layer of paint finish on the outside.
+I used (100,100) for some really good result without the need to colour it with a black whiteboard marker.
+
+<img src="images/my01.jpg" height="300px">
+
+
 ### Plastic
 
 Plastic is easy to engrave, and you can't go too wrong about it. The only trick is that, for light coloured or clear materials, which will reflect most of the light, you need to colour it black with a whiteboard marker, so the surface will absorb laser energy. The engraved part will melt and mix with the dry ink. The rest dry ink will wipe off. See below for examples.
@@ -125,15 +134,17 @@ This is what I used. 50mm diameter, plano-convex lens. I don't know how many tim
 
 ### Here's how to do it:
 
-For those who have the electric stand, just place the lens on the stand over the laser window like so:
+For those who have the electric stand, just place the lens on the stand over the laser window like below. Because the laser comes out from a little right to the center (see below), you should align the center of the lens with the laser if possible, to minimise distortion.
 
-<img src="images/mod01.jpg" height="300px"><img src="images/mod02.jpg" height="300px">
+<img src="images/laser_head.jpg" height="300px"><img src="images/mod01.jpg" height="300px"><img src="images/mod02.jpg" height="300px">
 
 And then, place the engraver over it and keep it up right. You may need to wedge something on the left side to keep it in the correct position.
 
 <img src="images/mod03.jpg" height="300px">
 
-If you do not have the electric stand, just use blue tac or tape to secure the magnifier on the engraver, right in front of the laser window, as close as possible.
+If you do not have the electric stand, just use blue tac or tape to secure the magnifier on the engraver, right in front of the laser window, as close as possible. The example below uses a magnifier from the "helping hands" for soldering. Both it's size and magnification rate are perfect for this modification.
+
+<img src="images/mod21.jpg" height="200px"><img src="images/mod22.jpg" height="200px"><img src="images/mod23.jpg" height="200px">
 
 If you have a 3D printer and some modeling skills, you can design your own adapter like what my friend **正沧** has made. Here are some photos of it.
 
