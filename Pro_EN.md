@@ -234,9 +234,9 @@ I'm not sure what exact material it was, but it's one of the common quick-dry sh
 
 
 
-# Misc
+# Misc Notes
 
-The laser does not come out from the centre of the window. It's a little to the right if you look from the front.
+The laser does not come out from the centre of the window. The window is 36mm wide, the laser comes out at 12mm to the right edge if you look at it from the front.
 
 <img src="images/laser_head.jpg" height="250px">
 
