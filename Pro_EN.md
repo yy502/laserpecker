@@ -69,7 +69,7 @@ Gcode is primarily used to cut, although you can use it to engrave outlines for 
 
 I created a little 3D car model as below:
 
-<img src="https://github.com/yy502/inkscape-laserpecker/misc/car.png" height="200px">
+<img src="https://github.com/yy502/inkscape-laserpecker/blob/master/misc/car.png" height="200px">
 
 And generated [Gcode file for cutting](https://github.com/yy502/inkscape-laserpecker/blob/master/misc/car.txt) using my [Inkscape extension](https://github.com/yy502/inkscape-laserpecker).
 
