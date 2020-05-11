@@ -164,15 +164,9 @@ Plastic is easy to engrave, and you can't go too wrong about it. The only trick 
 <img src="images/pl06.jpg" height="200px">
 
 
-### Eyeglass Cleaning Cloths
-
-I find the default (100,70) for cloths does not work well with microfiber cloths, maybe it's for cotton cloths. I reduced it to (100,50) and got satisfying result. See below for comparison.
-
-<img src="images/cl01.jpg" height="200px">
-
-
 ### Coloured Paper
 
+To come ...
 
 ### PCB (L1 vs L1 Pro)
 PCB is easy to engrave. Here's a comparison of L1's and Pro's result. After the not-so-successful result of L1 at the bottom of my USB power meter (forgot about the setting), I tried my Pro on the top-left for the same texts with (30,30)x2 setting, and it looks really good. Mainly due to Pro's improved resolution.
@@ -219,6 +213,24 @@ The design on the plastic cover with (30,30).
 The design on the plastic cover with (30,30).
 
 <img src="images/ps15.jpg" height="160px">
+
+
+
+### Eyeglass Cleaning Cloths
+
+I find the default (100,70) for cloths does not work well with microfiber cloths, maybe it's for cotton cloths. I reduced it to (100,50) and got satisfying result. See below for comparison.
+
+<img src="images/cl01.jpg" height="200px">
+
+
+### Clothes
+
+My son drew his grandpa, and my dad wanted it on his gym shirt :-)
+So here's the process and result.
+
+I'm not sure what exact material it was, but it's one of the common quick-dry shirt. Do not take my setting for your cloths. Always try out some settings at where it couldn't been seen first, and then do your desired engraving job.
+
+<img src="images/cl02.jpg" height="200px"><img src="images/cl03.jpg" height="200px"><img src="images/cl04.jpg" height="200px">
 
 
 

@@ -146,7 +146,13 @@ If you do not have the electric stand, just use blue tac or tape to secure the m
 
 <img src="images/mod21.jpg" height="200px"><img src="images/mod22.jpg" height="200px"><img src="images/mod23.jpg" height="200px">
 
-If you have a 3D printer and some modeling skills, you can design your own adapter like what my friend **正沧** has made. Here are some photos of it.
+If you have a 3D printer and some modeling skills, you can design your own adapter like what I did. I bought a microscope stand for my L1, which is sturdy and adjustable just in the range I need. Here's the adapter ring and the lens holder insert. The point is, when I don't use the magnifier modification, I simply take out the lens insert and place my L1 back in the adapter ring.
+
+<img src="images/mod29.jpg" height="300px"><img src="images/mod24.jpg" height="300px">
+
+<img src="images/mod25.jpg" height="300px"><img src="images/mod26.jpg" height="300px">
+
+My friend **正沧** has designed a more generic lens holder. Here are some photos of it.
 
 <img src="images/mod15.jpg" height="200px"><img src="images/mod16.jpg" height="200px"><img src="images/mod17.jpg" height="200px"><img src="images/mod18.jpg" height="200px">
 
@@ -181,6 +187,9 @@ Here's a test cut on a thick cardboard.
 
 So, with this mod, you don't really need a Pro to achieve high precision engraving, if you only need to engrave over small areas ;-)
 
+Another test engraving with the lens by my friend **太二真喵**, who used (100,100) to engrave on soft wood and made a wooden stamp.
+
+<img src="images/mod27.jpg" height="300px"><img src="images/mod28.jpg" height="300px">
 
 
 ## Precision Test
