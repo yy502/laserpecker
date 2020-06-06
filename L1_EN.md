@@ -148,9 +148,12 @@ If you do not have the electric stand, just use blue tac or tape to secure the m
 
 If you have a 3D printer and some modeling skills, you can design your own adapter like what I did. I bought a microscope stand for my L1, which is sturdy and adjustable just in the range I need. Here's the adapter ring and the lens holder insert. The point is, when I don't use the magnifier modification, I simply take out the lens insert and place my L1 back in the adapter ring.
 
-<img src="images/mod29.jpg" height="300px"><img src="images/mod24.jpg" height="300px">
+<img src="images/mod29.png" height="300px"><img src="images/mod24.jpg" height="300px">
 
 <img src="images/mod25.jpg" height="300px"><img src="images/mod26.jpg" height="300px">
+
+Here are my STL files: (1) [L1/Pro 3D model](misc/L1_model.stl) (2) [L1 stand adapter](misc/L1_stand_adapter.stl) (3) [L1 stand adapter lens insert](misc/L1_stand_adapter_lens_insert.stl)
+
 
 My friend **正沧** has designed a more generic lens holder. Here are some photos of it.
 
@@ -168,7 +171,7 @@ I happen to have an adjustable lab stand that's perfect for the job. You can jus
 <img src="images/mod04.jpg" height="280px"><img src="images/mod05.jpg" height="280px"><img src="images/mod06.jpg" height="280px"><img src="images/mod07.jpg" height="280px">
 
 
-Now, very important, exit the laser adjustment mode, and engrave something that's easy to measure. e.g. a 10cm circle or box. And then measure the output size.
+Now, very importantly, exit the laser adjustment mode, and engrave something that's easy to measure. e.g. a 10cm circle or box. And then measure the output size.
 
 In my case, each axis has reduced to 40% of the output size. i.e. a 100mm circle becomes 40mm. Which means, the **max** engraving area is now only **40mm x 40mm**. So, if you want to engrave an image of which longest side is 30mm, you need to set it to 30/0.4=75mm in the App.
 
