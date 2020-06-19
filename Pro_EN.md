@@ -174,6 +174,13 @@ PCB is easy to engrave. Here's a comparison of L1's and Pro's result. After the 
 <img src="images/pcb01.jpg" height="300px">
 
 
+### Eye Glasses Case (Synthetic Leather)
+
+I started with (30,20) and tried a few more higher settings without leaving a mark at all. Finally I used (70,30) and it looked good.
+
+<img src="images/gb01.jpg" height="200px">
+
+
 ### Decorative Carbon-Fibre Car Sticker
 Firstly, please use Gcode mode for cutting.
 
