@@ -222,6 +222,13 @@ The design on the plastic cover with (30,30).
 <img src="images/ps15.jpg" height="160px">
 
 
+### Paint on Metal
+
+This is a metal insulated cup with a layer of paint finish on the outside.
+I used (100,100) for some really good result without the need to colour it with a black whiteboard marker.
+
+<img src="images/mt01.jpg" height="300px">
+
 
 ### Eyeglass Cleaning Cloths
 
