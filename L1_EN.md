@@ -63,8 +63,7 @@ Wood is one of the most easy & satisfying materials to engrave. Darker wood grai
 
 **Tip**: If the first go leaves an uneven result. Do not touch your material and do a 2nd burn over it with the same or higher setting.
 
-<img src="images/w03.jpg" height="200px">
-
+<img src="images/w03.jpg" height="200px"><img src="images/w04.jpg" height="200px">
 
 ### Paint on Metal
 
