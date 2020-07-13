@@ -71,7 +71,7 @@ Don't be put off by the low rating of the App in Play Store or App Store. It isn
 
 There are 5 modes for image processing:
 1) **Pencil**: Converts image to pencil sketch style via edge detection.
-2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting.
+2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting. You can add different levels of line-fill in the dark area of the original image byt sliding the slider dot to the right. On the very right end you will get 100% fill by lines. It is not necessarily faster than directly using Bin mode, depending on the complaxity of your image. Try it out to see what works better for you. Personally, I find 50% fill works pretty well for wood.
 3) **Bin**: Binary, i.e. black & white mode. It converts your image to black and white for engraving.  
 4) **Gray**: Converts your image to gray scale. However, the engraving results may not be as good as you expect. Material is very important. MDF boards are very good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved.
 5) **Seal**: Inverts your desired image/pattern for making stamps.
