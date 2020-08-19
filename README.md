@@ -69,7 +69,7 @@ Controlling the engraver is done via LaserPecker App in your smartphone over Blu
 
 Don't be put off by the low rating of the App in Play Store or App Store. It isn't perfect, but it's improving and updating frequently.
 
-Most people don't realise that, ** once an engraving job is started, it is OK to quit the app or move your phone out of Bluetooth range.** You will lose the timer and progress info, but you are free to do whatever you want while waiting for the engraving to finish.
+Most people don't realise that, **once an engraving job is started, it is OK to quit the app or move your phone out of Bluetooth range.** You will lose the timer and progress info, but you are free to do whatever you want while waiting for the engraving to finish.
 
 Without the app, you can pause/resume the job by tapping on the circle button on the back of your engraver. Hold that button to cancel the job.
 
