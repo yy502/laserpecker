@@ -69,12 +69,23 @@ Controlling the engraver is done via LaserPecker App in your smartphone over Blu
 
 Don't be put off by the low rating of the App in Play Store or App Store. It isn't perfect, but it's improving and updating frequently.
 
+Most people don't realise that, ** once an engraving job is started, it is OK to quit the app or move your phone out of Bluetooth range.** You will lose the timer and progress info, but you are free to do whatever you want while waiting for the engraving to finish.
+
+Without the app, you can pause/resume the job by tapping on the circle button on the back of your engraver. Hold that button to cancel the job.
+
+
 There are 5 modes for image processing:
 1) **Pencil**: Converts image to pencil sketch style via edge detection.
-2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting. You can add different levels of line-fill in the dark area of the original image byt sliding the slider dot to the right. On the very right end you will get 100% fill by lines. It is not necessarily faster than directly using Bin mode, depending on the complaxity of your image. Try it out to see what works better for you. Personally, I find 50% fill works pretty well for wood.
+2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting. You can add different levels of line-fill in the dark area of the original image byt sliding the slider dot to the right. On the very right end you will get 100% fill by lines. It is not necessarily faster than directly using Bin mode, depending on the complexity of your image. Try it out to see what works better for you. Personally, I find 50% fill works pretty well for wood.
 3) **Bin**: Binary, i.e. black & white mode. It converts your image to black and white for engraving.  
-4) **Gray**: Converts your image to gray scale. However, the engraving results may not be as good as you expect. Material is very important. MDF boards are very good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved.
-5) **Seal**: Inverts your desired image/pattern for making stamps.
+4) **Gray**: Converts your image to gray scale. However, the engraving results may not be as good as you expect. Material is very important. MDF boards and thick brown paper are very good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved with varying power/depth settings.
+5) **Seal**: Inverts your desired image/pattern for making stamps. To be used with photosensitive stamps.
 
-Known bug (Android): if the App has connected to the engraver, and you hit Back button a few times to get back to the initial page before choosing an engraver to connect to; and then try to search for the engraver, the App won't find any. You will need to force kill the App, and the relaunch it to start over. A little annoying, but it's not the end of the world.
+The Creation mode is being actively developed. It now supports custom fonts. Note that if you set your texts to hollow style, they will be engraved with Gcode mode. i.e. the laser will trace each character's outline rather than scanning through line by line.
 
+
+# Safety
+
+Never ever look at the laser for long time (say, more than 10 seconds) when it's engraving, even with eye protections. It's OK to look at the laser in adjustment mode. It's low power.
+
+I know it's hard to resist watching the ongoing engraving job, we have all done it ;-P If you must watch for whatever reason, turn on the camera app in your phone and watch over phone screen.
