@@ -146,14 +146,6 @@ If you have a 3D printer and some modeling skills, you can design your own adapt
 
 Here are my STL files: (1) [L1/Pro 3D model](misc/L1_model.stl) (2) [L1 stand adapter](misc/L1_stand_adapter.stl) (3) [L1 stand adapter lens insert](misc/L1_stand_adapter_lens_insert.stl)
 
-
-My friend **正沧** has designed a more generic lens holder. Here are some photos of it.
-
-<img src="images/mod15.jpg" height="200px"><img src="images/mod16.jpg" height="200px"><img src="images/mod17.jpg" height="200px"><img src="images/mod18.jpg" height="200px">
-
-<img src="images/mod19.jpg" height="200px"><img src="images/mod20.jpg" height="200px">
-
-
 Now, the magnifier will make the optimal focal length much shorter. It all depends on the particular magnifier you use, but it's really easy to find it.
 
 Firstly, in the App, go to laser adjustment options and turn on the laster. It won't burn anything.
