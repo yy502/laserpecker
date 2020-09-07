@@ -1,4 +1,4 @@
-# All About L1 (being updated...)
+# All About L1
 
 L1 is cheaper, faster, slightly more powerful than the Pro. Accuracy-wise, it's not as precise as Pro. You need to think about what you want to achieve. As an owner of L1 Pro, I'd say it does not replace L1 completely, and I will keep using my L1 for certain tasks.
 
