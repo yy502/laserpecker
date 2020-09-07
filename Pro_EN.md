@@ -1,4 +1,4 @@
-# All About L1 Pro (being updated...)
+# All About L1 Pro
 
 ## Unpacking Pro Deluxe Edition
 **What came in the Deluxe Edition**:
