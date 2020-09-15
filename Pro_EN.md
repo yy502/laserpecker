@@ -164,9 +164,6 @@ Plastic is easy to engrave, and you can't go too wrong about it. The only trick 
 <img src="images/pl06.jpg" height="200px">
 
 
-### Coloured Paper
-
-To come ...
 
 ### PCB (L1 vs L1 Pro)
 PCB is easy to engrave. Here's a comparison of L1's and Pro's result. After the not-so-successful result of L1 at the bottom of my USB power meter (forgot about the setting), I tried my Pro on the top-left for the same texts with (30,30)x2 setting, and it looks really good. Mainly due to Pro's improved resolution.
@@ -246,6 +243,16 @@ I'm not sure what exact material it was, but it's one of the common quick-dry sh
 
 <img src="images/cl02.jpg" height="200px"><img src="images/cl03.jpg" height="200px"><img src="images/cl04.jpg" height="200px">
 
+
+Below was a test on son's old school uniform, 65% polyester, 35% viscose, with (100,60) setting. It took me 3 tests to find this setting:
+
+1. default (100,70), burnt through;
+2. (100,50), too shallow
+3. (100,60), just right.
+
+The mark feels really nice and does not rub off. Remember always **do your own tests** on the inside of the clothes first, to find out the best setting for yours.
+
+<img src="images/cl05.jpg" height="300px">
 
 
 # Misc Notes
