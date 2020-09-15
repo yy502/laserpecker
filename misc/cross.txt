@@ -1,0 +1,38 @@
+M05 S0
+G90
+;all units in mm
+G21
+;move fast
+G1 F3000
+
+G1  X0.00000 Y50.00000
+G4 P0
+;laser on
+M03 S200
+G4 P0
+
+G1 F500
+G1  X0.00000 Y-50.00000
+G4 P0
+;laser off
+M05 S0
+;move fast
+G1 F3000
+
+G1  X-50.00000 Y0.00000
+G4 P0
+;laser on
+M03 S200
+G4 P0
+
+G1 F500
+G1  X50.00000 Y0.00000
+G4 P0
+;laser off
+M05 S0
+;move fast
+G1 F3000
+
+
+;return to origin
+G1 X0 Y0

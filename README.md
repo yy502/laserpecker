@@ -21,31 +21,24 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 |  | L1 | L1 Pro |
 | ------ | ------ | ------ |
 | Laser | 450nm Blue, 1600mW | 405nm Blue-Violet, 500mW (equivalent to 1500mW) |
-| Pixel Size | 0.3mm (or smaller\*)| 0.15mm |
-| Engrave Range|100mm x 100mm (or larger\**)| 100mm x 100mm (or larger\*\*\*)|
-
+| Pixel Size | 0.3mm (or smaller\*) | 0.15mm |
+| Engrave Range|100mm x 100mm | 100mm x 100mm |
 
 \* Can be improved with an easy modification, but engraving range will reduce as a trade-off. Read on.
 
-\*\* Up to 200mm x 140mm with Gcode. Read my L1 review.
 
-\*\*\* Up to 106mm x 106mm with Gcode, but the improvement is so small that it's not worth the trouble.
+# [L1 Review](L1_EN.md)
 
+# [L1 Pro Review](Pro_EN.md)
 
-# L1 Review
+# [Automatic Stand](Auto_Stand_EN.md)
 
-[Click here](L1_EN.md)
+# Modifications
 
-
-# L1 Pro Review
-
-[Click here](Pro_EN.md)
-
-
-# Automatic Stand
-
-[Click Here](Auto_Stand_EN.md)
-
+* [Kick-ass mod to improve L1 accuracy and power](https://github.com/yy502/laserpecker-review/blob/master/L1_EN.md#kick-ass-modification-cheap--cheerful)
+* [Laser guide add-on to assist alignment for both L1 and L1 Pro]()
+* [Flip adaptor for auto-stand]()
+* [4-way placement extension for auto-stand]()
 
 # Speed Comparison
 
@@ -64,6 +57,8 @@ Some quick numbers to note:
 
 
 # LaserPecker App
+
+_The App is updated frequently. My description here may be outdated._
 
 Controlling the engraver is done via LaserPecker App in your smartphone over Bluetooth. I do wish there's a desktop (Linux particularly) client or API available, as I'm a big fan of automation via scripting.
 
