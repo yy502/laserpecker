@@ -37,7 +37,7 @@ This allows you to view the target engraving from a more natual direction compar
 
 ## Part
 
-* 3D printed (flip adapter](/misc/LaserPecke_auto_stand_flip_adaptor.stl)
+* 3D printed [flip adapter](/misc/LaserPecke_auto_stand_flip_adaptor.stl)
 
 ## Usage
 
