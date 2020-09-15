@@ -10,6 +10,8 @@
 * optional: 3D printed adapter ring:
     * [v1: with AAA battery holder](/misc/laser_alignment_bracket_with_AAA_battery_holder.stl) or
     * [v2: without battery holder](/misc/laser_alignment_bracket_no_battery_holder.stl)
+    * 20% fill
+    * 0.2mm layer height
 
 ## Assembly
 
@@ -38,6 +40,8 @@ This allows you to view the target engraving from a more natual direction compar
 ## Part
 
 * 3D printed [flip adapter](/misc/LaserPecke_auto_stand_flip_adaptor.stl)
+    * 20% fill
+    * 0.2mm layer height
 
 ## Usage
 
@@ -49,6 +53,15 @@ Place the 3D printed flip adapter in the engraver's socket in the auto-stand, th
 # 4-way Placement Extension for Auto-Stand
 
 Let's take the flip adapter above to the next level, and make a 4-way extension for the auto-stand. It moves the engraver slightly further aaway from the neck of the stand, allows the user to freely position large objects under the engraver as needed.
+
+## Part
+
+* 3D printed [4-way extension](/misc/LaserPecker_auto_stand_extension.stl)
+    * flip the model to reduce need for support
+    * 20% fill
+    * 0.2mm layer height
+
+## Usage
 
 [Video demo of installation](/images/4-way_extension_installation.mp4)
 
