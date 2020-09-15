@@ -46,7 +46,7 @@ Place the 3D printed flip adapter in the engraver's socket in the auto-stand, th
 <img src="images/mod35.jpg" height="200px"><img src="images/mod36.jpg" height="200px"><img src="images/mod37.jpg" height="200px"><img src="images/mod38.jpg" height="200px">
 
 
-# 4-way placement extension for auto-stand
+# 4-way Placement Extension for Auto-Stand
 
 Let's take the flip adapter above to the next level, and make a 4-way extension for the auto-stand. It moves the engraver slightly further aaway from the neck of the stand, allows the user to freely position large objects under the engraver as needed.
 
