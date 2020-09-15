@@ -35,8 +35,8 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 
 # Modifications
 
-* [Kick-ass mod to improve L1 accuracy and power](https://github.com/yy502/laserpecker-review/blob/master/L1_EN.md#kick-ass-modification-cheap--cheerful)
-* [Laser guide add-on to assist alignment for both L1 and L1 Pro]()
+* [Kick-ass mod to improve L1 accuracy and power](/L1_EN.md#kick-ass-modification-cheap--cheerful)
+* [Laser guide add-on to assist alignment for both L1 and L1 Pro](/master/modifications.md#laser-guide-add-on-to-assist-alignment-for-both-l1-and-l1-pro)
 * [Flip adaptor for auto-stand]()
 * [4-way placement extension for auto-stand]()
 
