@@ -45,7 +45,7 @@ This allows you to view the target engraving from a more natural direction compa
 
 Place the 3D printed flip adapter in the engraver's socket in the auto-stand, then put the engraver in the adapter as below:
 
-<img src="images/mod35.jpg" height="200px"><img src="images/mod36.jpg" height="200px"><img src="images/mod37.jpg" height="200px"><img src="images/mod38.jpg" height="200px">
+<img src="images/mod35.jpg" height="250px"><img src="images/mod36.jpg" height="250px"><img src="images/mod37.jpg" height="250px"><img src="images/mod38.jpg" height="250px">
 
 
 # 4-Way Placement Extension for Auto-Stand
@@ -64,7 +64,7 @@ Click to watch demo:
 
 [![](https://img.youtube.com/vi/LHewuDs2KtI/0.jpg)](https://www.youtube.com/watch?v=LHewuDs2KtI)
 
-<img src="images/mod39.jpg" height="200px"><img src="images/mod40.jpg" height="200px"><img src="images/mod41.jpg" height="200px">
+<img src="images/mod39.jpg" height="300px"><img src="images/mod40.jpg" height="300px"><img src="images/mod41.jpg" height="300px">
 
 
 # 3-Way Compact Adaptor for Auto-Stand
