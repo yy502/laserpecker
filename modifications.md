@@ -60,6 +60,8 @@ Let's take the flip adapter above to the next level, and make a 4-way extension 
 
 ## Usage
 
+Click to watch demo:
+
 [![](https://img.youtube.com/vi/LHewuDs2KtI/0.jpg)](https://www.youtube.com/watch?v=LHewuDs2KtI)
 
 <img src="images/mod39.jpg" height="200px"><img src="images/mod40.jpg" height="200px"><img src="images/mod41.jpg" height="200px">
@@ -82,7 +84,7 @@ Although this one does not move the engraver further away from the pillar of the
 
 ## Usage
 
-Click to watch video demo:
+Click to watch demo:
 
 [![](https://img.youtube.com/vi/M8BzCmOQJhY/0.jpg)](https://www.youtube.com/watch?v=M8BzCmOQJhY)
 
