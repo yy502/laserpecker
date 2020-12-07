@@ -39,6 +39,7 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 * [Laser guide add-on to assist alignment for both L1 and L1 Pro](/modifications.md#laser-guide-add-on-to-assist-alignment-for-both-l1-and-l1-pro)
 * [Flip adaptor for auto-stand](/modifications.md#flip-adaptor-for-auto-stand)
 * [4-way placement extension for auto-stand](/modifications.md#4-way-placement-extension-for-auto-stand)
+* [3-way compact adaptor for auto-stand](/modifications.md#3-way-compact-adaptor-for-auto-stand)
 
 # Speed Comparison
 
