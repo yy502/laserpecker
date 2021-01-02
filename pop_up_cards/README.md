@@ -14,9 +14,9 @@ I created these Gcode files using the templates downloaded from above linked web
 
 **These Gcode files are tailored for LaserPecker L1 and L1 Pro ONLY**
 
-<img src="pop_up_1.jpg" height="200px"><img src="pop_up_2.jpg" height="200px">
+<img src="pop_up_1.jpg" height="300px"><img src="pop_up_2.jpg" height="300px">
 
-<img src="pop_up_3.jpg" height="200px"><img src="pop_up_4.jpg" height="200px">
+<img src="pop_up_3.jpg" height="300px"><img src="pop_up_4.jpg" height="300px">
 
 
 Steps:
