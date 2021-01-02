@@ -14,13 +14,13 @@ I created these Gcode files using the templates downloaded from above linked web
 
 **These Gcode files are tailored for LaserPecker L1 and L1 Pro ONLY**
 
-<img src="pop_up_1.jpg" height="300px"><img src="pop_up_2.jpg" height="300px">
+<img src="pop_up_1.jpg" height="400px"><img src="pop_up_2.jpg" height="400px">
 
 <img src="pop_up_3.jpg" height="300px"><img src="pop_up_4.jpg" height="300px">
 
 
 Steps:
-1. Download Gcode (`.txt`) files listed above to your phone. Note there are 2 sets of files for *thin* and *thick* papers. **They do not work on white paper.**
+1. Download Gcode (`.txt`) files listed above to your phone. Note there are 2 sets of files for *thin* (quick cut) and *thick* (slow cut) papers. **They do not work on white paper.**
     * Android: copy to `(phone storage) > laserpecker files` directory in your phone. This is also where additional custom fonts (`.ttf` files) live.
     * iOS (2nd-hand info): copy to `Files > Laserpecker > matarialgcode directory` (yes, the directory name is misspelt by LP). **Or** use the **Share** function. The Gcode files can be in any directory in the `Files` app. It can be in Dropbox, iCloud, any location accessible by `Files`. Then select the Gcode file within `Files`, click **Share** button, and select LaserPecker App to share to.
 2. Have a test run first. If 1-pass didn't cut it perfectly, you can either trace the burn marks with a sharp knife, or start over and use the multi pass setting for the number of passes your paper requires.
