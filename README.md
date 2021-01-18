@@ -61,9 +61,11 @@ Some quick numbers to note:
 
 _The App is updated frequently. My description here may be outdated._
 
-Controlling the engraver is done via LaserPecker App in your smartphone over Bluetooth. I do wish there's a desktop (Linux particularly) client or API available, as I'm a big fan of automation via scripting.
+Controlling the engraver is done via LaserPecker App in your smartphone over Bluetooth. The official desktop client is due to be released in March 2021.
 
 Don't be put off by the low rating of the App in Play Store or App Store. It isn't perfect, but it's improving and updating frequently.
+
+To Android users, the App requires **Location Permision** because Google made it that way, not that LaserPecker wants to know where you are. For your reference, read this [Android development documentation here](https://developer.android.com/guide/topics/connectivity/bluetooth#Permissions). To sumarise, it's because by allowing an App to perform a Bluetooth scan, it can potentially identify your location. To force-make users aware of this risk, any App that needs to scan for BLE (Bluetooth Low Energy) devices is forced to request Location Permission.
 
 Most people don't realise that, **once an engraving job is started, it is OK to quit the app or move your phone out of Bluetooth range.** You will lose the timer and progress info, but you are free to do whatever you want while waiting for the engraving to finish.
 
