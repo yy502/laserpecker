@@ -41,23 +41,10 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 * [4-way placement extension for auto-stand](/modifications.md#4-way-placement-extension-for-auto-stand)
 * [3-way compact adaptor for auto-stand](/modifications.md#3-way-compact-adaptor-for-auto-stand)
 
-# Speed Comparison
 
-Due to Pro's increased precision, it takes up to **four** times long to engrave the same amount of pixels. I have tested every depth setting available in the App, and have produced the graph below. It shows how much time a Pro takes compared to an L1.
+# What LaserPecker Don't Tell You...
 
-Some quick numbers to note:
-
-* at up to 75% depth, Pro performs very similarly to L1.
-* at 80-85% depth, Pro takes about 1.5 times long compared to L1.
-* at 90% depth, Pro takes about 2 times long compared to L1.
-* at 95% depth, Pro takes about 2.5 times long compared to L1.
-* at 100% depth, Pro takes about 4 times long compared to L1.
-
-
-<img src="images/pro_to_L1.png">
-
-
-# LaserPecker App
+## About the LaserPecker App
 
 _The App is updated frequently. My description here may be outdated._
 
@@ -74,12 +61,28 @@ Without the app, you can pause/resume the job by tapping on the circle button on
 
 There are 5 modes for image processing:
 1) **Pencil**: Converts image to pencil sketch style via edge detection.
-2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting. You can add different levels of line-fill in the dark area of the original image byt sliding the slider dot to the right. On the very right end you will get 100% fill by lines. It is not necessarily faster than directly using Bin mode, depending on the complexity of your image. Try it out to see what works better for you. Personally, I find 50% fill works pretty well for wood.
+2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting. You can add different levels of line-fill in the dark area of the original image byt sliding the slider dot to the right. On the very right end you will get 100% fill by lines. It is not necessarily faster than directly using Bin mode, depending on the complexity of your image. Try it out to see what works better for you. Personally, I find 50% fill works pretty well for wood. **Note that Gcode mode is secretly about 2x powerful than other modes suing the same setting.** For example, I found that Gcode (70,30) produces about the same result as Bin (100,70). Potentially you can lower the depth setting to speed up your job.
 3) **Bin**: Binary, i.e. black & white mode. It converts your image to black and white for engraving.  
-4) **Gray**: Converts your image to gray scale. However, the engraving results may not be as good as you expect. Material is very important. MDF boards and thick brown paper are very good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved with varying power/depth settings.
+4) **Gray**: Converts your image to grayscale. Your iamge may look nice in the App, but the engraving result is most likely as good as you expect. Material is very *very* **very** important. MDF boards and thick brown paper are pretty good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved with varying power/depth settings. Don't be disappointed if your result misses half of the details. Think of it this way, all the gray pixels in your image are coverted to different powers of laser pulses, let's say from level 1 to level 10, to achieve 10 levels of burn, in theory. However, in reality your matierial does not get burnt up to power level 5; and it gets burnt equally dark from level 9 to 10. So all the pixels that are meant to be burnt with power level 1 to 5 won't show. And all the pixels burnt with power 9 and 10 become indistinguishable. As a result, the 10-level grayscale image becomes 4-level only (level 6, 7, 8, 9+10). This is a common challenge in laser engraving. And the solutionm is to dither your image and use Bin mode to engrave it. Here is a free online tool for this http://imag-r.com/.
 5) **Seal**: Inverts your desired image/pattern for making stamps. To be used with photosensitive stamps.
 
 The Creation mode is being actively developed. It now supports custom fonts. Note that if you set your texts to hollow style, they will be engraved with Gcode mode. i.e. the laser will trace each character's outline rather than scanning through line by line.
+
+
+## L1 vs Pro Speed Comparison
+
+Due to Pro's increased precision, it takes up to **four** times long to engrave the same amount of pixels. I have tested every depth setting available in the App, and have produced the graph below. It shows how much time a Pro takes compared to an L1.
+
+Some quick numbers to note:
+
+* at up to 75% depth, Pro performs very similarly to L1.
+* at 80-85% depth, Pro takes about 1.5 times long compared to L1.
+* at 90% depth, Pro takes about 2 times long compared to L1.
+* at 95% depth, Pro takes about 2.5 times long compared to L1.
+* at 100% depth, Pro takes about 4 times long compared to L1.
+
+
+<img src="images/pro_to_L1.png">
 
 
 # Safety
