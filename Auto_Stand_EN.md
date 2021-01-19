@@ -18,7 +18,7 @@ In the middle, there's the fan for blowing smoke away for consistent engraving r
 
 On the right, connectors and the main processor.
 
-<img src="images/es05.jpg" height="400px">
+<img src="images/es05.jpg" height="600px">
 
 
 ## Noisy Fan & Replacement
