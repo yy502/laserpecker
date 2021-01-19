@@ -3,7 +3,7 @@ I am a happy owner of both LaserPecker L1 and L1 Pro. Here I share some of my th
 
 
 # LaserPecker
-LaserPecker is brand of affordable and portable consumer level laser engravers. So far they have released their first generation laser engravers (L1 and L1 Pro). The company will release more models with more powerful capabilities in 2020 and the near future.
+LaserPecker is brand of affordable and **portable** consumer level laser engravers. So far they have released their first generation laser engravers (L1 and L1 Pro). Their second generation portable engraver has been recently released via [KickStarter](https://www.kickstarter.com/projects/laserpecker-pro/laserpecker-2-the-best-handheld-laser-engraverandcutter).
 
 For more details, visit their official [English site](https://www.laserpecker.net/) or [Chinese site](http://www.laserpecker.cn/).
 
@@ -32,9 +32,9 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 # [L1 Pro Review](Pro_EN.md)
 
 # [Automatic Stand](Auto_Stand_EN.md)
+* [Noisy Fan & Replacement](Auto_Stand_EN.md#noisy-fan--replacement)
 
 # Modifications
-
 * [Kick-ass mod to improve L1 accuracy and power](/L1_EN.md#kick-ass-modification-cheap--cheerful)
 * [Laser guide add-on to assist alignment for both L1 and L1 Pro](/modifications.md#laser-guide-add-on-to-assist-alignment-for-both-l1-and-l1-pro)
 * [Flip adaptor for auto-stand](/modifications.md#flip-adaptor-for-auto-stand)
