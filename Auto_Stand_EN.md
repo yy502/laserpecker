@@ -25,7 +25,7 @@ On the right, connectors and the main processor.
 
 Noisy fan has been a common issue. Overtime, some fans become imbalanced and make loud noises due to vibration. At eraly stage, it can be fixed by eitehr turning the stand of and on again repeatedly, or use something to gentally tap on the centre area of the fan through the grille. Vibration makes this issue worse, so eventually it needs replacing.
 
-LaserPecker recognises this issue, and will replace the faulty fan free of charge. However, it takes too long for the user to post the stand back to China for the repaire and then wait for it to be sent back. If you are up for it, you can purchase a replacement fan (very cheap) and replace it yourself. I replaced mine.
+LaserPecker recognises this issue, and will replace the faulty fan free of charge. However, it takes too long for the user to post the stand back to China for the repaire and then wait for it to be sent back. If you are up for it, you can ask LaserPecker for a replacement fan or purchase a replacement fan (very cheap) and replace it yourself. I replaced mine.
 
 You need to get a standard 5010 5V PC fan. I bought mine from Aliexpress for about £1 including shipping. The keyword to search for is "5V 50mm fan", and this is a sample lising of such a fan.
 
