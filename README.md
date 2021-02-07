@@ -52,14 +52,25 @@ Controlling the engraver is done via LaserPecker App in your smartphone over Blu
 
 Don't be put off by the low rating of the App in Play Store or App Store. It isn't perfect, but it's improving and updating frequently.
 
+### Why Require Location Permision?
 To Android users, the App requires **Location Permision** because Google made it that way, not that LaserPecker wants to know where you are. For your reference, read this [Android development documentation here](https://developer.android.com/guide/topics/connectivity/bluetooth#Permissions). To sumarise, it's because by allowing an App to perform a Bluetooth scan, it can potentially identify your location. To force-make users aware of this risk, any App that needs to scan for BLE (Bluetooth Low Energy) devices is forced to request Location Permission.
 
 Most people don't realise that, **once an engraving job is started, it is OK to quit the app or move your phone out of Bluetooth range.** You will lose the timer and progress info, but you are free to do whatever you want while waiting for the engraving to finish.
 
 Without the app, you can pause/resume the job by tapping on the circle button on the back of your engraver. Hold that button to cancel the job.
 
+### Registration & Satety PIN
+The initial registration process works as below:
+1. Enter your email address and get a verification code sent to it. At the same time, the code is sent to the app in the background to be verified against.
+2. Wait for the verification email. Check your Spam/Junk folder. **Do not repeatedly click on "Send Code" button in the app.** You will end up getting multiple verification emails, but only the last one is valid. So it does not descrease your wait time but to make it worse.
+3. Once you get the verification code and set your safety PIN, the PIN is **stored in the engraver**.
+4. When you use your engraver with a fresh install of the LP app, in your current device or a different device, you only need to verify the safety PIN at the bottom of the registration page. There's no need to reregister.
 
-There are 5 modes for image processing:
+If you transfer your device to a different user, he/she can go through the registration process like you did and overwrite the safety PIN.
+
+
+### Modes
+There are **5 modes** for image processing:
 1) **Pencil**: Converts image to pencil sketch style via edge detection.
 2) **G-code**: Converts image to vector paths via edge detection, mainly for cutting with (100,100) setting. You can add different levels of line-fill in the dark area of the original image byt sliding the slider dot to the right. On the very right end you will get 100% fill by lines. It is not necessarily faster than directly using Bin mode, depending on the complexity of your image. Try it out to see what works better for you. Personally, I find 50% fill works pretty well for wood. **Note that Gcode mode is secretly about 2x powerful than other modes suing the same setting.** For example, I found that Gcode (70,30) produces about the same result as Bin (100,70). Potentially you can lower the depth setting to speed up your job.
 3) **Bin**: Binary, i.e. black & white mode. It converts your image to black and white for engraving.  
