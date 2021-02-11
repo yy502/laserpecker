@@ -1,16 +1,15 @@
 # Laser Guide Add-On to Assist Alignment for both L1 and L1 Pro
 
 ## Parts
-* 9mm 5mW cross laser head, 3V or 5V
+* 9mm or 12mm diameter cross laser head, 3V or 5V
 * some blue tac
 * power source:
     * 2x AA or AAA batteries with holder for 3V laser head, or
     * a USB cable for 5V laser head
 * optional: a DC switch
-* optional: 3D printed adapter ring:
-    * [v1: with AAA battery holder](/misc/laser_alignment_bracket_with_AAA_battery_holder.stl) or
-    * [v2: without battery holder](/misc/laser_alignment_bracket_no_battery_holder.stl)
-    * 20% fill, 0.2mm layer height
+* 3D printed bracket:
+    * [bracket stl file](/misc/laser_head_bracket.stl)
+    * 20% fill, 0.2mm layer height, no support needed
 
 ## Assembly
 
