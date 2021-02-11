@@ -2,7 +2,7 @@
 
 ## Parts
 * 9mm or 12mm diameter cross laser head, 3V or 5V
-* some blue tac
+* some blue tac to keep the laser head in the holder and keep it adjustable
 * power source:
     * 2x AA or AAA batteries with holder for 3V laser head, or
     * a USB cable for 5V laser head
