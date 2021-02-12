@@ -55,9 +55,10 @@ Don't be put off by the low rating of the App in Play Store or App Store. It isn
 ### Why Require Location Permision?
 To Android users, the App requires **Location Permision** because Google made it that way, not that LaserPecker wants to know where you are. For your reference, read this [Android development documentation here](https://developer.android.com/guide/topics/connectivity/bluetooth#Permissions). To sumarise, it's because by allowing an App to perform a Bluetooth scan, it can potentially identify your location. To force-make users aware of this risk, any App that needs to scan for BLE (Bluetooth Low Energy) devices is forced to request Location Permission.
 
-Most people don't realise that, **once an engraving job is started, it is OK to quit the app or move your phone out of Bluetooth range.** You will lose the timer and progress info, but you are free to do whatever you want while waiting for the engraving to finish.
+### Offline Engraving
+Most people don't realise that, **once an engraving job is started, it is OK to quit the app or move your phone out of Bluetooth range.** You will lose the timer and progress info, and unable to carry on multi-pass engraving if you chose to engrave more than 1 pass, but you are free to do whatever you want while waiting for the engraving to finish.
 
-Without the app, you can pause/resume the job by tapping on the circle button on the back of your engraver. Hold that button to cancel the job.
+Without the app, you can pause/resume the job by tapping on the **circle button** on the back of your engraver. Hold that button to cancel the job.
 
 ### Registration & Satety PIN
 The initial registration process works as below:
