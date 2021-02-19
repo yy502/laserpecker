@@ -6,7 +6,7 @@ The stand folds up and fits into the carry case nicely. It does not have built-i
 
 This stand can raise the engraver up to 29cm away from the base, meaning it can engrave objects up to 9cm thick, which covers most objects you want to engrave on. In case you want to engrave on very large objects, or engrave at certain angle, use the tripod that came with the engraver.
 
-I have put a carbon-fibre sticker onto the base, and engraved a 100mm x 100mm grid over it to assist alignment of target objects. The grid is done via Gcode. I actually has 3 designs of the grids in Gcode files which can be found here: [yy502/inkscape-laserpecker/](https://github.com/yy502/inkscape-laserpecker/) in `misc` directory. 
+I have put a carbon-fibre sticker onto the base, and engraved a 100mm x 100mm grid over it to assist alignment of target objects. The grid is done via Gcode. I actually has 3 designs of the grids in Gcode files which can be found here: [yy502/inkscape-laserpecker/resources](https://github.com/yy502/inkscape-laserpecker/tree/master/resources). 
 
 <img src="images/es01.jpg" height="200px"><img src="images/es02.jpg" height="200px"><img src="images/es03.jpg" height="200px"><img src="images/es04.jpg" height="200px">
 
@@ -25,7 +25,7 @@ On the right, connectors and the main processor.
 
 Noisy fan has been a common issue. Overtime, some fans become imbalanced and make loud noises due to vibration. At eraly stage, it can be fixed by eitehr turning the stand of and on again repeatedly, or use something to gentally tap on the centre area of the fan through the grille. Vibration makes this issue worse, so eventually it needs replacing.
 
-LaserPecker recognises this issue, and will replace the faulty fan free of charge. However, it takes too long for the user to post the stand back to China for the repaire and then wait for it to be sent back. If you are up for it, you can ask LaserPecker for a replacement fan or purchase a replacement fan (very cheap) and replace it yourself. I replaced mine.
+LaserPecker recognises this issue, and will replace the faulty fan free of charge. However, it takes too long for the user to post the stand back to China for the repair and then wait for it to be sent back. If you are up for it, you can ask LaserPecker for a replacement fan or purchase a replacement fan (very cheap) and replace it yourself. I replaced mine.
 
 You need to get a standard 5010 5V PC fan. I bought mine from Aliexpress for about £1 including shipping. The keyword to search for is "5V 50mm fan", and this is a sample lising of such a fan.
 
