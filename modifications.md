@@ -37,7 +37,7 @@ This allows you to view the target engraving from a more natural direction compa
 
 ## Part
 
-* 3D printed [flip adapter](/misc/LaserPecker_auto_stand_flip_adaptor.stl)
+* 3D printed [flip adapter](/misc/L1Pro_auto_stand_flip_adaptor.stl)
     * 20% fill, 0.2mm layer height
 
 ## Usage
@@ -53,7 +53,7 @@ Let's take the flip adapter above to the next level, and make a 4-way extension 
 
 ## Part
 
-* 3D printed [4-way extension](/misc/LaserPecker_auto_stand_extension.stl)
+* 3D printed [4-way extension](/misc/L1Pro_auto_stand_extension.stl)
     * flip the model to reduce need for support
     * 20% fill, 0.2mm layer height
 
@@ -76,7 +76,7 @@ Although this one does not move the engraver further away from the pillar of the
 
 ## Part
 
-* 3D printed [3-way adaptor](/misc/LaserPecker_auto_stand_3-way_adaptor.stl)
+* 3D printed [3-way adaptor](/misc/L1Pro_auto_stand_3-way_adaptor.stl)
     * need support, either side up is fine
     * 15% fill, 0.2mm layer height
     * only takes about 4.2m of filament and 1h15min to print
