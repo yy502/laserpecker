@@ -8,7 +8,7 @@
     * a USB cable for 5V laser head
 * optional: a DC switch
 * 3D printed bracket:
-    * [bracket stl file](/misc/laser_head_bracket.stl)
+    * [bracket stl file](/misc/L1Pro_laser_head_bracket.stl)
     * 20% fill, 0.2mm layer height, no support needed
 
 ## Assembly
