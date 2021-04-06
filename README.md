@@ -1,5 +1,5 @@
-# LaserPecker L1 & L1 Pro Review
-I am a happy owner of both LaserPecker L1 and L1 Pro. Here I share some of my thoughts and uses of them. I may refer to L1 Pro as Pro for short in the rest of the article.
+# LaserPecker L1/Pro & LP2 Review
+I am a happy owner of LaserPecker L1, L1 Pro and LP2. Here I share some of my thoughts and notes on using them. I may refer to L1 Pro as Pro for short in the rest of the articles.
 
 
 # LaserPecker
@@ -34,12 +34,14 @@ L1 and Pro are of the same size & design, with minor difference as shown below. 
 # [Automatic Stand](Auto_Stand_EN.md)
 * [Noisy Fan & Replacement](Auto_Stand_EN.md#noisy-fan--replacement)
 
-# Modifications
+# L1/Pro Modifications
 * [Kick-ass mod to improve L1 accuracy and power](/L1_EN.md#kick-ass-modification-cheap--cheerful)
 * [Laser guide add-on to assist alignment for both L1 and L1 Pro](/modifications.md#laser-guide-add-on-to-assist-alignment-for-both-l1-and-l1-pro)
 * [Flip adaptor for auto-stand](/modifications.md#flip-adaptor-for-auto-stand)
 * [4-way placement extension for auto-stand](/modifications.md#4-way-placement-extension-for-auto-stand)
 * [3-way compact adaptor for auto-stand](/modifications.md#3-way-compact-adaptor-for-auto-stand)
+
+# [LP2 Pre-Release Tests](LP2_pre_release_tests.md)
 
 
 # What LaserPecker Don't Tell You...
