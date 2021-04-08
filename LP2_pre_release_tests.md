@@ -116,6 +116,7 @@ From Test #52 I started using a concise format of `Resolution,Power,Depth,Pass` 
 
 * [Test #54: Bullet Shells (Steel and Brass)](https://www.facebook.com/groups/374697760505822/permalink/460641638578100/)
 
+* [Test #55: Portrait on Slate](https://www.facebook.com/groups/374697760505822/permalink/465311201444477/)
 
 
 
