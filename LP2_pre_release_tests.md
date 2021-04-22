@@ -120,3 +120,4 @@ From Test #52 I started using a concise format of `Resolution,Power,Depth,Pass` 
 
 * [Test #56: Cone (Plastic Cup)](https://www.facebook.com/groups/374697760505822/permalink/472151160760481/)
 
+* [Proof-of-concept: Cut disposable keys in 30 seconds](https://www.facebook.com/groups/374697760505822/permalink/473288640646733/)
