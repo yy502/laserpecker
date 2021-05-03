@@ -123,3 +123,5 @@ From Test #52 I started using a concise format of `Resolution,Power,Depth,Pass` 
 * [Proof-of-concept: Cut disposable keys in 30 seconds](https://www.facebook.com/groups/374697760505822/permalink/473288640646733/)
 
 * [Test #57: Wine and Water Glasses](https://www.facebook.com/groups/374697760505822/permalink/475310693777861/)
+
+* [Test #58: Epoxy on Carbon Fibre](https://www.facebook.com/groups/374697760505822/permalink/479796713329259/)
