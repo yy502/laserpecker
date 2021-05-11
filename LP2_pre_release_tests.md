@@ -129,3 +129,5 @@ From Test #52 I started using a concise format of `Resolution,Power,Depth,Pass` 
 * [Test #59: Velvet Bags](https://www.facebook.com/groups/374697760505822/permalink/483018633007067/)
 
 * [Test #60: Uncoated Aluminium](https://www.facebook.com/groups/374697760505822/permalink/483039696338294/)
+
+[Unboxing LP2 Deluxe](https://www.facebook.com/groups/374697760505822/permalink/484832762825654/)
