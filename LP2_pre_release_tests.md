@@ -2,9 +2,12 @@
 
 Test 1 to 13 were done with an early LP2 prototype.
 
-Test 14 onwards were done with an LP2 RC (Release Candidate) version.
+Test 14 to 60 were done with an LP2 RC (Release Candidate) version.
+
+Test 61 onwards were done with the final version. See [unboxing the LP2 Deluxe](https://www.facebook.com/groups/374697760505822/permalink/484832762825654/).
 
 From Test #52 I started using a concise format of `Resolution,Power,Depth,Pass` to note engraving settings I used. So if you see something like `1.3,100,50,1`, it means 1.3k resolution, 100% power, 50% depth and 1-pass was used.
+
 
 * [Test #1: Power Bank](https://www.facebook.com/groups/374697760505822/permalink/402016467773951/)
 
@@ -130,4 +133,6 @@ From Test #52 I started using a concise format of `Resolution,Power,Depth,Pass` 
 
 * [Test #60: Uncoated Aluminium](https://www.facebook.com/groups/374697760505822/permalink/483039696338294/)
 
-[Unboxing LP2 Deluxe](https://www.facebook.com/groups/374697760505822/permalink/484832762825654/)
+* [Test #61: Post-It Notes](https://www.facebook.com/groups/374697760505822/permalink/485163339459263/)
+
+* [Test #62: Photosensitive Stamp](https://www.facebook.com/groups/374697760505822/permalink/487073255934938/)
