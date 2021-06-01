@@ -136,3 +136,7 @@ From Test #52 I started using a concise format of `Resolution,Power,Depth,Pass` 
 * [Test #61: Post-It Notes](https://www.facebook.com/groups/374697760505822/permalink/485163339459263/)
 
 * [Test #62: Photosensitive Stamp](https://www.facebook.com/groups/374697760505822/permalink/487073255934938/)
+
+* [Test #63: Mixed Materials](https://www.facebook.com/groups/374697760505822/permalink/494716925170571/)
+
+* [Test #64: Clear Acrylic](https://www.facebook.com/groups/374697760505822/permalink/497014911607439/)
