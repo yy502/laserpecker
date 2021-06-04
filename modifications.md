@@ -1,6 +1,8 @@
-# Laser Guide Add-On to Assist Alignment for both L1 and L1 Pro
+# Mods for L1/L1 Pro
 
-## Parts
+## Laser Guide Add-On to Assist Alignment
+
+### Parts
 * 9mm or 12mm diameter cross laser head, 3V or 5V
 * some blue tac to keep the laser head in the holder and keep it adjustable
 * power source:
@@ -9,9 +11,9 @@
 * optional: a DC switch
 * 3D printed bracket:
     * [bracket stl file](/misc/L1Pro_laser_head_bracket.stl)
-    * 20% fill, 0.2mm layer height, no support needed
+    * 20% infill, 0.2mm layer height, no support needed
 
-## Assembly
+### Assembly
 
 Connect the laser head to the power source directly or via a switch for easy operation. If you use 5V version, you will need a multi-port USB power adapter or a 2nd power adapter to power the laser head.
 
@@ -19,7 +21,7 @@ This is how I attached everything to my Pro, with a self-locking push switch on 
 
 <img src="images/mod30.jpg" height="200px"><img src="images/mod31.jpg" height="200px"><img src="images/mod32.jpg" height="200px"><img src="images/mod33.jpg" height="200px"><img src="images/mod34.jpg" height="200px">
 
-## Usage
+### Usage
 
 You should do the follow for the initial calibration:
 
@@ -31,33 +33,33 @@ You should do the follow for the initial calibration:
 Provided there's enough blue tac to hold the laser head in place, the next time you turn on your engraver and the laser head, you only need to double check the engraver's laser origin (app > laser adjustment > turn on laser) is spot on the center of the cross laser. If it's off, it won't be much. Just slightly move the laser head a bit. You don't need to engrave the calibration cross every time you use it.
 
 
-# Flip Adaptor for Auto-Stand
+## Flip Adaptor for Auto-Stand
 
 This allows you to view the target engraving from a more natural direction compared to the inverted way by the original design. It also resolves some restrictions on object placement due to the neck of the stand being in the way.
 
-## Part
+### Part
 
-* 3D printed [flip adapter](/misc/L1Pro_auto_stand_flip_adaptor.stl)
-    * 20% fill, 0.2mm layer height
+* 3D printed [flip adapter (stl file)](/misc/L1Pro_auto_stand_flip_adaptor.stl)
+    * 20% infill, 0.2mm layer height
 
-## Usage
+### Usage
 
 Place the 3D printed flip adapter in the engraver's socket in the auto-stand, then put the engraver in the adapter as below:
 
 <img src="images/mod35.jpg" height="250px"><img src="images/mod36.jpg" height="250px"><img src="images/mod37.jpg" height="250px"><img src="images/mod38.jpg" height="250px">
 
 
-# 4-Way Placement Extension for Auto-Stand
+## 4-Way Placement Extension for Auto-Stand
 
 Let's take the flip adapter above to the next level, and make a 4-way extension for the auto-stand. It moves the engraver slightly further away from the pillar of the stand, allows the user to freely position large objects under the engraver as needed.
 
-## Part
+### Part
 
-* 3D printed [4-way extension](/misc/L1Pro_auto_stand_extension.stl)
+* 3D printed [4-way extension (stl file)](/misc/L1Pro_auto_stand_extension.stl)
     * flip the model to reduce need for support
-    * 20% fill, 0.2mm layer height
+    * 20% infill, 0.2mm layer height
 
-## Usage
+### Usage
 
 Click to watch demo:
 
@@ -66,7 +68,7 @@ Click to watch demo:
 <img src="images/mod39.jpg" height="300px"><img src="images/mod40.jpg" height="300px"><img src="images/mod41.jpg" height="300px">
 
 
-# 3-Way Compact Adaptor for Auto-Stand
+## 3-Way Compact Adaptor for Auto-Stand
 
 This is my 3rd design of adaptors to improve the usability of LaserPecker's Auto Stand.
 
@@ -74,17 +76,43 @@ Although the laser window in the engraver seems a slim, long shape, with careful
 
 Although this one does not move the engraver further away from the pillar of the auto stand, by allowing the engraver to face 3 different ways, you can actually avoid the pillar and engrave on most large objects.
 
-## Part
+### Part
 
-* 3D printed [3-way adaptor](/misc/L1Pro_auto_stand_3-way_adaptor.stl)
+* 3D printed [3-way adaptor (stl file)](/misc/L1Pro_auto_stand_3-way_adaptor.stl)
     * need support, either side up is fine
-    * 15% fill, 0.2mm layer height
+    * 15% infill, 0.2mm layer height
     * only takes about 4.2m of filament and 1h15min to print
 
-## Usage
+### Usage
 
 Click to watch demo:
 
 [![](https://img.youtube.com/vi/M8BzCmOQJhY/0.jpg)](https://www.youtube.com/watch?v=M8BzCmOQJhY)
 
 <img src="images/mod42.png" height="300px"><img src="images/mod43.jpg" height="300px">
+
+# Mods for LP2
+
+## Focus Distance Probe
+
+This is a 3D printed probe to meaaure exactly 110mm from the bottom of the LP2 to the engraving surface. It is flexible by design so that it will not damage itself or your object when the engravers moves too close to the object.
+
+### Part
+
+* 3D printed [110m probe (stl file)](/misc/LP2_110mm_probe.stl)
+    * no support needed
+    * 15%+ infill, 0.2mm- layer height
+    * After printing, carefully separate the `/` design with a shape knife so that the end of the probe can retract when pressed.
+
+### Usage
+
+Push the end stopper to the bottom of the LP2, and lower the engraver till the tip of the probe touches the engraving surface without retraction.
+
+The probe snaps onto the handle for easy storage.
+
+Click to watch demo:
+
+[![](https://img.youtube.com/vi/iBxrqzMDpsU/0.jpg)](https://www.youtube.com/watch?v=iBxrqzMDpsU)
+
+<img src="images/mod44.jpg" height="300px"><img src="images/mod45.jpg" height="300px"><img src="images/mod46.png" height="300px">
+
