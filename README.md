@@ -32,6 +32,7 @@ For more details, visit their official [English site](https://www.laserpecker.ne
   - [Demos and Tips of L1](/L1.md)
   - [Demos and Tips of Pro](/Pro.md)
 - [Automatic Stand](/Auto_Stand.md)
+  - [Noisy Fan & Replacement](Auto_Stand.md#noisy-fan--replacement)
 - [L1/Pro Modifications](/L1_index.md#l1pro-modifications)
 ## LaserPecker 2
 - [LP2 Pre-Release Tests](LP2_pre_release_tests.md)
