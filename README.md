@@ -14,7 +14,6 @@ For more details, visit their official [English site](https://www.laserpecker.ne
 
 # Table of Contents
 ## Generic Info
-- [Online User Communities](/LP_fundamentals.md#online-user-communities)
 - [LaserPecker Fundamentals](/LP_fundamentals.md#laserpecker-fundamentals)
   - [About the LaserPecker App](/LP_fundamentals.md#about-the-laserpecker-app)
     - [Why Require Location Permission?](/LP_fundamentals.md#why-require-location-permision)
