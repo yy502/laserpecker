@@ -45,25 +45,27 @@ For LP2, there are **4** parameters to set per engraving job: **Resolution**, **
 
 There are **5 modes** for image processing:
 
-1) **Pencil**
+#### Pencil
 
 Converts image to pencil sketch style via edge detection. The converted image is black & white.
 
-2) **G-code**
+#### G-code
 
 Converts image to vector paths via edge detection, mainly used for cutting or tracing the outlines of patterns. You can add different levels of line-fill in the dark/solid areas of the original image byt sliding the slider dot to the right. Moving to the very right end will give you 100% solid fill. It is not necessarily faster than directly using Bin mode, depending on the complexity of your image.
 
 Try it out to see what works better for you. **Note that with L1/Pro, Gcode mode is secretly about 2x powerful than other modes suing the same setting.** For example, I found that Gcode mode with (70,30) setting produces about the same result as Bin mode with (100,70) setting. So potentially, you can lower the depth in Gcode mode to speed up your job.
 
-3) **Bin**
+#### Bin
 
-Binary, i.e. black & white mode. It converts your image to black and white for engraving.  
+Binary, i.e. black & white mode. It converts your image to black and white for engraving. Move the slider to adjust the conversion threshold.
 
-4) **Gray**
+#### Gray
 
-Converts your image to grayscale. Your image may look nice in the App, but the engraving result is most likely as good as you expect. Material is very *very* **very** important. MDF boards and thick brown paper are pretty good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow, as every pixel is engraved with varying power/depth settings. Don't be disappointed if your result misses half of the details. Think of it this way, all the gray pixels in your image are converted to different powers of laser pulses, let's say from level 1 to level 10, to achieve 10 levels of burn, in theory. However, in reality your material does not get burnt up to power level 5; and it gets burnt equally dark from level 9 to 10. So all the pixels that are meant to be burnt with power level 1 to 5 won't show. And all the pixels burnt with power 9 and 10 become indistinguishable. As a result, the 10-level grayscale image becomes 4-level only (level 6, 7, 8, 9+10). This is a common challenge in laser engraving. And the solution is to dither your image (i.e. to use different densities of black & white pixes to emulate grayscale) and use Bin mode to engrave it. Here is a free online tool for this http://imag-r.com/.
+Converts your image to grayscale, and therefore to different levels of power settings per laser pulse. Your image may look nice in the App, but the engraving result is most likely not as good as you expect. Choice of material is very *very* **very** important. MDF boards and thick brown paper are pretty good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow compared to other modes, as every pixel is engraved with varying power settings.
 
-5) **Seal**
+Don't be disappointed if your result misses half of the details. Think of it this way, imagine all the gray pixels in your image are converted to different power levels according to their brightness, let's say from level 1 to level 10, to achieve 10 levels of brightness of burns, in theory. However, in reality your material does not get burnt up to power level 5; and it gets burnt equally dark from level 9 to 10. So all the pixels that are meant to be burnt with power level 1 to 5 won't show. And all the pixels burnt with power 9 and 10 become indistinguishable. As a result, the 10-level grayscale image becomes 4-level only (level 6, 7, 8, 9+10). This is a common challenge in laser engraving. And the solution is to dither your image (i.e. to use different densities of black & white pixes to emulate grayscale) and use Bin mode to engrave it. Here is a free online tool for this http://imag-r.com/.
+
+#### Seal
 
 Inverts your desired image/pattern for making stamps. To be used with photosensitive stamps.
 
