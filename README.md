@@ -1,50 +1,63 @@
-# LaserPecker L1/Pro & LP2 Review
-I am a happy owner of LaserPecker L1, L1 Pro and LP2. Here I share some of my thoughts and notes on using them. I may refer to L1 Pro as Pro for short in the rest of the articles.
+# Unofficial Guide to LaserPecker L1, L1 Pro & LP2
+
+I am a happy owner of LaserPecker L1, L1 Pro and LP2. Here I document some of my usage and experience of using them. I may refer to L1 Pro as Pro for short in the rest of the articles.
+
+Please note that my methods and settings are not necessarily the best. I have never used any laser engraver before, and these are the only ones I have for hobby use. I'll try to update my articles as I learn new tricks and test new materials.
 
 
-# LaserPecker
-LaserPecker is brand of affordable and **portable** consumer level laser engravers. So far they have released their first generation laser engravers (L1 and L1 Pro). Their second generation portable engraver has been recently released via [KickStarter](https://www.kickstarter.com/projects/laserpecker-pro/laserpecker-2-the-best-handheld-laser-engraverandcutter).
+# About LaserPecker
 
-For more details, visit their official [English site](https://www.laserpecker.net/) or [Chinese site](http://www.laserpecker.cn/).
+LaserPecker is brand of affordable and **portable** consumer level laser engravers. So far they have released their first generation laser engravers (L1 and L1 Pro) and their second generation laser engraver (LP2).
 
-
-# L1 vs L1 Pro
-
-## The Look
-L1 and Pro are of the same size & design, with minor difference as shown below. Therefore both will fit onto the automatic stand. 
-
-![](images/L1_vs_Pro.jpg)
+For more details, visit their official [English site](https://www.laserpecker.net/).
 
 
-## Key Specifications
-
-|  | L1 | L1 Pro |
-| ------ | ------ | ------ |
-| Laser | 450nm Blue, 1600mW | 405nm Blue-Violet, 500mW (equivalent to 1500mW) |
-| Pixel Size | 0.3mm (or smaller\*) | 0.15mm |
-| Engrave Range|100mm x 100mm | 100mm x 100mm |
-
-\* Can be improved with an easy modification, but engraving range will reduce as a trade-off. Read on.
-
-
-# [L1 Review](L1_EN.md)
-
-# [L1 Pro Review](Pro_EN.md)
-
-# [Automatic Stand](Auto_Stand_EN.md)
-* [Noisy Fan & Replacement](Auto_Stand_EN.md#noisy-fan--replacement)
-
-# L1/Pro Modifications
-* [Kick-ass mod to improve L1 accuracy and power](/L1_EN.md#kick-ass-modification-cheap--cheerful)
-* [Laser guide add-on to assist alignment for both L1 and L1 Pro](/modifications.md#laser-guide-add-on-to-assist-alignment-for-both-l1-and-l1-pro)
-* [Flip adaptor for auto-stand](/modifications.md#flip-adaptor-for-auto-stand)
-* [4-way placement extension for auto-stand](/modifications.md#4-way-placement-extension-for-auto-stand)
-* [3-way compact adaptor for auto-stand](/modifications.md#3-way-compact-adaptor-for-auto-stand)
-
-# [LP2 Pre-Release Tests](LP2_pre_release_tests.md)
+# Table of contents
+## Generic Info
+- [Online User Communities](#online-user-communities)
+- [LaserPecker Fundamentals](#laserpecker-fundamentals)
+  - [About the LaserPecker App](#about-the-laserpecker-app)
+    - [Why Require Location Permision?](#why-require-location-permision)
+    - [Offline Engraving](#offline-engraving)
+    - [Registration & Satety PIN](#registration--satety-pin)
+    - [Modes](#modes)
+  - [Safety](#safety)
+## LaserPecker 1
+- [L1 & L1 Pro](/L1_index.md#l1--l1-pro)
+  - [The Look](/L1_index.md#the-look)
+  - [Key Specifications](/L1_index.md#key-specifications)
+  - [Speed Comparison](/L1_index.md#speed-comparison)
+- [Know Your Engraver](/L1_index.md#know-your-engraver)
+  - [Valid Engraving Distance](/L1_index.md#valid-engraving-distance)
+  - [Demos and Tips of L1](/L1.md)
+  - [Demos and Tips of Pro](/Pro.md)
+- [Automatic Stand](/Auto_Stand.md)
+- [L1/Pro Modifications](/L1_index.md#l1pro-modifications)
+## LaserPecker 2
+- [LP2 Pre-Release Tests](LP2_pre_release_tests.md)
 
 
-# What LaserPecker Don't Tell You...
+
+
+
+
+
+# Online User Communities
+
+LaserPecker has large and friendly user communities on Facebook.
+
+For 1st gen owners, please check out
+
+* [LaserPecker VIP Group (official)](https://www.facebook.com/groups/laserpecker/)
+* [LaserPecker User Group (unofficial)](https://www.facebook.com/groups/203376080793152/)
+
+For 2nd gen owners, please check out
+
+* [LaserPecker 2 VIP Group (official)](https://www.facebook.com/groups/374697760505822/)
+* [LaserPecker 2 User Group (unofficial)](https://www.facebook.com/groups/lp2users/)
+
+
+# LaserPecker Fundamentals
 
 ## About the LaserPecker App
 
@@ -83,24 +96,13 @@ There are **5 modes** for image processing:
 The Creation mode is being actively developed. It now supports custom fonts. Note that if you set your texts to hollow style, they will be engraved with Gcode mode. i.e. the laser will trace each character's outline rather than scanning through line by line.
 
 
-## L1 vs Pro Speed Comparison
-
-Due to Pro's increased precision, it takes up to **four** times long to engrave the same amount of pixels. I have tested every depth setting available in the App, and have produced the graph below. It shows how much time a Pro takes compared to an L1.
-
-Some quick numbers to note:
-
-* at up to 75% depth, Pro performs very similarly to L1.
-* at 80-85% depth, Pro takes about 1.5 times long compared to L1.
-* at 90% depth, Pro takes about 2 times long compared to L1.
-* at 95% depth, Pro takes about 2.5 times long compared to L1.
-* at 100% depth, Pro takes about 4 times long compared to L1.
 
 
-<img src="images/pro_to_L1.png">
-
-
-# Safety
+## Safety
 
 Never ever look at the laser for long time (say, more than 10 seconds) when it's engraving, even with eye protections. It's OK to look at the laser in adjustment mode. It's low power.
 
 I know it's hard to resist watching the ongoing engraving job, we have all done it ;-P If you must watch for whatever reason, turn on the camera app in your phone and watch over phone screen.
+
+
+
