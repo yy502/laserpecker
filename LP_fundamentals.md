@@ -34,24 +34,16 @@ The initial registration process works as below:
 If you transfer your device to a different user, you do not need to disclose your safety PIN unless you want to. The new user can go through the registration process like you did and overwrite the safety PIN.
 
 ### Settings and Notations
+* **Resolution (LP2 only)**: 1k, 1.3k or 2k. It means the number of dots or pixels per 100mm. So these settings can translate to 10px/mm (254dpi), 13px/mm (330dpi) or 20px/mm (508dpi).
+* **Power**: 1% to 100%. Higher power means higher engraving temperature.
+* **Depth**: 1% to 100%. Deeper means slower laser movement.
+* **Pass**: Times of engraving. Sometimes low power multi-pass works better than high power single-pass.
 
-#### Resolution (LP2 only)
-1k, 1.3k or 2k. It means the number of dots or pixels per 100mm. So these settings can translate to 10px/mm (254dpi), 13px/mm (330dpi) or 20px/mm (508dpi).
+Below are *my own* ways of writing down engraving settings concisely.
 
-#### Power
-1% to 100%. Higher power means higher engraving temperature.
+For L1/Pro, I write `(100,50)` for Power: `100%`, Depth: `50%`, `1`-pass; `(90,80)x2` for Power: `90%`, Depth: `80%`, `2`-pass. 
 
-#### Depth
-1% to 100%. Deeper means slower laser movement.
-
-#### Pass
-Engrave the same job with the same settings up to 20 times.
-
-Below are my own ways of writing down settings concisely.
-
-For L1/Pro, I write (100,50) for Power: 100%, Depth: 50%, 1-pass; (90,80)x2 for Power: 90%, Depth 80%, 2-pass. 
-
-For LP2, I write (1,100,50,1) for Resolution: 1k, Power: 100%, Depth: 50%, 1-pass; (2,80,20,2) for Resolution: 2k, Power: 80%, Depth: 20%, 2-pass; and finally (G,20,1,5) for Gcode mode (does not have a resolution option), Power: 20%, Depth: 1%, 5-pass.
+For LP2, it's important to note the resolution, too. So I write `(1,100,50,1)` for Resolution: `1k`, Power: `100%`, Depth: `50%`, `1`-pass; `(2,80,20,2)` for Resolution: `2k`, Power: `80%`, Depth: `20%`, `2`-pass; and finally `(G,20,1,5)` for `Gcode` mode (does not have a resolution option, defaults to 2k), Power: `20%`, Depth: `1%`, `5`-pass.
 
 ### Engraving Modes
 
