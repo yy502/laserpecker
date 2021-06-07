@@ -33,13 +33,25 @@ The initial registration process works as below:
 
 If you transfer your device to a different user, you do not need to disclose your safety PIN unless you want to. The new user can go through the registration process like you did and overwrite the safety PIN.
 
-### Notation of Settings
+### Settings and Notations
 
-These are my own ways of writing down settings concisely.
+#### Resolution (LP2 only)
+1k, 1.3k or 2k. It means the number of dots or pixels per 100mm. So these settings can translate to 10px/mm (254dpi), 13px/mm (330dpi) or 20px/mm (508dpi).
 
-For L1/Pro, there are **3** parameters to set per engraving job: **Power**, **Depth** and **Pass**. I write (100,50) for Power: 100%, Depth: 50%, 1-pass; (90,80)x2 for Power: 90%, Depth 80%, 2-pass. 
+#### Power
+1% to 100%. Higher power means higher engraving temperature.
 
-For LP2, there are **4** parameters to set per engraving job: **Resolution**, **Power**, **Depth** and **Pass**. I write (1,100,50,1) for Resolution: 1k, Power: 100%, Depth: 50%, 1-pass; (2,80,20,2) for Resolution: 2k, Power: 80%, Depth: 20%, 2-pass; and finally (G,20,1,5) for Gcode mode (does not have a resolution option), Power: 20%, Depth: 1%, 5-pass.
+#### Depth
+1% to 100%. Deeper means slower laser movement.
+
+#### Pass
+Engrave the same job with the same settings up to 20 times.
+
+Below are my own ways of writing down settings concisely.
+
+For L1/Pro, I write (100,50) for Power: 100%, Depth: 50%, 1-pass; (90,80)x2 for Power: 90%, Depth 80%, 2-pass. 
+
+For LP2, I write (1,100,50,1) for Resolution: 1k, Power: 100%, Depth: 50%, 1-pass; (2,80,20,2) for Resolution: 2k, Power: 80%, Depth: 20%, 2-pass; and finally (G,20,1,5) for Gcode mode (does not have a resolution option), Power: 20%, Depth: 1%, 5-pass.
 
 ### Engraving Modes
 
