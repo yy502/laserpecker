@@ -51,6 +51,7 @@ For more details, visit their official [English site](https://www.laserpecker.ne
   - [Paper](/LP2_pre_release_tests.md#paper)
   - [Leather](/LP2_pre_release_tests.md#leather)
   - [Photosensitive Stamp](/LP2_pre_release_tests.md#photosensitive-stamp)
+- [LP2 Modifications](/modifications.md#mods-for-lp2)
 
 
 
