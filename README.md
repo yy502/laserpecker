@@ -22,8 +22,8 @@ For more details, visit their official [English site](https://www.laserpecker.ne
     - [Registration & Safety PIN](/LP_fundamentals.md#registration--safety-pin)
     - [Settings and Notations](/LP_fundamentals.md#settings-and-notations)
     - [Engraving Modes](/LP_fundamentals.md#engraving-modes)
-  - [Safety](/LP_fundamentals.md#safety)
 - [Laser Engraving Tips & Tricks](/laser_engraving.md)
+  - [Safety](/laser_engraving.md#safety)
   - [Baking Soda Magic (on wood and fabric)](/laser_engraving.md#baking-soda-magic-on-wood-and-fabric)
 ## LaserPecker 1
 - [L1 & L1 Pro](/L1_index.md)
