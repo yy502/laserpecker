@@ -114,7 +114,7 @@ Click to watch demo:
 
 [![](https://img.youtube.com/vi/iBxrqzMDpsU/0.jpg)](https://www.youtube.com/watch?v=iBxrqzMDpsU)
 
-<img src="images/mod44.jpg" height="300px"><img src="images/mod45.jpg" height="300px"><img src="images/mod46.png" height="300px">
+<img src="images/mod44.jpg" height="220px"> <img src="images/mod45.jpg" height="220px"> <img src="images/mod46.png" height="220px">
 
 ## 3rd Axis Support Addons
 
