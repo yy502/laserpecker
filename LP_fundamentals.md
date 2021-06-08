@@ -80,8 +80,10 @@ The Creation mode is being actively developed. It now supports custom fonts. Not
 
 ## Safety
 
-Never ever look at the laser for long time (say, more than 10 seconds) when it's engraving, even with eye protections. It's OK to look at the laser in adjustment mode. It's low power.
+Never ever look at the laser when it's engraving with naked eyes. Do not stare at the laser when it's engraving even with eye protections. It's OK to look at the laser in preview mode. It's low power.
 
-I know it's hard to resist watching the ongoing engraving job, we have all done it ;-P If you must watch for whatever reason, turn on the camera app in your phone and watch over phone screen.
+I know it's hard to resist watching the ongoing engraving job, we have all done it... If you must watch it for whatever reason, point your phone's camera to it through some laser protection and watch over the phone screen.
+
+If you wish to purchase your own laser protections, make sure they protect against 405-450nm laser.
 
 
