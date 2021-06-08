@@ -116,3 +116,6 @@ Click to watch demo:
 
 <img src="images/mod44.jpg" height="300px"><img src="images/mod45.jpg" height="300px"><img src="images/mod46.png" height="300px">
 
+## 3rd Axis Support Addons
+
+(details to come)
