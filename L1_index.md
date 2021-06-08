@@ -41,6 +41,17 @@ Some quick numbers to note:
 Both L1 and Pro can engrave from 180mm to 220mm away from the target object, which means they can tolerate curved surfaces very well.
 However, there will be some level of distortion if the variance of engraving depth is too much, but normally it's not too obvious.
 
+## Common Issues & Solutions
+
+### My engraver engraves for a fraction of a second and stops.
+
+It stops due to low voltage from the power source, which could be either a poor quality power supply or a poor quality cable. Try a different power supply (5V2A, an original charger that came with your smartphone will do), or a better quality USB C cable.
+
+### My engraver won't connect to the app.
+
+If your engraver has a flshing blue light, it's standing by for connection. If you use an Android phone, enable GPS so the app can search nearby Bluetooth devices.
+
+If your engraver has a flashing green or yellow light after powering on, it's faulty. Contact the seller to arrange a replacement.
 
 ## [Demos and Tips of L1](L1.md)
 
