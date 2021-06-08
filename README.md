@@ -51,6 +51,12 @@ For more details, visit their official [English site](https://www.laserpecker.ne
   - [Paper](/LP2_pre_release_tests.md#paper)
   - [Leather](/LP2_pre_release_tests.md#leather)
   - [Photosensitive Stamp](/LP2_pre_release_tests.md#photosensitive-stamp)
+- [Know Your LP2](/LP2.md#know-your-lp2)
+  - [Limitations by Design](/LP2.md#limitations-by-design)
+  - [Engraving Distance](/LP2.md#engraving-distance)
+    - [Cutting Thick Material](/LP2.md#cutting-thick-material)
+    - [Curved Surface](/LP2.md#curved-surface)
+  - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
 - [LP2 Modifications](/modifications.md#mods-for-lp2)
 
 
