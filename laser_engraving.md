@@ -21,3 +21,8 @@ Baking soda helps browning of wood and fabric when lasered, so that the treated 
 Here are some tests of mine on wood and cardboard:
 
 <img src="images/bs02.jpg" height="400px"> <img src="images/bs03.jpg" height="400px">
+
+
+## Dithering
+
+Dithering an image means to use different densities of black adn white pixels to emulate grayscale. The end goal is to use Bin mode (B&W) to engrave something that appears in grayscale. (more to come)
