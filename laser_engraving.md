@@ -25,4 +25,4 @@ Here are some tests of mine on wood and cardboard:
 
 ## Dithering
 
-Dithering an image means to use different densities of black adn white pixels to emulate grayscale. The end goal is to use Bin mode (B&W) to engrave something that appears in grayscale. (more to come)
+Dithering an image means to use different densities of black and white pixels to emulate grayscale. The end goal is to use Bin mode (B&W) to engrave (or print) something that appears in grayscale. (more to come)
