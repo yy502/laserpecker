@@ -25,6 +25,7 @@ For more details, visit their official [English site](https://www.laserpecker.ne
 - [Laser Engraving Tips & Tricks](/laser_engraving.md)
   - [Safety](/laser_engraving.md#safety)
   - [Baking Soda Magic (on wood and fabric)](/laser_engraving.md#baking-soda-magic-on-wood-and-fabric)
+  - [Dithering](/laser_engraving.md#dithering)
 ## LaserPecker 1
 - [L1 & L1 Pro](/L1_index.md)
   - [The Look](/L1_index.md#the-look)
