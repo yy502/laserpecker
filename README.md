@@ -38,6 +38,11 @@ For more details, visit their official [English site](https://www.laserpecker.ne
   - [Demos and Tips of Pro](Pro.md)
 - [Automatic Stand](Auto_Stand.md)
 - [L1/Pro Modifications](/L1_index.md#l1pro-modifications)
+  - [Kick-ass mod to improve L1 accuracy and power](/L1.md#kick-ass-modification-cheap--cheerful)
+  - [Laser guide add-on to assist alignment for both L1 and L1 Pro](/modifications.md#laser-guide-add-on-to-assist-alignment-for-both-l1-and-l1-pro)
+  - [Flip adaptor for auto-stand](/modifications.md#flip-adaptor-for-auto-stand)
+  - [4-way placement extension for auto-stand](/modifications.md#4-way-placement-extension-for-auto-stand)
+  - [3-way compact adaptor for auto-stand](/modifications.md#3-way-compact-adaptor-for-auto-stand)
 ## LaserPecker 2
 - [LP2 Pre-Release Tests](/LP2_pre_release_tests.md)
   - [LP2](/LP2_pre_release_tests.md#lp2)
@@ -59,6 +64,9 @@ For more details, visit their official [English site](https://www.laserpecker.ne
     - [Curved Surface](/LP2.md#curved-surface)
   - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
 - [LP2 Modifications](/modifications.md#mods-for-lp2)
+  - [Focus Distance Probe](/modifications.md#focus-distance-probe)
+  - [Vent Deflector](/modifications.md#vent-deflector)
+  - [3rd Axis Supports](/modifications.md#3rd-axis-supports)
 
 
 
