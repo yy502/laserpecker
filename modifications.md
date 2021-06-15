@@ -7,7 +7,8 @@
   - [3-Way Compact Adaptor for Auto-Stand](#3-way-compact-adaptor-for-auto-stand)
 - [Mods for LP2](#mods-for-lp2)
   - [Focus Distance Probe](#focus-distance-probe)
-  - [3rd Axis Support Addons](#3rd-axis-support-addons)
+  - [Vent Deflector](#vent-deflector)
+  - [3rd Axis Supports](#3rd-axis-supports)
 
 # Mods for L1/L1 Pro
 
