@@ -33,7 +33,22 @@ The initial registration process works as below:
 
 If you transfer your device to a different user, you do not need to disclose your safety PIN unless you want to. The new user can go through the registration process like you did and overwrite the safety PIN.
 
-### Settings and Notations
+### App Settings
+
+I'll omit some obvious ones.
+
+#### G-CODE Preview
+
+* **On**: During preview, the laser will trace the actual paths of the graphic. For example, a star.
+* **Off**: During preview, the laser will trace the rectangle that can contain the graphic. This is same as the preview in Bin, Gray and other modes.
+
+#### The third axis
+
+This option can only be enabled when a 3rd axis is connected to an LP2.
+
+To use the 3rd axis addon for engraving, you must enable it in app settings and select a desired mode.
+
+### Engraving Settings and Notations
 * **Resolution (LP2 only)**: 1k, 1.3k or 2k. It means the number of dots or pixels per 100mm. So these settings can translate to 10px/mm (254dpi), 13px/mm (330dpi) or 20px/mm (508dpi).
 * **Power**: 1% to 100%. Higher power means higher engraving temperature.
 * **Depth**: 1% to 100%. Deeper means slower laser movement.
