@@ -40,7 +40,9 @@ You must enable it in the app settings and select a desired mode before using it
 
 <img src="images/3rd01.jpg" height="600px">
 
-**Tip**: place your phone in parallel with the LP2 side by side, so that what's shown on the phone is in the same direction as what's going to be engraved. Then rotate your image as needed. This is particularly useful when engraving on cylinders. Do a rolling preview as well to make sure your cylinder is in the right direction on the 3rd axis. See my [demos of using the 3rd axis](/LP2_pre_release_tests.md#3rd-axis).  
+**Tip**: place your phone in parallel with the LP2 side by side, so that what's shown on the phone is in the same direction as what's going to be engraved. Then rotate your image as needed. This is particularly useful when engraving on cylinders. Do a scroll preview as well to make sure your cylinder is placed in the right direction on the 3rd axis. See my [demos of using the 3rd axis](/LP2_pre_release_tests.md#3rd-axis).  
+
+<img src="images/3rd02.jpg" height="600px"> <img src="images/3rd06.png" height="600px">
 
 ### Slab
 <img src="images/3rd03.jpg" height="500px">
