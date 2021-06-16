@@ -63,6 +63,7 @@ For more details, visit their official [English site](https://www.laserpecker.ne
   - [Engraving Distance](/LP2.md#engraving-distance)
     - [Cutting Thick Material](/LP2.md#cutting-thick-material)
     - [Curved Surface](/LP2.md#curved-surface)
+  - [Using the 3rd Axis Addon](/LP2.md#using-the-3rd-axis-addon)
   - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
 - [LP2 Modifications](/modifications.md#mods-for-lp2)
   - [Focus Distance Probe](/modifications.md#focus-distance-probe)
