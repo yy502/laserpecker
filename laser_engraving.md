@@ -35,7 +35,7 @@ Use `size (mm) x resolution (px/mm)` to get image size in pixels. Ignore dpi if 
 
 For example, I want a 60mm x 40mm engraving in 10px/mm resolution, I want to resize my image to 60x10=600px by 40x10=400px. If I use 2k resolution with my LP2, and I want an engraving of 50mm x 10mm, the optimal image size is 50x20=1000px by 10x20=200px.
 
-The reason why it's so important to resize the image and stick with the output size is to avoid having the App to resize (scale down) the image for engraving, and produce **scaling artifacts**, whcih will look like some ghosting grid in your engraving, but not visible in your image. It is a **mathamatical problem** (sampling), not a hardware issue. You can observe this by slowly zooming in and out a dithered image on your phone. Here is some additional info about it: http://www.glennchan.info/broadcast-monitors/scaling-artifacts/scaling-artifacts.htm
+The reason why it's so important to resize the image and stick with the output size is to avoid having the App to resize (scale down) the image for engraving, and produce **scaling artifacts**, which will look like some ghosting grid or rings in your engraving, but not visible in your converted image. It is a **mathamatical problem** (sampling), not a hardware issue. You can observe this by slowly zooming in and out a dithered image on your phone. Here is some additional info about it: http://www.glennchan.info/broadcast-monitors/scaling-artifacts/scaling-artifacts.htm
 
 ### Step 2 - Dither
 
