@@ -91,3 +91,13 @@ Inverts your desired image/pattern for making stamps. To be used with photosensi
 The Creation mode is being actively developed. It now supports custom fonts. Note that if you set your texts to hollow style, they will be engraved with Gcode mode. i.e. the laser will trace each character's outline rather than scanning through line by line.
 
 
+### Adding Custom Fonts
+
+Download your `.ttf` font files from the Internet:
+
+* **Android:** copy to `(phone storage) > laserpecker files` directory in your phone.
+* **iOS:** copy your font files to any Cloud drive, and **Open** or **Export** them on your iOS device. When prompted, choose **Open in** or **Save to** `Files` App, and then save it to `Laserpecker > matarialgcode` directory (yes, the directory name is misspelt by LP).
+
+Once the font files are in the correct directory in your phone, they will be loaded by LP app, visible in `Creation > More Fonts`.
+
+<img src="images/f01.jpg" height="600px"> <img src="images/f02.jpg" height="600px">
