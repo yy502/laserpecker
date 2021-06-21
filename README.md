@@ -23,6 +23,7 @@ For more details, visit their official [English site](https://www.laserpecker.ne
     - [App Settings](/LP_fundamentals.md##app-settings)
     - [Engraving Settings and Notations](/LP_fundamentals.md#engraving-settings-and-notations)
     - [Engraving Modes](/LP_fundamentals.md#engraving-modes)
+    - [Adding Custom Fonts](/LP_fundamentals.md#adding-custom-fonts)
 - [Laser Engraving Tips & Tricks](/laser_engraving.md)
   - [Safety](/laser_engraving.md#safety)
   - [Baking Soda Magic (on wood and fabric)](/laser_engraving.md#baking-soda-magic-on-wood-and-fabric)
