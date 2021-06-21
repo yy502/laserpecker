@@ -101,3 +101,5 @@ Download your `.ttf` font files from the Internet:
 Once the font files are in the correct directory in your phone, they will be loaded by LP app, visible in `Creation > More Fonts`.
 
 <img src="images/f01.jpg" height="600px"> <img src="images/f02.jpg" height="600px">
+
+If the LP app starts to crash after adding custom fonts, it means one or more font files are corrupted or imcompatible. You may move the new font files out of LP directory, and move them back in one by one and test run the LP app in between, to filter out the one(s) causing the crash.
