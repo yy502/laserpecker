@@ -66,6 +66,8 @@ For more details, visit their official [English site](https://www.laserpecker.ne
     - [Curved Surface](/LP2.md#curved-surface)
   - [Using the 3rd Axis Addon](/LP2.md#using-the-3rd-axis-addon)
   - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
+    - [My engraver won't connect to the app.](#my-engraver-wont-connect-to-the-app)
+    - [My object skids or tips over on the 3rd axis in Slab mode.](#my-object-skids-or-tips-over-on-the-3rd-axis-in-slab-mode)
 - [LP2 Modifications](/modifications.md#mods-for-lp2)
   - [Focus Distance Probe](/modifications.md#focus-distance-probe)
   - [Vent Deflector](/modifications.md#vent-deflector)
