@@ -54,3 +54,16 @@ Engrave in **Bin** mode, NOT Gray. That's the whole point of dithering.
 Remember to stick with your initial choices of engraving size (and resolution if using LP2).
 
 If you want to engrave it in a different size, re-dither your source image from the beginning.
+
+## Glass work (L1/Pro)
+
+The L1/Pro can not engrave on glass directly, but you can use it to make a stencil and then apply glass etching cream as an indirect way. ([Orinal Facebook post by David](https://www.facebook.com/groups/203376080793152/permalink/444034790060612/)) 
+
+**Step 1**: Mask off and paint with matt black nail varnish.
+
+**Step 2**: LP1 100,100 x3 passes.
+
+**Step 3**: Cover with Armour Etch cream for 3 minutes.
+
+**Step 4**: Wash off with water and then nail varnish remover.
+ 2) 
