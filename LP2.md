@@ -65,3 +65,11 @@ You must enable it in the app settings and select a desired mode before using it
 If your engraver has a flshing blue light, it's standing by for connection. If you use an Android phone, enable GPS so the app can search nearby Bluetooth devices.
 
 If your engraver has a flashing green or yellow light after powering on, it's faulty. Contact the seller to arrange a replacement.
+
+### My object skids or tips over on the 3rd axis in Slate mode.
+
+If your object is too short or light in weight, it may not have enough friction against the metal rollers, or tips over as it moves to the end of engraving. A quick fix it to make a conveyor plane with a wood board or something similar.
+
+<img src="images/3rd07.jpg" height="300px">
+
+<img src="images/3rd08.jpg" height="300px"> <img src="images/3rd09.jpg" height="300px">
