@@ -135,7 +135,7 @@ This is needed only when you engrave very light material, such as embossing powd
 ### Part
 * 3D printed [vent deflector (stl file)](/misc/LP2_vent_deflector.stl)
     * no support needed
-    * 15%+ infill, 0.2mm- layer height
+    * 15%+ infill, 0.1-0.2mm layer height
 
 ### Usage
 You may keep it on the engraver and slide it to the desired position as needed.
@@ -159,7 +159,7 @@ In addition, since the final version of the 3rd axis rollers are metal instead o
 ### Parts
 * 3D printed [part A](/misc/LP2_3rd_Axis_support_A.stl), [part B](/misc/LP2_3rd_Axis_support_B.stl) and [part C](/misc/LP2_3rd_Axis_support_C.stl)
    * need support
-   * 15%+ infill, 0.2mm- layer height
+   * 15%+ infill, 0.1-0.2mm layer height
 
 ### Usage
 * Adjust height of the end support with a stable flat object.
