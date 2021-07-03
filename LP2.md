@@ -78,5 +78,32 @@ If your object is too short or light in weight, it may not have enough friction 
 
 ## Facory calibration
 
-Warning: ONLY do this when your engraving is visibly distorted. This should be a one-off process and you should not do this often just because you can.
+### Warning
+* **ONLY** do this when your engraving is visibly distorted. This should be a one-off process and you should not do this often just because you can.
+* Do **NOT** try any other button in the app! **YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
 
+### Requirements
+
+1) Print this [calibration reference sheet](/misc/LP2_calibration_reference.pdf) and an A4 paper and cut it along the outline.
+
+<img src="images/ca01.jpg" height="400px"> <img src="images/ca02.jpg" height="400px">
+
+2) Use an Android phone, install LP2 factory calibration app [(apk file)](/misc/LP2_factory_calibration.apk). After installation, it looks like this:
+
+<img src="images/ca03.jpg" height="200px">
+
+### Procedures
+
+1) Place the calibration reference sheet onto the base of the stand. It should match the size of the base plate perfectly, otherwise your print is in a wrong size.
+2) Mount your LP2 onto the electric stand, lower it to the lowest position.
+3) Launch the factory calibration app. Select L2 on the top and then tap on your LP2 when it is discovered.
+4) Wait a few seconds until the red texts in the middle of the screen become "数据处理完成" (it means "data processed").
+5) Tap on any of the direction button to light up the laser and start calibration.
+6) Use the direction buttons to move the laser spot to its closest reference point, then tap on the gray Confirm button. Laser spot then moves to the next calibration point.
+7) Repeat step 6 until the laser spot returns to the centre and turns off. Now wait for a long beep and the laser lights up again in the centre. It will finally continuously trace the 100x100mm square. This is the end of calibration.
+8) Power off your LP2 and then power it back up.
+9) (Optional) Reconnect to the factory calibration app. Wait about 5 seconds for the initial data transmission. Place a non-white paper under the engraver. Wear your laser goggles. Tap on this "G_code方圆雕刻" button to engrave a squares+circles image to verify the calibration.
+
+<img src="images/ca04.jpg" width="600px">
+
+<img src="images/ca05.jpg" width="600px">
