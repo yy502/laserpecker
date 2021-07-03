@@ -76,7 +76,7 @@ If your object is too short or light in weight, it may not have enough friction 
 
 
 
-## Facory Calibration
+## Factory Calibration
 
 ### Warning
 * **ONLY** do this when your engraving is visibly distorted. This should be a one-off process and you should not do this often just because you can.
