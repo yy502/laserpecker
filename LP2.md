@@ -115,10 +115,14 @@ Click to watch a video demo of the whole process.
 
 ## Factory Reset Firmware
 
-In case of firmware upgrade failure or issues with a new firmware, you can easily rollback to the factory firmware (v3.0.1) by:
+In case of firmware update failure or issues with a new firmware, you can easily rollback to the factory firmware (v3.0.1) by:
 
 1) Unplug power from your LP2
 2) Plug in power to your LP2 and immediately press and hold the **two** circle buttons on the top of your LP2 until a red light comes up.
 3) Release the buttons. The red light will go off and a blue light should start to flash on your LP2.
 
-Rollback completed.
+Reset completed.
+
+## Update Firmware
+
+Connect your LP2 to the LP mobile app, then go to app menu -> Version -> Version Update -> (update if a new version is found).
