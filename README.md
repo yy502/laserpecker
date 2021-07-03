@@ -69,6 +69,7 @@ For more details, visit their [official website](https://www.laserpecker.net/).
   - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
     - [My engraver won't connect to the app.](/LP2.md#my-engraver-wont-connect-to-the-app)
     - [My object skids or tips over on the 3rd axis in Slab mode.](/LP2.md#my-object-skids-or-tips-over-on-the-3rd-axis-in-slab-mode)
+  - [Factory Calibration](/LP2.md#factory-calibration)
 - [LP2 Modifications](/modifications.md#mods-for-lp2)
   - [Focus Distance Probe](/modifications.md#focus-distance-probe)
   - [Vent Deflector](/modifications.md#vent-deflector)
