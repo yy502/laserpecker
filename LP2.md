@@ -94,6 +94,11 @@ If your object is too short or light in weight, it may not have enough friction 
 
 ### Procedures
 
+Click to watch a video demo of the whole process.
+
+[![](https://img.youtube.com/vi/Xw3VQ97L7yE/3.jpg)](https://www.youtube.com/watch?v=Xw3VQ97L7yE)
+
+
 1) Place the calibration reference sheet onto the base of the stand. It should match the size of the base plate perfectly, otherwise your print is in a wrong size.
 2) Mount your LP2 onto the electric stand, lower it to the lowest position.
 3) Launch the factory calibration app. Select L2 on the top and then tap on your LP2 when it is discovered.
