@@ -76,6 +76,7 @@ For more details, visit their [official website](https://www.laserpecker.net/).
   - [Focus Distance Probe](/modifications.md#focus-distance-probe)
   - [Vent Deflector](/modifications.md#vent-deflector)
   - [3rd Axis Supports](/modifications.md#3rd-axis-supports)
+  - [Power Bank Holder](/modifications.md#power-bank-holder)
 
 
 
