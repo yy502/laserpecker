@@ -53,6 +53,15 @@ If your engraver has a flshing blue light, it's standing by for connection. If y
 
 If your engraver has a flashing green or yellow light after powering on, it's faulty. Contact the seller to arrange a replacement.
 
+### Emergency stop! Out of bounds.
+
+Try this:
+1. go to menu > Laser Adjustment > turn on laser > auto adjust.
+2. then go to mode settings > tap on "security status" (the text) 5 times to enter the hidden calibration page
+3. click on the complete adjustment button, wait for the self test to complete
+4. power off the engraver and then back on.
+
+
 ## [Demos and Tips of L1](L1.md)
 
 ## [Demos and Tips of Pro](Pro.md)
