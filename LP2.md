@@ -12,7 +12,6 @@ differences are at the edge and corner with 3mm and 5mm thick material.
 <img src="images/LP2_laser_projection.png" height="900px">
 
 
-
 ## Engraving Distance
 
 LP2's optimal engraving distance is `110±1mm` (i.e. 109-111mm). Too close or too far will result in uneven results when you engrave a large-ish area, say over 65mm x 65mm.
@@ -35,28 +34,6 @@ Again, you may want to do some tests to check the engraving quality at slightly 
 <img src="images/LP2_engraving_distance_curve.png" height="800px">
 
 
-## Using The 3rd Axis Addon
-You must enable it in the app settings and select a desired mode before using it. The rollers will roll towards the appropriate direction per engraving mode. Naming them `Slab`, `Trolley` and `Cylinder` simplifies the confusion for users.
-
-<img src="images/3rd01.jpg" height="600px">
-
-**Tip**: place your phone in parallel with the LP2 side by side, so that what's shown on the phone is in the same direction as what's going to be engraved. Then rotate your image in the LP app as needed. This is particularly useful when engraving on cylinders. Do a **Scroll Preview** (this button is labeled **Continue** in iOS App) as well to make sure your cylinder is placed in the right direction on the 3rd axis. See my [demos of using the 3rd axis](/LP2_pre_release_tests.md#3rd-axis).  
-
-<img src="images/3rd02.jpg" height="500px"> <img src="images/3rd06.jpg" height="500px">
-
-### Slab
-<img src="images/3rd03.jpg" height="500px">
-
-
-### Trolley
-<img src="images/3rd04.jpg" height="500px">
-
-
-### Cylinder
-<img src="images/3rd05.jpg" height="500px">
-
-
-
 
 ## Common Issues & Solutions
 
@@ -65,15 +42,6 @@ You must enable it in the app settings and select a desired mode before using it
 If your engraver has a flshing blue light, it's standing by for connection. If you use an Android phone, enable GPS so the app can search nearby Bluetooth devices.
 
 If your engraver has a flashing green or yellow light after powering on, it's faulty. Contact the seller to arrange a replacement.
-
-### My object skids or tips over on the 3rd axis in Slab mode.
-
-If your object is too short or light in weight, it may not have enough friction against the metal rollers, or tips over as it moves to the end of engraving. A quick fix it to make a conveyor plane with a wood board or something similar.
-
-<img src="images/3rd07.jpg" height="300px">
-
-<img src="images/3rd08.jpg" height="300px"> <img src="images/3rd09.jpg" height="300px">
-
 
 
 ## Factory Calibration
