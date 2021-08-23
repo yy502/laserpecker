@@ -55,7 +55,16 @@ If your engraver has a flashing green or yellow light after powering on, it's fa
 
 ### Emergency stop! Out of bounds.
 
-Try this:
+The reason for this is simple. Normally the 100x100mm engrving area is within a larger laser movement boundary like so:
+
+<img src="images/oob1.png" width="80%">
+
+for whatever reason the origin is off, and therefore the engraving area may be outside the laser movement boundary, causing the error.
+
+<img src="images/oob2.png" width="80%">
+
+So, the fix is to move the origin back to the default position and save this position permenently in the engraver:
+
 1. go to menu > Laser Adjustment > turn on laser > auto adjust.
 2. then go to mode settings > tap on "security status" (the text) 5 times to enter the hidden calibration page
 3. click on the complete adjustment button, wait for the self test to complete
