@@ -70,6 +70,7 @@ For more details, visit their [official website](https://www.laserpecker.net/).
     - [Curved Surface](/LP2.md#curved-surface)
   - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
     - [My engraver won't connect to the app.](/LP2.md#my-engraver-wont-connect-to-the-app)
+    - [OMG! My stand moves up and down randomly by itself!](/LP2.md#omg-my-stand-moves-up-and-down-randomly-by-itself)
   - [Factory Calibration](/LP2.md#factory-calibration)
   - [Factory Reset Firmware](/LP2.md#factory-reset-firmware)
   - [Update Firmware](/LP2.md#update-firmware)
