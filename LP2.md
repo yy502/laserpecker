@@ -43,6 +43,11 @@ If your engraver has a flshing blue light, it's standing by for connection. If y
 
 If your engraver has a flashing green or yellow light after powering on, it's faulty. Contact the seller to arrange a replacement.
 
+### OMG! My stand moves up and down randomly by itself!
+
+Don't worry. It's becasue the AC socket you used was not properly earthed/grounded, so there were some interferences that caused this.
+
+Just use a different AC socket (on the wall, not on the same extenison board).
 
 ## Factory Calibration
 
