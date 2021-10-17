@@ -12,7 +12,7 @@ From Test #52 I started using a concise format of `(Resolution,Power,Depth,Pass)
 ## LP2
 * [Test #1: Power Bank](https://www.facebook.com/groups/374697760505822/permalink/402016467773951/)
 * [Test #2: Preview box and Texts](https://www.facebook.com/groups/374697760505822/permalink/402303671078564/)
-* [Test #9: L1 Pro vs L2](https://www.facebook.com/100046030778018/videos/265996781611346/)
+* [Test #9: L1 Pro vs L2](https://www.facebook.com/groups/374697760505822/posts/404717577503840)
 * [Test #25: Batch engraving button](https://www.facebook.com/groups/374697760505822/permalink/438656917443239/)
 * [Test #29: Faded Corners at Max Size ](https://www.facebook.com/groups/374697760505822/permalink/444594843516113/)
 * [Test #44: Dealing with Faded Corners](https://www.facebook.com/groups/374697760505822/permalink/452307826078148/)
