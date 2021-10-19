@@ -64,6 +64,7 @@ For more details, visit their [official website](https://www.laserpecker.net/).
   - [Leather](/LP2_pre_release_tests.md#leather)
   - [Photosensitive Stamp](/LP2_pre_release_tests.md#photosensitive-stamp)
 - [Know Your LP2](/LP2.md#know-your-lp2)
+  - [Turn It On/Off](/LP2.md#turn-it-onoff)
   - [Limitations by Design](/LP2.md#limitations-by-design)
   - [Engraving Distance](/LP2.md#engraving-distance)
     - [Cutting Thick Material](/LP2.md#cutting-thick-material)
