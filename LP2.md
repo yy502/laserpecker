@@ -1,5 +1,9 @@
 # Know Your LP2
 
+## Turn It On/Off
+
+As of firmware v3.0.7, the LP2 can be turned off without unplugging the power cord by press and hold the "Play" button on its top for 3 seconds. To turn it back on, short tap the same button.
+
 ## Limitations by Design
 Since the laser source is static on the engraver, it will project to a very small central area at approximately 90 degrees with the best focus spot (0.05mm).
 As the laser moves to the edges and corners of the max engraving area (100mm x 100mm), the projection angle reduces and the laser spot become an oval, which
