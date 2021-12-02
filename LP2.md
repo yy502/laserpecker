@@ -55,13 +55,26 @@ Just use a different AC socket (on the wall, not on the same extenison board).
 
 ## Factory Calibration
 
-### Warning
-* **ONLY** do this when your engraving is visibly distorted. This should be a one-off process and you should not do this often just because you can.
-* Do **NOT** try any other button in the app! **YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
+### WARNING
+**YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
+
+**YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
+
+**YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
+
+* I am sharing this guide based on my own experience, and I am not responsible for potential damage to your engraver.
+* **ONLY** do this when your engraving is visibly distorted and you are told to do so by LaserPecker tech support. This should be a one-off process and you should not do this often just because you can.
+* Do **NOT** try any other button in the app!
+
+**YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
+
+**YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
+
+**YOU COULD BRICK YOUR LP2 AND VOID YOUR WARRANTY!!**
 
 ### Requirements
 
-1) Print this [calibration reference sheet](/misc/LP2_calibration_reference.pdf) and an A4 paper and cut it along the outline.
+1) Print this [calibration reference sheet](/misc/LP2_calibration_reference.pdf) and an A4 paper and cut it along the outline. **Ensure the cutout perfectly matches the base of the stand. Otherwise, the scaling is wrong and it will mess up the calibration if you use it.**
 
 <img src="images/ca01.jpg" height="400px"> <img src="images/ca02.jpg" height="400px">
 
