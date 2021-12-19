@@ -2,7 +2,7 @@
 
 ## About the LaserPecker App
 
-_The App is updated frequently. My description here may be outdated. The latest version at the time of writing this article was v3.63_
+_**The App is updated frequently. My description here may be outdated. The latest version at the time of writing this article was v3.73**_
 
 Controlling the engraver is done via LaserPecker App in your smartphone/tablet over Bluetooth. The official desktop client is due to be released in 2021.
 
@@ -20,11 +20,11 @@ Without the app, you can pause/resume an ongoing job by tapping on the **circle 
 
 ### Access to Internet
 
-Only required during initial registration.
+Only required during initial registration and first use of a fresh install of the LP app.
 
 ### Registration & Safety PIN
 
-_Registration has been redesigned in late Dec/2021, from Android app v3.74, iOS app v???. This section has been updated for the new registration process._
+_Registration process has changed in late Dec/2021, from Android app v3.74 and iOS app v???. This section has been updated for the new registration process._
 
 The initial registration process works as below:
 
