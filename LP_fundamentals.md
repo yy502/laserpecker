@@ -24,14 +24,16 @@ Only required during initial registration.
 
 ### Registration & Safety PIN
 
+_Registration has been redesigned in late Dec/2021, from Android app v3.74, iOS app v???. This section has been updated for the new registration process._
+
 The initial registration process works as below:
 
 1. Enter your email address and get a verification code sent to it. At the same time, the code is sent to the app in the background to be verified against.
-2. Wait for the verification email. Check your Spam/Junk folder. **Do not repeatedly click on "Send Code" button in the app.** You will end up getting multiple verification emails, but only the last one is valid. So it does not decrease your wait time but make it worse.
-3. Once you get the verification code and set your safety PIN, the safety PIN is **stored in the engraver**.
-4. When you use your engraver with a fresh install of the LP app, you only need to verify the safety PIN at the bottom of the registration page (look carefully). There's no need to reregister unless you want to set a new safety PIN.
+2. Wait for the verification email. **Check your Spam/Junk folder. Do not repeatedly click on "Send Code" button in the app.** You will end up getting multiple verification emails, but only the last one is valid. So it does not decrease your wait time but make it worse.
+3. Once you get the verification code and set a safety PIN for your engraver, the safety PIN and the unique ID of your engraver are stored in your account in LP's server as well as locally in your phone. (Previously, safety PIN was stored in the engraver itself, which sometimes caused issues.) You can register multiple LP devices under one account. This is a very useful feature for (surprisingly many) users who have multiple LP engravers.
+4. When you start a fresh install of the LP app, you only need to log in once to retrieve all safety PINs for all your devices.
 
-If you transfer your device to a different user, you do not need to disclose your safety PIN unless you want to. The new user can go through the registration process like you did and overwrite the safety PIN.
+If you transfer your device to a different user, you do not need to disclose your account or safety PIN unless you want to. The new user can go through the registration process like you did and set their own safety PIN.
 
 ### App Settings
 
@@ -83,6 +85,8 @@ Binary, i.e. black & white mode. It converts your image to black and white for e
 Converts your image to grayscale, and therefore to different levels of power settings per laser pulse. Your image may look nice in the App, but the engraving result is most likely not as good as you expect. Choice of material is very *very* **very** important. MDF boards and thick brown paper are pretty good for this. Try it out for yourself. Be warned that engraving gray scale image is **very** slow compared to other modes, as every pixel is engraved with varying power settings.
 
 Don't be disappointed if your result misses half of the details. Think of it this way, imagine all the gray pixels in your image are converted to different power levels according to their brightness, let's say from level 1 to level 10, to achieve 10 levels of brightness of burns, in theory. However, in reality your material does not get burnt up to power level 5; and it gets burnt equally dark from level 9 to 10. So all the pixels that are meant to be burnt with power level 1 to 5 won't show. And all the pixels burnt with power 9 and 10 become indistinguishable. As a result, the 10-level grayscale image becomes 4-level only (level 6, 7, 8, 9+10). This is a common challenge in laser engraving. And the solution is to dither your image (i.e. to use different densities of black & white pixes to emulate grayscale) and use Bin mode to engrave it. See [Dithering](/laser_engraving.md#dithering) for more details.
+
+**[Dec/2021 update]:** From Android app v3.73 (iOS app version unknown), LP has listened to the community and added built-in dithering feature **for LP2**, which is amazing! (It does not work well with L1/L1 Pro, so this feature is not available to the 1st gen models.) Please also make sure you update LP2's firmware to v3.0.9 or higher, which contains an improvement that _significantly_ speeds up Gray mode engraving.
 
 #### Seal
 
