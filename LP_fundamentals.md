@@ -93,6 +93,8 @@ The Creation mode is being actively developed. It now supports custom fonts. Not
 
 ### Adding Custom Fonts
 
+_**To Android users: the information below only applies up to LP app v3.69. From v3.73, the app lost access to `laserpecker files` directory tempororily per Google's new privacy requirement. LP will add a proper feature in the app to import fonts in the next update.**_
+
 Download your `.ttf` font files from the Internet:
 
 * **Android:** copy to `(phone storage) > laserpecker files` directory in your phone.
