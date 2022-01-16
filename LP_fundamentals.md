@@ -76,6 +76,10 @@ Converts image to vector paths via edge detection, mainly used for cutting or tr
 
 Try it out to see what works better for you. **Note that with L1/Pro, Gcode mode is secretly about 2x powerful than other modes suing the same setting.** For example, I found that Gcode mode with (70,30) setting produces about the same result as Bin mode with (100,70) setting. So potentially, you can lower the depth in Gcode mode to speed up your job.
 
+Mind that when converting an image to Gcode, use solid drawings instead of line drawings. Using line drawings, even the lines are very thin, will result in double lines as illustrated below:
+
+<img src="images/gc01.jpg" height="500px">
+
 #### Bin
 
 Binary, i.e. black & white mode. It converts your image to black and white for engraving. Move the slider to adjust the conversion threshold.
