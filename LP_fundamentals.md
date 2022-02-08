@@ -101,15 +101,10 @@ The Creation mode is being actively developed. It now supports custom fonts. Not
 
 ### Adding Custom Fonts
 
-_**To Android users: the information below only applies up to LP app v3.69. From v3.73, the app lost access to `laserpecker files` directory tempororily per Google's new privacy requirement. LP will add a proper feature in the app to import fonts in the next update.**_
+Download your `.ttf` font files from the Internet to your phone. Make sure they are not zip/compressed files.
 
-Download your `.ttf` font files from the Internet:
+Launch LaserPecker app, go to **Creation** > **More Fonts** and click on the **+** on the top to select and add fonts. The font files will be copied into LP app. So if you uninstall your LP app, your fonts are gone. Personally I suggest you keep a copy of your font files in your phone, outside the LP app as a backup.
 
-* **Android:** copy to `(phone storage) > laserpecker files` directory in your phone.
-* **iOS:** copy your font files to any Cloud drive, and **Open** or **Export** them on your iOS device. When prompted, choose **Open in** or **Save to** `Files` App, and then save it to `Laserpecker > matarialgcode` directory (yes, the directory name is misspelt by LP).
+<img src="images/f01.jpg" height="600px"> <img src="images/f03.jpg" height="600px">
 
-Once the font files are in the correct directory in your phone, they will be loaded by LP app, visible in `Creation > More Fonts`.
-
-<img src="images/f01.jpg" height="600px"> <img src="images/f02.jpg" height="600px">
-
-If the LP app starts to crash after adding custom fonts, it means one or more font files are corrupted or imcompatible. You may move the new font files out of LP directory, and move them back in one by one and test run the LP app in between, to filter out the one(s) causing the crash.
+To delete a custom font from LP app, tap and hold on the font to be deleted in **More Fonts**, and then confirm deletion in the pop up.
