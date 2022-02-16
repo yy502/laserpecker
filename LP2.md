@@ -97,7 +97,7 @@ Click to watch a video demo of the whole process.
 6) Use the direction buttons to move the laser spot to its closest reference point, then tap on the gray Confirm button. Laser spot then moves to the next calibration point.
 7) Repeat step 6 until the laser spot returns to the centre and turns off. Now wait for a long beep and the laser lights up again in the centre. It will finally continuously trace the 100x100mm square. This is the end of calibration.
 8) Power off your LP2 and then power it back up.
-9) (Optional) Reconnect to the factory calibration app. Wait about 5 seconds for the initial data transmission. Place a non-white paper under the engraver. Wear your laser goggles. Tap on this "G_code方圆雕刻" button to engrave a squares+circles image to verify the calibration.
+9) (Optional) Reconnect to the factory calibration app. Wait about 5 seconds for the initial data transmission. Place a non-white paper under the engraver. Wear your laser goggles. Tap on this "G_code方圆雕刻" button to engrave a squares+circles image **on something not white** to verify the calibration.
 
 <img src="images/ca04.jpg" width="600px">
 
