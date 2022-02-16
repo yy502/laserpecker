@@ -2,7 +2,7 @@
 
 ## Turn It On/Off
 
-As of firmware v3.0.9, the LP2 can be turned off without unplugging the power cord by 3 taps on the "Play" button on its top. To turn it back on, tap the same button once.
+As of firmware v3.0.9, the LP2 can be turned off without unplugging the power cord by 3 taps on the "Play" button on its top. To turn it back on, tap the same button once. However, since touch buttons are disabled by default after powering on the LP2 for safety concerns, once you turn it back on, you have to enable the touch buttons via the app before you can turn it off the same way.
 
 ## Limitations by Design
 Since the laser source is static on the engraver, it will project to a very small central area at approximately 90 degrees with the best focus spot (0.05mm).
@@ -115,4 +115,4 @@ Reset completed.
 
 ## Update Firmware
 
-Connect your LP2 to the LP mobile app, then go to app menu -> Version -> Version Update -> (update if a new version is found).
+Connect your LP2 to the LP mobile app, then go to app menu -> Version -> Version Update -> (update if a new version is found). Never ever update the firmware via the desktop version of LP apps.
