@@ -130,7 +130,7 @@ Click to watch demo:
 
 <img src="images/mod44.jpg" height="220px"> <img src="images/mod45.jpg" height="220px"> <img src="images/mod46.png" height="220px">
 
-## Double Distance Probe
+## Double Distance Probes
 
 Compared to the single prove, this one offers: (1) hand-free measurement; (2) ensures the engraver is parallel to a large surface/object when tilted (see the last image in the video demo). Mind that this one is a bit difficult to print and clean up.
 
@@ -138,9 +138,10 @@ Compared to the single prove, this one offers: (1) hand-free measurement; (2) en
 
 * [LP2 110mm double probe (stl file)](/misc/LP2_110mm_double_probe.stl)
     * enable support
-    * use 15%+ infill and 0.1mm layer height
+    * use 15%+ infill and **0.1mm** layer height
+    * depending on your printer and filament, you may need to reduce flow a little bit.
     * After printing, carefully separate the `/` design with a shape knife so that the end of the probes can retract when pressed.
-    * Carefully observe the bottom of the hinge in an STL viewer or slicer, then use a sharp knife to separate the designed gaps in the first layer that may be stuck together due to elephant foot effect or use of brim.
+    * Carefully observe the bottom of the hinge in an STL viewer or slicer, then use a sharp knife to separate the designed gaps in the first layer that may be stuck together due to elephant foot effect or use of brim. I highly recommend you do a [test print of the hinge only](/misc/LP2_110mm_double_probe_test.stl) to see if your print settings need adjusting at all, before spending 3-4 hours printing the complete design. 
 
 ### Usage
 
