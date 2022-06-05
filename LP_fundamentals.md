@@ -2,11 +2,37 @@
 
 ## About the LaserPecker App
 
-_**The App is updated frequently. My description here may be outdated. The latest version at the time of writing this article was v3.73**_
+Controlling the engraver is done via LaserPecker App in your smartphone/tablet over Bluetooth. Don't be put off by the low rating of the App in Play Store or App Store. People leave bad ratings when they encounter bugs but never update their ratings when the bugs are fixed.
 
-Controlling the engraver is done via LaserPecker App in your smartphone/tablet over Bluetooth. The official desktop client is due to be released in 2021.
+_**The LaserPecker mobile app is updated frequently. My description here may be outdated. The latest version at the time of writing this article was v3.81 (Android).**_
 
-Don't be put off by the low rating of the App in Play Store or App Store. People leave bad ratings when they encounter bugs but never update their ratings when the bugs are fixed.
+### Android Users 
+
+There are two channels you can get the LaserPecker app from:
+
+1. Download and install LP app apk (installer) file from LP offcial website http://url.laserpecker.net/url/79818994891 and then rely on its built-in auto update function to stay current. You will get the latest app with bug fixes and new features if any.
+2. Install LP app from Google Play Store and rely on Play Store auto update to stay current. However, Google Play Store can be very slow in approving newer updates, so the app in this channel is normally 1 to 2 versins behind. For example, as of 5/Jun/2022, the LP app version in Play Store is 3.79 and the latest version via LP website is 3.81, which contains a critical bug fix.
+
+**Roll Back**: if you are experiencing a new bug in the latest LP app, you can uninstall it, and then download and install a previous version of it from https://m.apkpure.com/laserpecker/com.hingin.l1.hiprint/versions
+
+
+### iOS Users
+
+There are two LP apps in the App Store:
+1. `LaserPecker` - this is the one to get for all LP models.
+2. `LP 2` - this is a beta app for early testing of the LP2. Do not use this one.
+
+
+### Desktop Client
+
+The official desktop client for **LP2 and later models** has been in beta stage for over a year since mid 2021, due to the failure of the out-sourced software company. As of 2022, LP has hired more developers to build a new desktop client from scratch 100% in-house. 
+
+
+
+
+
+
+
 
 ### Android App - Why Require Location Permission?
 
