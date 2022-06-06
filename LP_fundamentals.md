@@ -11,7 +11,7 @@ _**The LaserPecker mobile app is updated frequently. My description here may be 
 There are two channels you can get the LaserPecker app from:
 
 1. Download and install LP app apk (installer) file from LP offcial website http://url.laserpecker.net/url/79818994891 and then rely on its built-in auto update function to stay current. You will get the latest app with bug fixes and new features if any.
-2. Install LP app from Google Play Store and rely on Play Store auto update to stay current. However, Google Play Store can be very slow in approving newer updates, so the app in this channel is normally 1 to 2 versins behind. For example, as of 5/Jun/2022, the LP app version in Play Store is 3.79 and the latest version via LP website is 3.81, which contains a critical bug fix.
+2. Install LP app from Google Play Store and rely on Play Store auto update to stay current. However, Google Play Store can be very slow in approving newer updates, so the app in this channel is normally 1 to 2 versins behind. For example, as of 5/Jun/2022, the LP app version in Play Store is 3.79 and the latest version via LP website is 3.81, which contains a critical bug fix. Note that LP app's built-in auto update will not work as the new apk from LP has different signature to Play Store version's. 
 
 **Roll Back**: if you are experiencing a new bug in the latest LP app, you can uninstall it, and then download and install a previous version of it from https://m.apkpure.com/laserpecker/com.hingin.l1.hiprint/versions
 
