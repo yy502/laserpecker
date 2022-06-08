@@ -116,7 +116,7 @@ For LP3 owners, please check out
 
 # Purchase
 
-If you find my user guide useful and wish to purchase an LP, please consider using my Affiliate links below :-)
+If you find my user guide useful and wish to purchase an LP, please consider using my affiliate links below :-)
 
 US$10 SiteWide Coupon Code: `LaserPecker`
 
