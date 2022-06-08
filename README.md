@@ -89,7 +89,8 @@ For more details, visit their [official website](https://www.laserpecker.net/).
   - [3rd Axis Supports](/modifications.md#3rd-axis-supports)
   - [Power Bank Holder](/modifications.md#power-bank-holder)
 - [LaserPecker 2 Engraving Time Estimator](http://laserpecker.ddns.net/)
-
+## LaserPecker 3
+- to be updated
 
 
 
@@ -97,15 +98,18 @@ For more details, visit their [official website](https://www.laserpecker.net/).
 
 LaserPecker has large and friendly user communities on Facebook.
 
-For 1st gen owners, please check out
+For LP1/Pro owners, please check out
 
 * [LaserPecker VIP Group (official)](https://www.facebook.com/groups/laserpecker/)
 * [LaserPecker User Group (unofficial)](https://www.facebook.com/groups/203376080793152/)
 
-For 2nd gen owners, please check out
+For LP3 owners, please check out
 
 * [LaserPecker 2 VIP Group (official)](https://www.facebook.com/groups/374697760505822/)
 * [LaserPecker 2 User Group (unofficial)](https://www.facebook.com/groups/lp2users/)
 
+For LP3 owners, please check out
 
+* [LaserPecker 3 VIP Group (official)](https://www.facebook.com/groups/1450530358736579/)
+* [LaserPecker 3 User Group (unofficial)](https://www.facebook.com/groups/lp3users/)
 
