@@ -29,6 +29,8 @@ For more details, visit their [official website](https://www.laserpecker.net/).
   - [Baking Soda Magic (on wood and fabric)](/laser_engraving.md#baking-soda-magic-on-wood-and-fabric)
   - [Dithering](/laser_engraving.md#dithering)
   - [Glass work (L1/Pro)](/laser_engraving.md#glass-work-l1pro)
+  - [Image Correction Tool for Engraving Conical Objects (LP2 + 3rd Axis)
+](/laser_engraving.md#image-correction-tool-for-engraving-conical-objects-lp2--3rd-axis)
 ## LaserPecker 1
 - [L1 & L1 Pro](/L1_index.md)
   - [The Look](/L1_index.md#the-look)
