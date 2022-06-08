@@ -113,3 +113,27 @@ For LP3 owners, please check out
 * [LaserPecker 3 VIP Group (official)](https://www.facebook.com/groups/1450530358736579/)
 * [LaserPecker 3 User Group (unofficial)](https://www.facebook.com/groups/lp3users/)
 
+
+# Purchase
+
+If you find my user guide useful and wish to purchase an LP, please consider using my Affiliate links below :-)
+
+US$10 SiteWide Coupon Code: `LaserPecker`
+
+LaserPecker official website: https://bit.ly/Laser-Pecker
+
+* L1: https://bit.ly/Laser-Pecker-L1
+
+* L1 Pro Basic: https://bit.ly/L1-Pro-Basic
+* L1 Pro Deluxe: https://bit.ly/L1-Pro-Deluxe
+* L1 Pro Suit: https://bit.ly/L1-Pro-Suit
+* L1 Pro Super: https://bit.ly/L1-Pro-Super
+
+* LP2 Basic: https://bit.ly/LP2-Basic
+* LP2 Pro: https://bit.ly/LP2-Pro
+* LP2 Deluxe: https://bit.ly/LP2-Deluxe
+* LP2 Super: https://bit.ly/LP2-Super
+* LP2 3rd Axis addon: https://bit.ly/LP2-3rd-Axis
+
+* LP2 Accessories set: https://bit.ly/LP2-Accessories
+* LP Power Bank: https://bit.ly/LP-Power-Bank
