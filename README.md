@@ -9,7 +9,7 @@ Please note that my methods and settings are not necessarily the best. I have ne
 
 LaserPecker is brand of affordable and **portable** consumer level laser engravers. So far they have released their first generation laser engravers (L1 and L1 Pro) and their second generation laser engraver (LP2).
 
-For more details, visit their [official website](https://www.laserpecker.net/).
+For more details, visit their [official website](https://bit.ly/Laser-Pecker).
 
 
 # Table of Contents
