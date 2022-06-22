@@ -138,4 +138,4 @@ LaserPecker official website: https://bit.ly/Laser-Pecker
 * LP2 Accessories set: https://bit.ly/LP2-Accessories
 * LP Power Bank: https://bit.ly/LP-Power-Bank
 
-* LP3 Basic: https://bit.ly/LP3-Basic (Note that all LP accessories including the power bank are comaptible with LP3)
+* LP3 Basic: https://bit.ly/LP3-Basic (Note that all LP accessories including the power bank are compatible with LP3)
