@@ -53,18 +53,6 @@ For more details, visit their [official website](https://bit.ly/Laser-Pecker).
   - [3-way compact adaptor for auto-stand](/modifications.md#3-way-compact-adaptor-for-auto-stand)
 ## LaserPecker 2
 - [LP2 Pre-Release Tests](/LP2_pre_release_tests.md)
-  - [LP2](/LP2_pre_release_tests.md#lp2)
-  - [Metal](/LP2_pre_release_tests.md#metal)
-  - [Glass](/LP2_pre_release_tests.md#glass)
-  - [Plastic](/LP2_pre_release_tests.md#plastic)
-  - [3rd Axis](/LP2_pre_release_tests.md#3rd-axis)
-  - [Misc](/LP2_pre_release_tests.md#misc)
-  - [Carbon Fibre](/LP2_pre_release_tests.md#carbon-fibre)
-  - [Cutting](/LP2_pre_release_tests.md#cutting)
-  - [Wood](/LP2_pre_release_tests.md#wood)
-  - [Paper](/LP2_pre_release_tests.md#paper)
-  - [Leather](/LP2_pre_release_tests.md#leather)
-  - [Photosensitive Stamp](/LP2_pre_release_tests.md#photosensitive-stamp)
 - [Know Your LP2](/LP2.md#know-your-lp2)
   - [Turn It On/Off](/LP2.md#turn-it-onoff)
   - [Limitations by Design](/LP2.md#limitations-by-design)
@@ -74,6 +62,7 @@ For more details, visit their [official website](https://bit.ly/Laser-Pecker).
   - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
     - [My engraver won't connect to the app.](/LP2.md#my-engraver-wont-connect-to-the-app)
     - [OMG! My stand moves up and down randomly by itself!](/LP2.md#omg-my-stand-moves-up-and-down-randomly-by-itself)
+    - [My laser if off centre.](/LP2.md#my-laser-is-off-centre)
   - [Factory Calibration](/LP2.md#factory-calibration)
   - [Factory Reset Firmware](/LP2.md#factory-reset-firmware)
   - [Update Firmware](/LP2.md#update-firmware)
@@ -100,7 +89,7 @@ LaserPecker has large and friendly user communities on Facebook.
 
 For LP1/Pro owners, please check out
 
-* [LaserPecker VIP Group (official)](https://www.facebook.com/groups/laserpecker/)
+* [LaserPecker 1 VIP Group (official)](https://www.facebook.com/groups/laserpecker/)
 * [LaserPecker User Group (unofficial)](https://www.facebook.com/groups/203376080793152/)
 
 For LP3 owners, please check out
