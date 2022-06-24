@@ -53,6 +53,13 @@ Don't worry. It's becasue the AC socket you used was not properly earthed/ground
 
 Just use a different AC socket (on the wall, not on the same extenison board).
 
+### My laser is off centre. ###
+
+The preview box and the centre point look off centre especially when you have the orange cone installed as a reference.
+
+This is by design. If you look at the actual underside of the LP2, you will see that the laser window is off centre. 
+So long as the 10x10cm preview square is not hitting the cone, then all is fine.
+
 ## Factory Calibration
 
 ### WARNING
