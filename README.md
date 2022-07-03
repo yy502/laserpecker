@@ -62,7 +62,7 @@ For more details, visit their [official website](https://bit.ly/Laser-Pecker).
   - [Common Issues & Solutions](/LP2.md#common-issues--solutions)
     - [My engraver won't connect to the app.](/LP2.md#my-engraver-wont-connect-to-the-app)
     - [OMG! My stand moves up and down randomly by itself!](/LP2.md#omg-my-stand-moves-up-and-down-randomly-by-itself)
-    - [My laser if off centre.](/LP2.md#my-laser-is-off-centre)
+    - [My laser is off centre.](/LP2.md#my-laser-is-off-centre)
   - [Factory Calibration](/LP2.md#factory-calibration)
   - [Factory Reset Firmware](/LP2.md#factory-reset-firmware)
   - [Update Firmware](/LP2.md#update-firmware)
