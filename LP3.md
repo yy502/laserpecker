@@ -21,8 +21,8 @@ I just mentioned the upgraded stand that comes with the LP3. Let's have a look:
 <img src="images/lp2_vs_lp3_01.jpg" width="48%"> <img src="images/lp2_vs_lp3_02.jpg" width="48%">
 <img src="images/lp2_vs_lp3_03.jpg" width="48%"> <img src="images/lp2_vs_lp3_04.jpg" width="48%">
 <img src="images/lp2_vs_lp3_05.jpg" width="48%"> <img src="images/lp2_vs_lp3_06.jpg" width="48%">
-<img src="images/lp2_vs_lp3_07.jpg" width="48%"> <img src="images/lp2_vs_lp3_08.jpg" width="48%">
-<img src="images/lp2_vs_lp3_09.jpg" width="48%">
+<img src="images/lp2_vs_lp3_09.jpg" width="48%"> <img src="images/lp2_vs_lp3_08.jpg" width="48%">
+<img src="images/lp2_vs_lp3_07.jpg" width="48%">
 
 It's not obvious in the photos, but the new stand is slightly taller, feels much sturdier and it has 2 additional guiding rods built-in to improve stability. I cross tested LP2, LP3 on the old and new stand. In short, although LP3 is much heavier than LP2, the old stand can support it just fine.
 
