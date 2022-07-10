@@ -77,20 +77,23 @@ This option can only be enabled when a 3rd axis is connected to an LP2.
 To use the 3rd axis addon for engraving, you must enable it in app settings and select a desired mode.
 
 ### Engraving Settings and Notations
-* **Resolution (LP2 only)**: 1k, 1.3k or 2k. It means the number of dots or pixels per 100mm. So these settings can translate to 10px/mm (254dpi), 13px/mm (330dpi) or 20px/mm (508dpi).
+* **Resolution**: This is LP's own notation of resolution. It means the number of dots or pixels per 100mm. So the settings below can translate to 10px/mm (254dpi), 13px/mm (330dpi), 20px/mm (508dpi) and 40px/mm (1016dpi).
+  * LP1/Pro: 1k (no other option available)
+  * LP2: 1k, 1.3k, 2k
+  * LP3: 1k, 2k, 4k
 * **Power**: 1% to 100%. Higher power means higher engraving temperature.
 * **Depth**: 1% to 100%. Deeper means slower laser movement.
 * **Pass**: Times of engraving. Sometimes low power multi-pass works better than high power single-pass.
 
 Below are *my own* ways of writing down engraving settings concisely.
 
-For L1/Pro, I write `(100,50)` for Power: `100%`, Depth: `50%`, `1`-pass; `(90,80)x2` for Power: `90%`, Depth: `80%`, `2`-pass. 
+For L1/Pro, I used to write `(100,50)` for Power: `100%`, Depth: `50%`, `1`-pass; `(90,80)x2` for Power: `90%`, Depth: `80%`, `2`-pass. You will see these in my early articles.
 
-For LP2, it's important to note the resolution, too. So I write `(1,100,50,1)` for Resolution: `1k`, Power: `100%`, Depth: `50%`, `1`-pass; `(2,80,20,2)` for Resolution: `2k`, Power: `80%`, Depth: `20%`, `2`-pass; and finally `(G,20,1,5)` for `Gcode` mode (does not have a resolution option, defaults to 2k), Power: `20%`, Depth: `1%`, `5`-pass.
+For LP2/LP3, it's important to note the resolution, too. So I write `(1,100,50,1)` for Resolution: `1k`, Power: `100%`, Depth: `50%`, `1`-pass; `(2,80,20,2)` for Resolution: `2k`, Power: `80%`, Depth: `20%`, `2`-pass; and finally `(G,20,1,5)` for `Gcode` mode (does not have a resolution option), Power: `20%`, Depth: `1%`, `5`-pass.
 
 ### Engraving Modes
 
-There are **5 modes** for image processing:
+There are **5 modes** of image processing:
 
 #### Pencil
 
@@ -116,7 +119,7 @@ Converts your image to grayscale, and therefore to different levels of power set
 
 Don't be disappointed if your result misses half of the details. Think of it this way, imagine all the gray pixels in your image are converted to different power levels according to their brightness, let's say from level 1 to level 10, to achieve 10 levels of brightness of burns, in theory. However, in reality your material does not get burnt up to power level 5; and it gets burnt equally dark from level 9 to 10. So all the pixels that are meant to be burnt with power level 1 to 5 won't show. And all the pixels burnt with power 9 and 10 become indistinguishable. As a result, the 10-level grayscale image becomes 4-level only (level 6, 7, 8, 9+10). This is a common challenge in laser engraving. And the solution is to dither your image (i.e. to use different densities of black & white pixes to emulate grayscale) and use Bin mode to engrave it. See [Dithering](/laser_engraving.md#dithering) for more details.
 
-**[Dec/2021 update]:** From Android app v3.73 (iOS app version unknown), LP has listened to the community and added built-in dithering feature **for LP2**, which is amazing! (It does not work well with L1/L1 Pro, so this feature is not available to the 1st gen models.) Please also make sure you update LP2's firmware to v3.0.9 or higher, which contains an improvement that _significantly_ speeds up Gray mode engraving.
+**[Dec/2021 update]:** From Android app v3.73 (iOS app version unknown), LP has listened to the community and added built-in dithering feature **for LP2 and LP3**, which is amazing! (It does not work well with L1/L1 Pro, so this feature is not available to the 1st gen models.) Please also make sure you update LP2's firmware to v3.0.9 or higher, which is required for the new dithering option to appear, and this firmware also contains an improvement that _significantly_ speeds up Gray mode engraving.
 
 #### Seal
 
@@ -127,6 +130,7 @@ The Creation mode is being actively developed. It now supports custom fonts. Not
 
 ### Adding Custom Fonts
 
+#### Android
 Download your `.ttf` font files from the Internet to your phone. Make sure they are not zip/compressed files.
 
 Launch LaserPecker app, go to **Creation** > **More Fonts** and click on the **+** on the top to select and add fonts. The font files will be copied into LP app. So if you uninstall your LP app, your fonts are gone. Personally I suggest you keep a copy of your font files in your phone, outside the LP app as a backup.
@@ -134,3 +138,6 @@ Launch LaserPecker app, go to **Creation** > **More Fonts** and click on the **+
 <img src="images/f01.jpg" height="600px"> <img src="images/f03.jpg" height="600px">
 
 To delete a custom font from LP app, tap and hold on the font to be deleted in **More Fonts**, and then confirm deletion in the pop up.
+
+#### iOS
+I don't use iPhone or iPad, so I don't have 1st hand information on this. So far I have seen users talking about installing fonts to iOS system level, and then the fonts will be available when you create free texts. Alternatively, you can use 3rd party keyboard apps that support custom fonts. 
