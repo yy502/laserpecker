@@ -33,10 +33,12 @@ It's not obvious in the photos, but the new stand is slightly taller, feels much
 | LP3 stand |Up|165-175mA | 180-190mA |
 |           |Down|140-150mA|140-150mA|
 
+
 ## Turn It On/Off
 
 The LP3 can be turned off without unplugging the power cord by holding the "Play" button on its top for 3s.
 To turn it back on, tap the same button once. If this did not work for you, make sure your LP2's firmware is up-to-date.
+
 
 ## What is A Field Lens?
 
@@ -47,3 +49,34 @@ Below is a demo of *single line* engraving using Gcode. Note that the width of t
 
 <img src="images/lp3_single_line.jpg" width="80%">
 
+
+## Finding the Optimal Engraving Distance
+
+Although the manual suggests that the engraving surface should be *115mm* away from the button edge of the lens, my LP3 *test unit* was not calibrated to this. Yours may well be better calibrated, but it's still worth doing a few quick tests at slightly different heights/distances just to double check, and also get to know the tolerance of engraving distances/heights in case you wish to engrave something that's not perfectly flat.
+
+## The Slope Test
+
+Below is my "slope test" to find out the vertical engraving range using a sheet of SS. During preview, I used a marker to trace the engraving area, and used a ruler to measure the closest (107mm) and furthest (116mm) distancs. Finally, I just engraved a random image in Bin mode using the default setting for SS. In my case, the optimal engraving distance is 112mm ±1mm.
+
+<img src="images/lp3_slope_test_01.jpg" width="60%"> <img src="images/lp3_slope_test_02.jpg" width="35%">
+<img src="images/lp3_slope_test_03.jpg" width="48%">
+
+Read below for next steps.
+
+## Assist Red Lasers
+### What they are
+There are 3 assist red lasers in total. All of them are low power red lasers as visual aids. Just like a red laser pointer.
+
+One only lights up when the LP3 is previewing or engraving. This one is aligned with the 1064nm invisible laser beam, purely to show where it is engraving.
+
+Two of them will light up during preview, and can be manually turned on in app mode settings. They are for helping to adjust the height of your engraver without using a ruler. (still editing...)
+
+
+lp3_assist_red_lasers.jpg
+
+### How to adjust
+
+
+Once you find the optimal distance for yours, it's time to adjust the angles of the two assist red lasers using a suitable Allen key from the bottom of the LP3. You simply adjust your LP3 to the desired height, turn on the assist red lasers via app settings or just preview a job, and then turn the screws next to the red lasers alternately till the two red dots overlap. Don't force it, or you might break it.
+
+lp3_assist_red_lasers.jpg
