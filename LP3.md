@@ -40,5 +40,10 @@ To turn it back on, tap the same button once. If this did not work for you, make
 
 ## What is A Field Lens?
 
-In short, it helps laser to focus on a flat engraving surface uniformly, despite it is projected from a sing static point.
-Otherwise, the laser is only well focused in the centre area, and becomes out of focus as it moves away.
+In short, it is expensive and helps laser to focus on a flat engraving surface uniformly, despite it is projected from a sing static point.
+Otherwise, the laser is only well focused in the centre area, and becomes out of focus as it moves away. The LP2 lacks such a field lens and therefore does not engrave as well where it is close to the edges and corners of the 100x100mm engraving area.
+
+Below is a demo of *single line* engraving using Gcode. Note that the width of the line is uniform acoss the entire 90mm width.
+
+<img src="images/lp3_single_line.jpg" width="80%">
+
