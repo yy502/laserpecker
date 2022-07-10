@@ -65,18 +65,25 @@ Read below for next steps.
 
 ## Assist Red Lasers
 ### What they are
-There are 3 assist red lasers in total. All of them are low power red lasers as visual aids. Just like a red laser pointer.
+There are 3 assist red lasers in total. All of them are low power red lasers as visual aids. Just like red laser pointers.
 
-One only lights up when the LP3 is previewing or engraving. This one is aligned with the 1064nm invisible laser beam, purely to show where it is engraving.
+One is internal. It only lights up when the LP3 is previewing or engraving. This one is aligned with the 1064nm invisible laser beam, purely to show where it is engraving.
 
-Two of them will light up during preview, and can be manually turned on in app mode settings. They are for helping to adjust the height of your engraver without using a ruler. (still editing...)
+<img src="images/lp3_assist_red_lasers2.jpg" width="50%">
 
+Two of them can be seen at the buttom of the LP3. They will light up during preview, and can be manually turned on in app mode settings (`Red light stay`). They are to visually helping adjust the height of your engraver without using a ruler, provided the height they overlap at is the optimal height for engraving.
 
-lp3_assist_red_lasers.jpg
+<img src="images/lp3_assist_red_lasers1.jpg" width="50%">
 
-### How to adjust
+### Adjustment
 
+If you found the optimal engraving height/distance for yours differs from what the red lasers indicate, the angle of the two red lasers can be adjusted using a suitable Allen key from the bottom of the LP3.
 
-Once you find the optimal distance for yours, it's time to adjust the angles of the two assist red lasers using a suitable Allen key from the bottom of the LP3. You simply adjust your LP3 to the desired height, turn on the assist red lasers via app settings or just preview a job, and then turn the screws next to the red lasers alternately till the two red dots overlap. Don't force it, or you might break it.
+Steps:
 
-lp3_assist_red_lasers.jpg
+1. Position your LP3 to the desired height.
+2. Trn on the assist red lasers via app settings or just preview an engraving.
+3. Turn the two screws **slowly and alternately** till the two red laser dots overlap on the engraving surface. Don't force it, or you might break it.
+
+<img src="images/lp3_assist_red_lasers.jpg" width="50%">
+
