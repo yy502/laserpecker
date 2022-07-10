@@ -79,13 +79,15 @@ For more details, visit their [official website](https://bit.ly/Laser-Pecker).
   - [Power Bank Holder](/modifications.md#power-bank-holder)
 - [LaserPecker 2 Engraving Time Estimator](http://laserpecker.ddns.net/)
 ## LaserPecker 3
-- [Know Your LP3](#know-your-lp3)
-  - [LP2 vs LP3 (including the upgraded stand)](/LP3.md##lp2-vs-lp3-including-the-upgraded-stand)
-  - [Turn It On/Off](/LP3.md##turn-it-onoff)
-  - [What is A Field Lens?](/LP3.md##what-is-a-field-lens)
-  - [Finding the Optimal Engraving Distance](/LP3.md##finding-the-optimal-engraving-distance)
-  - [The Slope Test](/LP3.md##the-slope-test)
-  - [Assist Red Lasers](/LP3.md##assist-red-lasers)
+- [Know Your LP3](/LP3.md#know-your-lp3)
+  - [LP2 vs LP3 (including the upgraded stand)](/LP3.md#lp2-vs-lp3-including-the-upgraded-stand)
+  - [Turn It On/Off](/LP3.md#turn-it-onoff)
+  - [What is A Field Lens?](/LP3.md#what-is-a-field-lens)
+  - [Finding the Optimal Engraving Distance](/LP3.md#finding-the-optimal-engraving-distance)
+    - [The Slope Test](/LP3.md#the-slope-test)
+  - [Assist Red Lasers](/LP3.md#assist-red-lasers)
+    - [What they are](/LP3.md#what-they-are)
+    - [Adjustment](/LP3.md#adjustment)
 
 
 # Online User Communities
