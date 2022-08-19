@@ -77,13 +77,14 @@ Two of them can be seen at the buttom of the LP3. They will light up during prev
 
 ### Adjustment
 
-If you found the optimal engraving height/distance for yours differs from what the red lasers indicate, the angle of the two red lasers can be adjusted using a suitable Allen key from the bottom of the LP3.
+~If you found the optimal engraving height/distance for yours differs from what the red lasers indicate, the angle of the two red lasers can be adjusted using a suitable Allen key from the bottom of the LP3.~
 
-Steps:
+~Steps:~
 
-1. Position your LP3 to the desired height.
-2. Trn on the assist red lasers via app settings or just preview an engraving.
-3. Turn the two screws **slowly and alternately** till the two red laser dots overlap on the engraving surface. Don't force it, or you might break it.
+~1. Position your LP3 to the desired height.～
+～2. Trn on the assist red lasers via app settings or just preview an engraving.～
+～3. Turn the two screws **slowly and alternately** till the two red laser dots overlap on the engraving surface. Don't force it, or you might break it.~
 
 <img src="images/lp3_assist_red_lasers.jpg" width="50%">
 
+**UPDATE (19/Aug/2022)**: LP now uses some glue to seal the screws to prevent users from adjusting them, and therefore breaking the assist lasers accidentally. So please don't try to adjust them!
