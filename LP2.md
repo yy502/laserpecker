@@ -41,6 +41,11 @@ Again, you may want to do some tests to check the engraving quality at slightly 
 
 ## Common Issues & Solutions
 
+### My engraving is uneven.
+
+Try to adjust the distance between the engraver and your object according to the illustration below.
+<img src="images/LP2_distance.png" width="50%">
+
 ### My engraver won't connect to the app.
 
 If your engraver has a flshing blue light, it's standing by for connection. If you use an Android phone, enable GPS so the app can search nearby Bluetooth devices.
