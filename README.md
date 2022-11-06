@@ -116,22 +116,4 @@ If you find my user guide useful and wish to purchase an LP, please consider usi
 
 US$20 SiteWide Coupon Code on orders over $100: `LaserPecker`
 
-LaserPecker official website: https://bit.ly/Laser-Pecker
-
-* L1: https://bit.ly/Laser-Pecker-L1
-
-* L1 Pro Basic: https://bit.ly/L1-Pro-Basic
-* L1 Pro Deluxe: https://bit.ly/L1-Pro-Deluxe
-* L1 Pro Suit: https://bit.ly/L1-Pro-Suit
-* L1 Pro Super: https://bit.ly/L1-Pro-Super
-
-* LP2 Basic: https://bit.ly/LP2-Basic
-* LP2 Pro: https://bit.ly/LP2-Pro
-* LP2 Deluxe: https://bit.ly/LP2-Deluxe
-* LP2 Super: https://bit.ly/LP2-Super
-* LP2 3rd Axis addon: https://bit.ly/LP2-3rd-Axis
-
-* LP2 Accessories set: https://bit.ly/LP2-Accessories
-* LP Power Bank: https://bit.ly/LP-Power-Bank
-
-* LP3 Basic: https://bit.ly/LP3-Basic (Note that all LP2 accessories including the power bank are compatible with LP3)
+LaserPecker official website: https://tinyurl.com/LaserPecker
