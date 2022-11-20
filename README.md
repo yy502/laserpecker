@@ -77,7 +77,7 @@ For more details, visit their [official website](https://bit.ly/Laser-Pecker).
   - [Vent Deflector](/modifications.md#vent-deflector)
   - [3rd Axis Supports](/modifications.md#3rd-axis-supports)
   - [Power Bank Holder](/modifications.md#power-bank-holder)
-- [LaserPecker 2 Engraving Time Estimator](http://laserpecker.ddns.net/)
+- [LaserPecker 2 Engraving Time Estimator](http://laserpecker.systemd.one/)
 ## LaserPecker 3
 - [Know Your LP3](/LP3.md#know-your-lp3)
   - [LP2 vs LP3 (including the upgraded stand)](/LP3.md#lp2-vs-lp3-including-the-upgraded-stand)
