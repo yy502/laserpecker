@@ -92,33 +92,11 @@ For more details, visit their [official website](https://bit.ly/Laser-Pecker).
 
 # Online User Communities
 
-LaserPecker has large and friendly user communities on Facebook.
-
-For LP1/Pro owners, please check out
-
-* [LaserPecker 1 VIP Group (official)](https://www.facebook.com/groups/laserpecker/)
-* [LaserPecker User Group (unofficial)](https://www.facebook.com/groups/203376080793152/)
-
-For LP2 owners, please check out
-
-* [LaserPecker 2 VIP Group (official)](https://www.facebook.com/groups/374697760505822/)
-* [LaserPecker 2 User Group (unofficial)](https://www.facebook.com/groups/lp2users/)
-
-For LP3 owners, please check out
-
-* [LaserPecker 3 VIP Group (official)](https://www.facebook.com/groups/1450530358736579/)
-* [LaserPecker 3 User Group (unofficial)](https://www.facebook.com/groups/lp3users/)
-
-For LP4 owners, please check out
-
-* [LaserPecker 4 Official Group](https://www.facebook.com/groups/laserpecker4/)
-* [LaserPecker 4 User Group (unofficial)](https://www.facebook.com/groups/lp4users/)
+moved to https://lp.systemd.one/
 
 
 # Purchase
 
-If you find my user guide useful and wish to purchase an LP, please consider using my affiliate links below :-)
-
-US$20 SiteWide Coupon Code on orders over $100: `LaserPecker`
+If you find my user guide useful and wish to purchase an LP, please consider using my affiliate link below :-)
 
 LaserPecker official website: https://tinyurl.com/LaserPecker
