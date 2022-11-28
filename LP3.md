@@ -7,8 +7,7 @@ moved to https://lp.systemd.one/?p=290
 
 ## Turn It On/Off
 
-The LP3 can be turned off without unplugging the power cord by holding the "Play" button on its top for 3s.
-To turn it back on, tap the same button once. If this did not work for you, make sure your LP2's firmware is up-to-date.
+moved to https://lp.systemd.one/?p=304
 
 
 ## What is A Field Lens?
