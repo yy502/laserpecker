@@ -25,17 +25,7 @@ moved to https://lp.systemd.one/?p=421
 
 ## Vent Deflector
 
-This is needed only when you engrave very light material, such as embossing powder, or cutting thin paper, so that the airflow from the vent holes does not blow yuor material away during engraving.
-
-### Part
-* 3D printed [vent deflector (stl file)](/misc/LP2_vent_deflector.stl)
-    * no support needed
-    * 15%+ infill, 0.1-0.2mm layer height
-
-### Usage
-You may keep it on the engraver and slide it to the desired position as needed.
-
-<img src="images/mod47.jpg" height="280px"> <img src="images/mod48.jpg" height="280px">
+moved to https://lp.systemd.one/?p=426
 
 
 ## 3rd Axis Supports
