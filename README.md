@@ -1,3 +1,5 @@
+# this guide is being migrated to https://lp.systemd.one/
+
 # Unofficial Guide to LaserPecker Laser Engravers
 
 I am a happy owner of LaserPecker L1, L1 Pro, LP2 and LP3. Here I document some of my experience of using them. I may refer to L1 Pro as Pro for short in the rest of the articles.
