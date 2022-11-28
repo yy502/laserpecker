@@ -17,16 +17,7 @@ moved to https://lp.systemd.one/?p=306
 
 ## Finding the Optimal Engraving Distance
 
-Although the manual suggests that the engraving surface should be *115mm* away from the button edge of the lens, my LP3 *test unit* was not calibrated to this. Yours may well be better calibrated, but it's still worth doing a few quick tests at slightly different heights/distances just to double check, and also get to know the tolerance of engraving distances/heights in case you wish to engrave something that's not perfectly flat.
-
-### The Slope Test
-
-Below is my "slope test" to find out the vertical engraving range using a sheet of SS. During preview, I used a marker to trace the engraving area, and used a ruler to measure the closest (107mm) and furthest (116mm) distancs. Finally, I just engraved a random image in Bin mode using the default setting for SS. In my case, the optimal engraving distance is 112mm ±1mm.
-
-<img src="images/lp3_slope_test_01.jpg" width="60%"> <img src="images/lp3_slope_test_02.jpg" width="35%">
-<img src="images/lp3_slope_test_03.jpg" width="48%">
-
-Read below for next steps.
+moved to https://lp.systemd.one/?p=309
 
 ## Assist Red Lasers
 ### What they are
