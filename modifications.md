@@ -14,38 +14,7 @@
 
 # Mods for L1/L1 Pro
 
-## Laser Guide Add-On to Assist Alignment
-
-### Parts
-* 9mm or 12mm diameter cross laser head, 3V or 5V
-* some blue tac to keep the laser head in the holder and keep it adjustable
-* power source:
-    * 2x AA or AAA batteries with holder for 3V laser head, or
-    * a USB cable for 5V laser head
-* optional: a DC switch
-* 3D printed bracket:
-    * [bracket stl file](/misc/L1Pro_laser_head_bracket.stl)
-    * 20% infill, 0.2mm layer height, no support needed
-
-### Assembly
-
-Connect the laser head to the power source directly or via a switch for easy operation. If you use 5V version, you will need a multi-port USB power adapter or a 2nd power adapter to power the laser head.
-
-This is how I attached everything to my Pro, with a self-locking push switch on top of the battery pack.
-
-<img src="images/mod30.jpg" height="200px"><img src="images/mod31.jpg" height="200px"><img src="images/mod32.jpg" height="200px"><img src="images/mod33.jpg" height="200px"><img src="images/mod34.jpg" height="200px">
-
-### Usage
-
-You should do the follow for the initial calibration:
-
-1. Place the engraver 20cm above a piece of non-white paper or cardboard
-2. Engrave a perfect 10cm by 10cm cross using this [gcode file](/misc/cross.txt)
-3. Turn on your cross laser, align the cross with the engraved cross. This is why the laser is attached to the adapter (or directly to the engraver body) with blue tac.
-4. Done.
-
-Provided there's enough blue tac to hold the laser head in place, the next time you turn on your engraver and the laser head, you only need to double check the engraver's laser origin (app > laser adjustment > turn on laser) is spot on the center of the cross laser. If it's off, it won't be much. Just slightly move the laser head a bit. You don't need to engrave the calibration cross every time you use it.
-
+moved to https://lp.systemd.one/?p=384
 
 ## Flip Adaptor for Auto-Stand
 
