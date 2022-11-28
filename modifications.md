@@ -18,61 +18,16 @@ moved to https://lp.systemd.one/?p=384
 
 ## Flip Adaptor for Auto-Stand
 
-This allows you to view the target engraving from a more natural direction compared to the inverted way by the original design. It also resolves some restrictions on object placement due to the neck of the stand being in the way.
-
-### Part
-
-* 3D printed [flip adapter (stl file)](/misc/L1Pro_auto_stand_flip_adaptor.stl)
-    * 20% infill, 0.2mm layer height
-
-### Usage
-
-Place the 3D printed flip adapter in the engraver's socket in the auto-stand, then put the engraver in the adapter as below:
-
-<img src="images/mod35.jpg" height="250px"><img src="images/mod36.jpg" height="250px"><img src="images/mod37.jpg" height="250px"><img src="images/mod38.jpg" height="250px">
+moved to https://lp.systemd.one/?p=408
 
 
 ## 4-Way Placement Extension for Auto-Stand
-
-Let's take the flip adapter above to the next level, and make a 4-way extension for the auto-stand. It moves the engraver slightly further away from the pillar of the stand, allows the user to freely position large objects under the engraver as needed.
-
-### Part
-
-* 3D printed [4-way extension (stl file)](/misc/L1Pro_auto_stand_extension.stl)
-    * flip the model to reduce need for support
-    * 20% infill, 0.2mm layer height
-
-### Usage
-
-Click to watch demo:
-
-[![](https://img.youtube.com/vi/LHewuDs2KtI/0.jpg)](https://www.youtube.com/watch?v=LHewuDs2KtI)
-
-<img src="images/mod39.jpg" height="300px"><img src="images/mod40.jpg" height="300px"><img src="images/mod41.jpg" height="300px">
+moved to https://lp.systemd.one/?p=410
 
 
 ## 3-Way Compact Adaptor for Auto-Stand
 
-This is my 3rd design of adaptors to improve the usability of LaserPecker's Auto Stand.
-
-Although the laser window in the engraver seems a slim, long shape, with careful placements, the engraver can be rotated 90 degrees and still produce the full 100*100mm engraving range through the slim hole in the auto stand.
-
-Although this one does not move the engraver further away from the pillar of the auto stand, by allowing the engraver to face 3 different ways, you can actually avoid the pillar and engrave on most large objects.
-
-### Part
-
-* 3D printed [3-way adaptor (stl file)](/misc/L1Pro_auto_stand_3-way_adaptor.stl)
-    * need support, either side up is fine
-    * 15% infill, 0.2mm layer height
-    * only takes about 4.2m of filament and 1h15min to print
-
-### Usage
-
-Click to watch demo:
-
-[![](https://img.youtube.com/vi/M8BzCmOQJhY/0.jpg)](https://www.youtube.com/watch?v=M8BzCmOQJhY)
-
-<img src="images/mod42.png" height="300px"><img src="images/mod43.jpg" height="300px">
+moved to https://lp.systemd.one/?p=417
 
 # Mods for LP2
 
