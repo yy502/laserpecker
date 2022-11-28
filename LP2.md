@@ -2,18 +2,10 @@
 
 ## Turn It On/Off
 
-The LP2 can be turned off without unplugging the power cord by pressing the "Play" button on its top for 3s. To turn it back on, tap the same button once. If this did not work for you, make sure your LP2's firmware is up-to-date.
+moved to https://lp.systemd.one/?p=304
 
 ## Limitations by Design
-Since the laser source is static on the engraver, it will project to a very small central area at approximately 90 degrees with the best focus spot (0.05mm).
-As the laser moves to the edges and corners of the max engraving area (100mm x 100mm), the projection angle reduces and the laser spot become an oval, which
-means the focused power will be weaker and the engraving quality degrades. See [Test #29: Faded Corners at Max Size](https://www.facebook.com/groups/374697760505822/permalink/444594843516113/)
-and [Test #44: Dealing with Faded Corners](https://www.facebook.com/groups/374697760505822/permalink/452307826078148/).
-
-Another side effect is that when cutting large thick material, the bottom layer will be larger than the top layer. I've done some maths below to show what the
-differences are at the edge and corner with 3mm and 5mm thick material. 
-
-<img src="images/LP2_laser_projection.png" height="900px">
+moved to https://lp.systemd.one/?p=352
 
 
 ## Engraving Distance
