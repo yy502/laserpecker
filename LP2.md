@@ -14,29 +14,7 @@ moved to https://lp.systemd.one/?p=355
 
 ## Common Issues & Solutions
 
-### My engraving is uneven.
-
-Try to adjust the distance between the engraver and your object according to the illustration below.
-<img src="images/LP2_distance.png" width="50%">
-
-### My engraver won't connect to the app.
-
-If your engraver has a flshing blue light, it's standing by for connection. If you use an Android phone, enable GPS so the app can search nearby Bluetooth devices.
-
-If your engraver has a flashing green or yellow light after powering on, it's faulty. Contact the seller to arrange a replacement.
-
-### OMG! My stand moves up and down randomly by itself!
-
-Don't worry. It's becasue the AC socket you used was not properly earthed/grounded, so there were some interferences that caused this.
-
-Just use a different AC socket (on the wall, not on the same extenison board).
-
-### My laser is off centre. ###
-
-The preview box and the centre point look off centre especially when you have the orange cone installed as a reference.
-
-This is by design. If you look at the actual underside of the LP2, you will see that the laser window is off centre. 
-So long as the 10x10cm preview square is not hitting the cone, then all is fine.
+moved to https://lp.systemd.one/?p=359
 
 ## Factory Calibration
 
