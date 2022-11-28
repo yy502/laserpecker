@@ -31,30 +31,9 @@ moved to https://lp.systemd.one/?p=417
 
 # Mods for LP2
 
-## Engraving Distance Probe
+moved to https://lp.systemd.one/?p=419
 
-This is a 3D printed probe to measure exactly 110mm from the bottom of the LP2 to the engraving surface. It is flexible by design so that it will not damage itself or your object when the engravers moves too close to the object.
-
-### Part
-
-* 3D printed [110m probe (stl file)](/misc/LP2_110mm_probe.stl)
-    * no support needed
-    * 15%+ infill, 0.2mm- layer height
-    * After printing, carefully separate the `/` design with a shape knife so that the end of the probe can retract when pressed.
-
-### Usage
-
-Push the end stopper to the bottom of the LP2, and lower the engraver till the tip of the probe touches the engraving surface without retraction.
-
-The probe snaps onto the handle for easy storage.
-
-Click to watch demo:
-
-[![](https://img.youtube.com/vi/iBxrqzMDpsU/0.jpg)](https://www.youtube.com/watch?v=iBxrqzMDpsU)
-
-<img src="images/mod44.jpg" height="220px"> <img src="images/mod45.jpg" height="220px"> <img src="images/mod46.png" height="220px">
-
-## Double Distance Probes
+## Double Distance Probe
 
 Compared to the single prove, this one offers: (1) hand-free measurement; (2) ensures the engraver is parallel to a large surface/object when tilted (see the last image in the video demo). Mind that this one is a bit difficult to print and clean up.
 
