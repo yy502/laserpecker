@@ -6,17 +6,7 @@ moved to https://lp.systemd.one/?p=463
 
 ## Power Consumption & Heat Dissipation
 
-|State|Current (mA)|
-| ------ | ------ |
-| Standby | 60 |
-| Laser On (Adjustment) | 70 |
-| Preview (marking engraving area outline) |215|
-| Engraving | Up to 715|
-
-My Pro does not run very hot. After 2 hours of continues engraving at 100% power, the engraver body was about 33°C, while the ambient temperature was 24°C. Interestingly, the fan in the stand was hotter than the engraver, at about 37°C.
-
-<img src="images/temp01.jpg"><img src="images/temp02.jpg"><img src="images/temp03.jpg">
-
+moved to https://lp.systemd.one/?p=475
 
 ## Speed & Configuration
 
