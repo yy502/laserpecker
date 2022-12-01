@@ -10,9 +10,7 @@ moved to https://lp.systemd.one/?p=475
 
 ## Speed & Configuration
 
-I have to say, having played with L1 before Pro, I find Pro is much slower than L1. Particularly over depth 100. So, Pro users, avoid depth 100 if you can.
-
-I guess it's because L1's laser is more powerful, so it requires less time for the same depth.
+moved to https://lp.systemd.one/?p=491
 
 ## Precision Test
 
