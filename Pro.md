@@ -1,27 +1,7 @@
 # All About L1 Pro
 
 ## Unpacking Pro Deluxe Edition
-**What came in the Deluxe Edition**:
-* L1 Pro laser engraver
-* USB power adapter (5V2A, US/CN plug)
-* Engraving material pack
-* A 20cm ruler (for measuring the optimal distance for engraver placement)
-* A black whiteboard marker
-* A cutting mat
-* USB Cables (1 long, 1 short)
-* A small foldable tripod
-* Automatic stand
-* A pair of protective goggles (filters harmful laser light)
-* 4 pieces of magnetic protective shields (filters harmful laser light)
-* A hard carry case
-
-<img src="images/up01.jpg" height="200px"><img src="images/up02.jpg" height="200px"><img src="images/up03.jpg" height="200px">
-
-<img src="images/up04.jpg" height="200px"><img src="images/up05.jpg" height="200px">
-
-<img src="images/up06.jpg" height="200px"><img src="images/up07.jpg" height="200px"><img src="images/up08.jpg" height="200px">
-
-<img src="images/up09.jpg" height="200px"><img src="images/up10.jpg" height="200px">
+moved to https://lp.systemd.one/?p=463
 
 
 ## Power Consumption & Heat Dissipation
