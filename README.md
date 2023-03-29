@@ -101,4 +101,30 @@ moved to https://lp.systemd.one/
 
 If you find my user guide useful and wish to purchase an LP, please consider using my affiliate link below :-)
 
-LaserPecker official website: https://tinyurl.com/LaserPecker
+LaserPecker official website: https://www.laserpecker.net/?ref=yi
+
+LaserPecker 1: https://www.laserpecker.net/products/l1-the-most-useful-mini-handheld-laser-engraver?ref=yi
+
+LaserPecker 1 Pro: https://www.laserpecker.net/collections/laserpecker-pro?ref=yi
+
+LaserPecker 2: https://www.laserpecker.net/collections/laserpecker-2?ref=yi
+
+LaserPecker 3: https://www.laserpecker.net/collections/laserpecker-3?ref=yi
+
+LaserPecker 4: https://www.laserpecker.net/collections/laserpecker-4?ref=yi
+
+LaserPecker X1: https://www.laserpecker.net/products/laserpecker-lx1?ref=yi
+
+LaserPecker X1 Max: https://www.laserpecker.net/products/laserpecker-lx1-max?ref=yi
+
+LaserPecker 1Assesories: https://www.laserpecker.net/collections/laserpecker1set?ref=yi
+
+LaserPecker 1 Pro Accessories: https://www.laserpecker.net/collections/laserpecker-pro-set?ref=yi
+
+LaserPecker 2 Accessories: https://www.laserpecker.net/collections/laserpecker-2-accesories-set?ref=yi
+
+LaserPecker 3 Accessories: https://www.laserpecker.net/collections/laserpecker-3-set?ref=yi
+
+LaserPecker 4 Accessories: https://www.laserpecker.net/collections/laserpecker-4-set?ref=yi
+
+LX Accessories: https://www.laserpecker.net/collections/lx-accessories?ref=yi
