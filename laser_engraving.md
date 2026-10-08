@@ -28,6 +28,8 @@ The reason why it's so important to resize the image and stick with the output s
 
 A popular free & powerful browser-based tool is [imag-r.com](imag-r.com). You simply upload your image, resize it (there's a reason why the tool wants you to resize the image as step-1, see above!), and select a suitable profile to dither it. Finally downlaod the dithered image and send to LP App for engraving. I recommand you write the resolution and output size in mm in the file name if you want to reuse the dithered images.
 
+A separate browser option is [RasterGo](https://rastergo.com/guides/laser-engraving-image-size/): free single-image preparation and export of a sized, dithered PNG, with image processing on the visitor's device. Its guide includes a downloadable synthetic test image and explains physical size, pixels, and DPI. Use the resolution required by your engraver, verify the imported dimensions, and test on scrap material; the digital preview is not a calibrated machine preset or proof of a physical engraving. Batch ZIP export is an optional paid feature.
+
 Another tool is the built-in **Newsprint** filter of [GIMP](https://www.gimp.org/). Try different patterns (lines, dots, dimands, etc.), angle and sampling settings. Again, you need to resize your image first. Here's an example of a dog engraved on a Post-It note in Bin mode (ignore the gaps in the engraving, I accidentaly moved the paper during engraving):
 
 <img src="images/np01.jpg" height="600px"><img src="images/np04.jpg" height="600px">
